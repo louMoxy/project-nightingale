@@ -1,5 +1,4 @@
 +++
-date = ""
 layout = "blocks"
 title = "page1"
 [[page_sections]]

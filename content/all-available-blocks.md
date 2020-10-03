@@ -1,5 +1,4 @@
 +++
-date = "2018-06-28T17:17:55+00:00"
 draft = true
 layout = "blocks"
 title = "All Available Blocks."

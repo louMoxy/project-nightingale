@@ -10,9 +10,6 @@ fields:
   label: Layout
   hidden: true
   default: blocks
-- type: datetime
-  name: date
-  label: Date
 - type: blocks
   name: page_sections
   label: Page Sections
