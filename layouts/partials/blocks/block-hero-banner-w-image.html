@@ -1,12 +1,20 @@
 <section class="block block-hero-2"
 {{- if .Section.background_image -}}
-style="background-image: url('{{ .Section.background_image | relURL }}')"
+style="background: url('{{ .Section.background_image | relURL }}') no-repeat center; background-size: cover;"
 {{- end -}}>
   <div class="container has-text-centered">
-    <h1>{{ safeHTML .Section.headline }}</h1>
-    <p>{{ safeHTML .Section.content }}</p>
+    <h1 {{- if .Section.headerTextColor -}}
+        style="color: {{ .Section.headerTextColor }}"
+        {{- end -}}
+    >
+      {{ safeHTML .Section.headline }}</h1>
+    <p class="is-size-4 mt-4"
+       {{- if .Section.headerTextColor -}} style="color: {{ .Section.contentTextColor }}" {{- end -}}
+    >{{ safeHTML .Section.content }}</p>
   </div>
   {{- if (and (isset .Section "cta") (eq .Section.cta.enabled true)) -}}
-    <a {{ if (eq .Section.cta.open_in_new_tab true) }}target="_blank" {{ end }}class="button primary inverted"{{ if (eq .open_in_new_tab true) }}target="_blank" {{ end }} href="{{ .Section.cta.link_url }}">{{ .Section.cta.link_text }}</a>
+    <a {{ if (eq .Section.cta.open_in_new_tab true) }}target="_blank" {{ end }} class="button is-primary"{{ if (eq .open_in_new_tab true) }}target="_blank" {{ end }} href="{{ .Section.cta.link_url }}">
+      {{ .Section.cta.link_text }}
+    </a>
   {{- end -}}
 </section>

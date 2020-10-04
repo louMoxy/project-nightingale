@@ -5,7 +5,6 @@ page_sections:
 - template: text-only-hero-banner
   block: text-only-hero-banner
   heading: "<strong>Text only hero banner!</strong>"
-  backgroundColor: red
 - template: hero-banner-w-image
   block: hero-banner-w-image
   background_image: "/uploads/logo-516c18ef04e0eead60f85595d9f8b56a.png"

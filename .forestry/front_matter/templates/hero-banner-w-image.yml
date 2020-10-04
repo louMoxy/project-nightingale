@@ -27,6 +27,11 @@ fields:
     wysiwyg: true
     schema:
       format: html
+- type: color
+  label: Header Text Color
+  name: headerTextColor
+  config:
+    color_format: Hex
 - type: textarea
   name: content
   label: Content
@@ -34,6 +39,11 @@ fields:
     wysiwyg: true
     schema:
       format: html
+- type: color
+  label: Content Text Color
+  name: contentTextColor
+  config:
+    color_format: Hex
 - type: field_group
   name: cta
   label: Call-to-action

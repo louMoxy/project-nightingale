@@ -17,7 +17,6 @@ fields:
   description: This text will be centered
 - type: color
   label: Background Color
-  name:
+  name: backgroundColor
   config:
-    color_format:
-    - Hex|RGB
+    color_format: Hex
