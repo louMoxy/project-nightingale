@@ -46,5 +46,9 @@ page_sections:
     image: "/uploads/logo-516c18ef04e0eead60f85595d9f8b56a.png"
   image_2:
     image: "/uploads/logo-516c18ef04e0eead60f85595d9f8b56a.png"
+- template: signup-bar
+  block: cta-bar
+  content: Sign up
+  email_recipient: louisemoxy@gmail.com
 
 ---
