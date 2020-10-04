@@ -2,6 +2,11 @@
 label: embed-youtube
 hide_body: false
 fields:
+- type: text
+  hidden: true
+  label: block
+  name: block
+  default: embed-youtube
 - name: url
   label: Youtube URL
   type: text
