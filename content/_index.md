@@ -16,6 +16,8 @@ page_sections:
     link_text: CTA
     enabled: true
     link_url: "/"
+  headerTextColor: "#C92727"
+  contentTextColor: "#DF0B2A"
 - template: detail-content
   block: text-1
   headline: Detail Content - Headline
