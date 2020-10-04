@@ -16,4 +16,6 @@ fields:
   name: heading
 - type: color
   label: "Background Color"
-  name: backgroundColor
+  name:
+  config:
+    color_format: [Hex|RGB]
