@@ -33,5 +33,11 @@ page_sections:
   width: 600
   url: https://youtu.be/WO_geRRTZgA
   size: '600'
+- template: 1-column-text
+  block: one-column-1
+  alignment: centered
+  has_padding: true
+  headline: How does it work?
+  textColor: "#DA2ED1"
 
 ---
