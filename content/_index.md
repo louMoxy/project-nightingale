@@ -32,5 +32,6 @@ page_sections:
   block: embed-youtube
   width: 600
   url: https://youtu.be/WO_geRRTZgA
+  size: '600'
 
 ---
