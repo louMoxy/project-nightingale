@@ -18,5 +18,33 @@ page_sections:
   block: one-column-1
   headline: 1 column text Headline
   content: 1 column text
+- template: 2-column-text
+  block: two-column-1
+  col_1:
+    headline: '2 column text '
+    content: '2 column text '
+  col_2:
+    headline: 2 column text
+    content: 2 column text
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    headline: 3 column text
+    content: 3 column text
+  col_3:
+    headline: 3 column text
+    content: 3 column text
+  col_2:
+    headline: 3 column text
+    content: 3 column text
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/logo-516c18ef04e0eead60f85595d9f8b56a.png"
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: "/uploads/logo-516c18ef04e0eead60f85595d9f8b56a.png"
+  image_2:
+    image: "/uploads/logo-516c18ef04e0eead60f85595d9f8b56a.png"
 
 ---
