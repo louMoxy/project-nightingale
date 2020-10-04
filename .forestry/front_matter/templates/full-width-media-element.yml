@@ -11,3 +11,11 @@ fields:
   template: media-element
   name: media_element
   label: Media Element
+- name: width
+  type: number
+  label: Max image width
+  config:
+    required: false
+    min: 30
+    max: 1800
+    step: 10

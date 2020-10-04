@@ -1,7 +1,8 @@
-<section class="block block-media-1">
+<section class="section">
   <div class="container">
     <figure>
-      <img src="{{ .Section.image | relURL }}" alt="{{ .Section.caption }}">
+      <img src="{{ .Section.image | relURL }}" alt="{{ .Section.caption }}"
+           style="max-width: 100%; width: {{ if .Section.width }} .Section.width {{ else }} 100% {{ end }};">
       {{ if .Section.caption }}
       <figcaption>{{ .Section.caption }}</figcaption>
       {{ end }}
