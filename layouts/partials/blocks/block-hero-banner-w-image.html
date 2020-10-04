@@ -3,11 +3,7 @@
 style="background: url('{{ .Section.background_image | relURL }}') no-repeat center; background-size: cover;"
 {{- end -}}>
   <div class="container has-text-centered">
-    <h1 {{- if .Section.headerTextColor -}}
-        style="color: {{ .Section.headerTextColor }}"
-        {{- end -}}
-    >
-      {{ safeHTML .Section.headline }}</h1>
+    <h1 class="h1" {{- if .Section.headerTextColor -}} style="color: {{ .Section.headerTextColor }}"{{- end -}}>{{ safeHTML .Section.headline }}</h1>
     <p class="is-size-4 mt-4"
        {{- if .Section.headerTextColor -}} style="color: {{ .Section.contentTextColor }}" {{- end -}}
     >{{ safeHTML .Section.content }}</p>
