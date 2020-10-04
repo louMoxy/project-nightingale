@@ -2,22 +2,6 @@
 layout: blocks
 title: Homepage
 page_sections:
-- template: navigation-header-w-button
-  block: header-2
-  logo: "/uploads/2018/06/21/forestry-full.svg"
-  navigation:
-  - link_url: "/"
-    link_text: Home
-  - link_url: "#"
-    link_text: Features
-  - link_url: "#"
-    link_text: Pricing
-  - link_url: "#"
-    link_text: Team
-  cta:
-    link_url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
-    link_text: Download
-    open_in_new_tab: true
 - template: hero-banner-w-image
   block: hero-2
   headline: uBuild <br><strong>design blocks</strong>
@@ -41,16 +25,6 @@ page_sections:
   media:
     image: "/uploads/2018/06/21/blocks-split.png"
     alt_text: uBuild Blocks Mock-Up
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  headline: <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
-    edits throughout your new site</span>
-  content: Each block comes with custom Front Matter that can easily be edited in
-    Forestry's UI.
-  media:
-    image: "/uploads/2018/06/21/edit.gif"
-    alt_text: Customize Blocks
 - template: 1-column-text
   block: one-column-1
   headline: 16 Fully Responsive Design Blocks
@@ -72,8 +46,5 @@ page_sections:
     Page-Builder template.</p></li><li><p>Add and customize the available Blocks and
     preview them as you go along.</p></li><li><p>Read <a href="https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks.md">our
     article</a> and create your own Blocks.</p></li></ol>
-- template: simple-footer
-  block: footer-1
-  content: Hello world!
 
 ---
