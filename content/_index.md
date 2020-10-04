@@ -6,6 +6,7 @@ page_sections:
   block: text-only-hero-banner
   heading: "<strong>Text only hero banner!</strong>"
   backgroundColor: "#ED2424"
+  textColor: "#FFFFFF"
 - template: hero-banner-w-image
   block: hero-banner-w-image
   background_image: "/uploads/logo-516c18ef04e0eead60f85595d9f8b56a.png"
