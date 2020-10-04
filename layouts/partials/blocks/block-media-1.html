@@ -2,7 +2,7 @@
   <div class="container">
     <figure>
       <img src="{{ .Section.image | relURL }}" alt="{{ .Section.caption }}"
-           style="max-width: 100%; width: {{ if .Section.width }} .Section.width {{ else }} 100% {{ end }};">
+           style="max-width: 100%; width:{{ if .Section.width }}{{.Section.width}}px{{ else }} 100%{{ end }}; margin: auto; display: block">
       {{ if .Section.caption }}
       <figcaption>{{ .Section.caption }}</figcaption>
       {{ end }}
