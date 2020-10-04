@@ -27,8 +27,6 @@ page_sections:
     control of their symptoms and improve their quality of life. Not only will the
     data gathered help consultants to help patients manage their condition, but they
     will be able to see their own ‘real time’ data on factors that may influence these
-    symptoms, allowing a level of self-management.<br><br>&lt;iframe width="560" height="315"
-    src="https://www.youtube.com/embed/WO_geRRTZgA" frameborder="0" allow="accelerometer;
-    autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;<br>
+    symptoms, allowing a level of self-management.<br>
 
 ---
