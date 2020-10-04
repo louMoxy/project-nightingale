@@ -30,5 +30,4 @@ fields:
   - simple-footer
   - 4-column-footer
 pages:
-- content/all-available-blocks.md
 - content/page1.md

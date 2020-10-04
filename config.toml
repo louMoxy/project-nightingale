@@ -1,14 +1,15 @@
 baseURL = ""
 languageCode = "en-us"
-title = "uBuild: A Page Builder For Hugo and Forestry.io"
-sectionPagesMenu = "main"
 logo = "/uploads/2018/06/21/product-shot-1.png"
-[menu]
-  [[menu.main]]
-    identifier = "home"
-    name = "Home"
-    url = "/"
-   [[menu.main]]
-    identifier = "page"
-    name = "Page 1"
-    url = "/page1"
+sectionPagesMenu = "main"
+title = "uBuild: A Page Builder For Hugo and Forestry.io"
+[[menu.main]]
+identifier = "page"
+name = "Page 1"
+url = "/page1"
+weight = 2
+[[menu.main]]
+identifier = "home"
+name = "Home"
+url = "/"
+weight = 1
