@@ -16,6 +16,11 @@ fields:
   name: heading
   description: This text will be centered
 - type: color
+  label: Text Color
+  name: textColor
+  config:
+    color_format: Hex
+- type: color
   label: Background Color
   name: backgroundColor
   config:

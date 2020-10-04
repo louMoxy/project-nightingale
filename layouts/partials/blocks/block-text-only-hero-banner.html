@@ -1,5 +1,5 @@
 <section class="section" style="{{ safeHTMLAttr (printf "background-color: %s" .Section.backgroundColor) }}">
   <div class="container has-text-centered p-5">
-    <h2>{{ safeHTML .Section.heading }}</h2>
+    <h2 style="{{ safeHTMLAttr (printf "background-color: %s" .Section.textColor) }}">{{ safeHTML .Section.heading }}</h2>
   </div>
 </section>
