@@ -36,8 +36,52 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   alignment: centered
-  has_padding: true
+  has_padding: false
   headline: How does it work?
   textColor: "#DA2ED1"
+- template: 1-column-text
+  block: one-column-1
+  alignment: left
+  has_padding: false
+  content: It’s simple – join the study via the uMotif app and record a few bits of
+    information each day to track your symptoms and movement. If you have a wearable
+    device (like a FitBit/Apple Watch), the app will connect with it and automatically
+    track sleep and exercise data.Currently, data recorded relating specifically to
+    a patient’s quality of life – i.e. work, sleep, exercise and flares, is poorly
+    recorded and can be subjective and prone to recall bias (a patient trying to remember
+    how their sleep has been affected over the last year, how many flares they have
+    had etc). This app makes it easy!
+- template: 1-column-text
+  block: one-column-1
+  alignment: left
+  has_padding: true
+  content: Project Nightingale’s study is now live! If you’ve not already downloaded
+    the App and would like to take part please enter your email address below to get
+    involved.It is important to note that currently, unfortunately participation in
+    Project Nightingale is only available for patients with axSpA at the Royal National
+    Hospital for Rheumatic Disease in Bath, or for people who have attended a clinical
+    appointment here. If you have any queries about this, please email <a href="mailto:hello@projectnightingale.org">hello@projectnightingale.org</a>
+    .
+- template: signup-bar
+  block: cta-bar
+- template: 1-column-text
+  block: one-column-1
+  alignment: centered
+  has_padding: false
+  headline: How will the data be used?
+  textColor: "#AB4FC4"
+- template: 1-column-text
+  block: one-column-1
+  alignment: left
+  has_padding: false
+  content: The data gathered in the Nightingale study can be used to help predict
+    flares, adopt regular exercise programs and improve sleep, optimising a patient’s
+    clinical consultation by addressing issues important to them. The data could also
+    be used to help understand the benefits, or lack of, from any new treatments started.
+    Importantly, this project is ongoing, so the longer you can log for the better
+    – there is currently no end date for data entry!<strong>Please note:</strong>
+    Only your consultant will be able to see individual-level data. However, by taking
+    part, all data will be made anonymous to be used for research to help others with
+    Axial Spondyloarthritis.
 
 ---
