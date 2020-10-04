@@ -13,8 +13,8 @@ fields:
   fields:
   - type: include
     template: media-element
-  - name: width
-    type: number_1
+  - name: width_1
+    type: number
     label: Max image width
     config:
       required: false
@@ -27,8 +27,8 @@ fields:
   fields:
   - type: include
     template: media-element
-  - name: width
-    type: number_2
+  - name: width_2
+    type: number
     label: Max image width
     config:
       required: false
