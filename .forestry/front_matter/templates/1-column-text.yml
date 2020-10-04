@@ -25,6 +25,6 @@ fields:
     source:
       type: custom
     options:
-      - "left"
-      - "centered"
-      - "right"
+    - left
+    - centered
+    - right
