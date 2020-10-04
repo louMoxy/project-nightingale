@@ -1,9 +1,10 @@
-<section class="block block-media-2">
+<section class="section">
   <div class="container">
     <div class="columns">
       <div class="column">
         <figure>
-          <img src="{{ .Section.image_1.image | relURL }}" alt="{{ .Section.image_1.caption }}">
+          <img src="{{ .Section.image_1.image | relURL }}" alt="{{ .Section.image_1.caption }}"
+               style="max-width: 100%; width:{{ if .Section.width_1 }}{{.Section.width_1}}px{{ else }} 100%{{ end }}; margin: auto; display: block">
           {{ if .Section.image_1.caption }}
           <figcaption>{{ .Section.image_1.caption }}</figcaption>
           {{ end }}
@@ -11,7 +12,8 @@
       </div>
       <div class="column">
         <figure>
-            <img src="{{ .Section.image_2.image | relURL }}" alt="{{ .Section.image_2.caption }}">
+            <img src="{{ .Section.image_2.image | relURL }}" alt="{{ .Section.image_2.caption }}"
+                 style="max-width: 100%; width:{{ if .Section.width_2 }}{{.Section.width_2}}px{{ else }} 100%{{ end }}; margin: auto; display: block">
             {{ if .Section.image_2.caption }}
             <figcaption>{{ .Section.image_2.caption }}</figcaption>
             {{ end }}

@@ -13,9 +13,25 @@ fields:
   fields:
   - type: include
     template: media-element
+  - name: width
+    type: number_1
+    label: Max image width
+    config:
+      required: false
+      min: 30
+      max: 1000
+      step: 10
 - type: field_group
   name: image_2
   label: Second Image
   fields:
   - type: include
     template: media-element
+  - name: width
+    type: number_2
+    label: Max image width
+    config:
+      required: false
+      min: 30
+      max: 1000
+      step: 10
