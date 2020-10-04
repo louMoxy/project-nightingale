@@ -1,15 +1,15 @@
-<div class="block block-cta-bar">
+<div class="section">
   <div class="container">
-    <div class="columns">
-        <div class="text">
-          <p>{{ safeHTML .Section.content }}</p>
-        </div>
-        <div class="cta">
-          <form action="https://formspree.io/{{ .Section.email_recipient }}" method="POST">
-            <input type="email" placeholder="your@email.com" class="inverted">
-            <button type="submit" class="button primary inverted">Sign up</button>
-          </form>
-        </div>
-    </div>
+      <form name="contact" action="/thank-you" method="POST" data-netlify="true">
+          <input type="hidden" name="form-name" value="Email signup" />
+          <div class="field has-addons has-addons-centered">
+              <div class="control">
+                  <input id="contact-form-email" name="Email" type="email" placeholder="Email Address" class="input" required="true">
+              </div>
+              <div class="control">
+                  <button type="submit" value="Submit" id="Form-submit" class="button is-primary">Submit</button>
+              </div>
+          </div>
+      </form>
   </div>
 </div>
