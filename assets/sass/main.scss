@@ -1,0 +1,12 @@
+$accentColor: #36E4DA;
+header {
+  .logo img{
+    max-height: unset;
+  }
+  .navbar-item:hover {
+    color: $accentColor;
+  }
+  .navbar-item.is-active {
+    border-bottom: solid 2px $accentColor;
+  }
+}

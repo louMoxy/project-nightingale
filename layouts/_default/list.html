@@ -1,0 +1,13 @@
+{{- define "main" -}}
+<div class="section">
+    <div class="container">
+        {{ range.Pages }}
+        <ul>
+            <a href="{{ .URL}}">
+                <li>{{ .Title}}</li>
+            </a>
+        </ul>
+        {{ end }}
+    </div>
+</div>
+{{- end -}}
