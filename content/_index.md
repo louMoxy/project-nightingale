@@ -14,5 +14,9 @@ page_sections:
   block: text-1
   headline: Detail Content - Headline
   content: Detail Content - Content
+- template: 1-column-text
+  block: one-column-1
+  headline: 1 column text Headline
+  content: 1 column text
 
 ---
