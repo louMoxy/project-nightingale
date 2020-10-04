@@ -1,4 +1,4 @@
-<section class="block">
+<section {{- if .Section.has_padding -}} class="section"{{- end -}}>
   <div class="container">
     <div class="columns" {{- if .Section.textColor -}} style="color: {{ .Section.textColor }}"{{- end -}}>
       <div class="column has-text-{{ .Section.alignment }}">

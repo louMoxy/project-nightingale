@@ -28,3 +28,9 @@ fields:
     - left
     - centered
     - right
+- type: boolean
+  name: has_padding
+  label: Content section has padding
+  description: Should this section of content have padding all around it?
+  default: true
+  hidden: false
