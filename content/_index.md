@@ -29,6 +29,7 @@ page_sections:
     will be able to see their own ‘real time’ data on factors that may influence these
     symptoms, allowing a level of self-management.<br>
 - template: embed-youtube
+  block: embed-youtube
   size: 600
   url: https://youtu.be/WO_geRRTZgA
 
