@@ -13,6 +13,8 @@ page_sections:
     These meetings are likely to focus on medication and trying to prevent the condition
     from progressing, rather than quality of life and wellbeing.Introducing…the <strong>‘Nightingale’</strong>
     study.
+  alignment: left
+  has_padding: true
 - template: 1-column-text
   block: one-column-1
   alignment: centered
