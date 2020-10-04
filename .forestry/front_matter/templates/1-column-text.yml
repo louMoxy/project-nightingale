@@ -11,3 +11,20 @@ fields:
   name: column
   label: Column
   template: text-column
+- type: color
+  label: Text Color for all the content
+  name: textColor
+  config:
+    color_format: Hex
+- type: select
+  name: alignment
+  label: Text alignment
+  hidden: false
+  default: left
+  config:
+    source:
+      type: custom
+    options:
+      - "left"
+      - "centered"
+      - "right"
