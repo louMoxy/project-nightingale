@@ -48,6 +48,7 @@ page_sections:
 - template: full-width-media-element
   block: media-1
   image: "/uploads/logo-516c18ef04e0eead60f85595d9f8b56a.png"
+  width: '600'
 - template: 2-column-media-element
   block: media-2
   image_1:
