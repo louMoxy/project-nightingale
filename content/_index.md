@@ -4,13 +4,17 @@ title: Homepage
 page_sections:
 - template: text-only-hero-banner
   block: text-only-hero-banner
-  heading: <strong>Text only hero banner!</strong>
+  heading: "<strong>Text only hero banner!</strong>"
   backgroundColor: red
 - template: hero-banner-w-image
   block: hero-banner-w-image
   background_image: "/uploads/logo-516c18ef04e0eead60f85595d9f8b56a.png"
   headline: Hero banner with image -  Headline
   content: Content
+  cta:
+    link_text: CTA
+    enabled: true
+    link_url: "/"
 - template: detail-content
   block: text-1
   headline: Detail Content - Headline
