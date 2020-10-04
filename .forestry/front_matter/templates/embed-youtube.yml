@@ -8,12 +8,13 @@ fields:
   name: block
   default: embed-youtube
 - name: url
-  label: Youtube URL
+  description: Dont include the 'https://youtu.be/' just the letters after
+  label: Youtube URL Code
   type: text
   config:
     required: true
-- name: size
-  label: Size
+- name: width
+  label: Width
   type: number
   default: 600
   config:

@@ -30,7 +30,7 @@ page_sections:
     symptoms, allowing a level of self-management.<br>
 - template: embed-youtube
   block: embed-youtube
-  size: 600
+  width: 600
   url: https://youtu.be/WO_geRRTZgA
 
 ---
