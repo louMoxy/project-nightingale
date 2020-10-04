@@ -14,8 +14,9 @@ fields:
       format: html
   label: Headline
   name: heading
+  description: This text will be centered
 - type: color
-  label: "Background Color"
+  label: Background Color
   name:
   config:
     color_format: [Hex|RGB]
