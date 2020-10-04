@@ -23,6 +23,5 @@ fields:
   - full-width-media-element
   - 2-column-media-element
   - signup-bar
-  - default
 pages:
 - content/page1.md
