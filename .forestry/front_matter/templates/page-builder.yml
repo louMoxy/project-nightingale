@@ -27,7 +27,5 @@ fields:
   - full-width-media-element
   - 2-column-media-element
   - signup-bar
-  - simple-footer
-  - 4-column-footer
 pages:
 - content/page1.md
