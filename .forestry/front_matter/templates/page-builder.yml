@@ -24,3 +24,5 @@ fields:
   - 2-column-media-element
   - signup-bar
   - embed-youtube
+pages:
+- content/project-nightingale-faqs.md
