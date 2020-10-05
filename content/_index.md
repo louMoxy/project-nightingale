@@ -109,7 +109,7 @@ page_sections:
   alignment: left
   has_padding: false
   content: <strong>Do I have to own a fitness device or fitness app to participate?</strong>
-    No, not all all. Any data that we can gather will prove useful so please do participate
+    No, not at all. Any data that we can gather will prove useful so please do participate
     even if you do not have access to a fitness app or device.<br><strong>Which apps
     or devices are compatible with the UMotif app?</strong> Although you don’t have
     to synchronise an app or device, there are many that are compatible should you
