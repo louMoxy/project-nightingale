@@ -13,7 +13,7 @@ textColor = "#FFFFFF"
 [[page_sections]]
 alignment = "left"
 block = "one-column-1"
-content = "<strong><span class=\"has-inline-color has-vivid-purple-color\">What do I need to complete?</span></strong>"
+content = ""
 has_padding = false
 headline = ""
 template = "1-column-text"
