@@ -1,5 +1,4 @@
 +++
-draft = true
 layout = "blocks"
 title = "project-nightingale-faqs"
 [[page_sections]]
