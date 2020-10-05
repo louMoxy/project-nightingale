@@ -3,15 +3,10 @@ languageCode = "en-us"
 sectionPagesMenu = "main"
 title = "uBuild: A Page Builder For Hugo and Forestry.io"
 [Params]
-    footerText="© Copyright 2020, Project Nightingale"
-    logo = "uploads/logo-516c18ef04e0eead60f85595d9f8b56a.png"
+footerText = "© Copyright 2020, Project Nightingale"
+logo = "uploads/logo-516c18ef04e0eead60f85595d9f8b56a.png"
 [[menu.main]]
-    identifier = "page"
-    name = "Page 1"
-    url = "/page1"
-    weight = 2
-[[menu.main]]
-    identifier = "home"
-    name = "Home"
-    url = "/"
-    weight = 1
+identifier = "home"
+name = "Home"
+url = "/"
+weight = 1
