@@ -13,12 +13,12 @@ textColor = "#FFFFFF"
 [[page_sections]]
 alignment = "left"
 block = "one-column-1"
-content = "<strong>This is not correct</strong>"
+content = "It would be great if you completed the motif (from the home page) and the daily questionnaire (from the settings tab).<br>"
 has_padding = false
-headerColor = ""
-headline = ""
+headerColor = "#9B52DF"
+headline = "What do I need to complete?"
 template = "1-column-text"
 textAlignment = "left"
-textColor = "#9B52DF"
+textColor = ""
 
 +++
