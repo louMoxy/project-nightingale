@@ -18,7 +18,7 @@ has_padding = false
 headerColor = ""
 headline = ""
 template = "1-column-text"
-textAlignment = ""
+textAlignment = "left"
 textColor = "#9B52DF"
 
 +++
