@@ -21,6 +21,9 @@ h6 {
 .container {
   max-width: 900px !important;
 }
+strong {
+  color: inherit;
+}
 header {
   .logo img{
     max-height: unset;

@@ -13,7 +13,7 @@ textColor = "#FFFFFF"
 [[page_sections]]
 alignment = "left"
 block = "one-column-1"
-content = "<strong>This is not correct</strong>"
+content = "This is not correct"
 has_padding = false
 headline = ""
 template = "1-column-text"

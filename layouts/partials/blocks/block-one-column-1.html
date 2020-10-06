@@ -1,9 +1,9 @@
 <section {{- if .Section.has_padding -}} class="section"{{- end -}}>
   <div class="container">
-    <div class="columns" {{- if .Section.textColor -}} style="color: {{ .Section.textColor }}"{{- end -}}>
-      <div class="column has-text-{{ .Section.alignment }}">
-        <h3>{{ .Section.headline }}</h3>
-        <p>{{ safeHTML .Section.content }}</p>
+    <div class="columns" {{- if .Section.headerColor -}} style="color: {{ .Section.headerColor }}"{{- end -}}>
+      <div>
+        <h3 class="column has-text-{{ .Section.alignment }}">{{ .Section.headline }}</h3>
+        <p {{- if .Section.textColor -}} style="color: {{ .Section.textColor }}"{{- end -}} class="column has-text-{{ .Section.textAlignment }}">{{ safeHTML .Section.content }}</p>
       </div>        
     </div>
   </div>

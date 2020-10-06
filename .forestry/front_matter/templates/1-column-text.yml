@@ -12,13 +12,18 @@ fields:
   label: Column
   template: text-column
 - type: color
-  label: Text Color for all the content
+  label: Text Color for Headline
+  name: headerColor
+  config:
+    color_format: Hex
+- type: color
+  label: Text Color for text content
   name: textColor
   config:
     color_format: Hex
 - type: select
   name: alignment
-  label: Text alignment
+  label: Header alignment
   hidden: false
   default: left
   config:
@@ -28,6 +33,18 @@ fields:
     - left
     - centered
     - right
+- type: select
+  name: textAlignment
+  label: Text alignment
+  hidden: false
+  default: left
+  config:
+    source:
+      type: custom
+    options:
+      - left
+      - centered
+      - right
 - type: boolean
   name: has_padding
   label: Content section has padding
