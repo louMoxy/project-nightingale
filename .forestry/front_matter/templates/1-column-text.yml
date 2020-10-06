@@ -42,9 +42,9 @@ fields:
     source:
       type: custom
     options:
-      - left
-      - centered
-      - right
+    - left
+    - centered
+    - right
 - type: boolean
   name: has_padding
   label: Content section has padding

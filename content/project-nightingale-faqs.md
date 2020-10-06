@@ -13,18 +13,12 @@ textColor = "#FFFFFF"
 [[page_sections]]
 alignment = "left"
 block = "one-column-1"
-content = "This is not correct"
+content = "<strong>This is not correct</strong>"
 has_padding = false
+headerColor = ""
 headline = ""
 template = "1-column-text"
+textAlignment = ""
 textColor = "#9B52DF"
-[[page_sections]]
-alignment = "left"
-block = "one-column-1"
-content = ""
-has_padding = true
-headline = ""
-template = "1-column-text"
-textColor = ""
 
 +++
