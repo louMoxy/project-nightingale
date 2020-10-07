@@ -26,6 +26,7 @@ fields:
     display_utc: false
   default: now
 pages:
+- content/blogs/as-information-day.md
 - content/blogs/first-blog-post.md
 - content/blogs/initial-findings-from-the-project-nightingale-study.md
 - content/blogs/research-update.md
