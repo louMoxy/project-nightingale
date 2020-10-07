@@ -1,6 +1,5 @@
 +++
 date = 2019-09-07T23:00:00Z
-draft = true
 layout = "simplePage"
 title = "First blog post"
 
