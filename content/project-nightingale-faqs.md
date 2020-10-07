@@ -103,7 +103,7 @@ textColor = ""
 [[page_sections]]
 alignment = "left"
 block = "one-column-1"
-content = "Please feel free to get in contact with our research assistant Rosie, who would be more than happy to talk through any queries you may have <img src=\"https://s.w.org/images/core/emoji/13.0.0/svg/1f642.svg\" alt=\"🙂\"> Just email <strong><span style=\"text-decoration: underline;\"><span class=\"has-inline-color has-black-color\">rosie.barnett1@nhs.net</span></span></strong>."
+content = "Please feel free to get in contact with our research assistant Rosie, who would be more than happy to talk through any queries you may have. <br>Just email <strong><span style=\"text-decoration: underline;\"><span class=\"has-inline-color has-black-color\">rosie.barnett1@nhs.net</span></span></strong>."
 has_padding = true
 headerColor = ""
 headline = "Any other questions?"
