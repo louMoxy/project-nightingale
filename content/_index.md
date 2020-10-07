@@ -18,7 +18,7 @@ page_sections:
   textAlignment: left
 - template: 1-column-text
   block: one-column-1
-  alignment: left
+  alignment: centered
   content: The Nightingale study is designed to empower people with axSpA to take
     control of their symptoms and improve their quality of life. Not only will the
     data gathered help consultants to help patients manage their condition, but they
@@ -35,7 +35,7 @@ page_sections:
   size: '600'
 - template: 1-column-text
   block: one-column-1
-  alignment: left
+  alignment: centered
   has_padding: true
   content: It’s simple – join the study via the uMotif app and record a few bits of
     information each day to track your symptoms and movement. If you have a wearable
@@ -51,7 +51,7 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   alignment: left
-  has_padding: true
+  has_padding: false
   content: Project Nightingale’s study is now live! If you’ve not already downloaded
     the App and would like to take part please enter your email address below to get
     involved.It is important to note that currently, unfortunately participation in
@@ -59,11 +59,12 @@ page_sections:
     Hospital for Rheumatic Disease in Bath, or for people who have attended a clinical
     appointment here. If you have any queries about this, please email <a href="mailto:hello@projectnightingale.org">hello@projectnightingale.org</a>
     .
+  textAlignment: left
 - template: signup-bar
   block: cta-bar
 - template: 1-column-text
   block: one-column-1
-  alignment: left
+  alignment: centered
   has_padding: true
   content: The data gathered in the Nightingale study can be used to help predict
     flares, adopt regular exercise programs and improve sleep, optimising a patient’s
@@ -79,7 +80,7 @@ page_sections:
   textAlignment: left
 - template: 1-column-text
   block: one-column-1
-  alignment: left
+  alignment: centered
   has_padding: true
   content: If you would be interested in joining a focus group to seek help and assistance
     using the app, discuss the benefits with others and understand a little more about
@@ -91,7 +92,7 @@ page_sections:
   headerColor: "#50E3C2"
 - template: 1-column-text
   block: one-column-1
-  alignment: left
+  alignment: centered
   has_padding: true
   content: <strong>Do I have to own a fitness device or fitness app to participate?</strong>
     No, not at all. Any data that we can gather will prove useful so please do participate
