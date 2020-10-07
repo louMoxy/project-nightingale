@@ -63,14 +63,8 @@ page_sections:
   block: cta-bar
 - template: 1-column-text
   block: one-column-1
-  alignment: centered
-  has_padding: false
-  headline: How will the data be used?
-  textColor: "#AB4FC4"
-- template: 1-column-text
-  block: one-column-1
   alignment: left
-  has_padding: false
+  has_padding: true
   content: The data gathered in the Nightingale study can be used to help predict
     flares, adopt regular exercise programs and improve sleep, optimising a patient’s
     clinical consultation by addressing issues important to them. The data could also
@@ -80,6 +74,9 @@ page_sections:
     Only your consultant will be able to see individual-level data. However, by taking
     part, all data will be made anonymous to be used for research to help others with
     Axial Spondyloarthritis.
+  headline: How will the data be used?
+  headerColor: "#D0021B"
+  textAlignment: left
 - template: 1-column-text
   block: one-column-1
   alignment: centered
