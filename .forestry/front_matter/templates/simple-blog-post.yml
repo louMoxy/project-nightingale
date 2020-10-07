@@ -27,3 +27,4 @@ fields:
   default: now
 pages:
 - content/blogs/first-blog-post.md
+- content/blogs/initial-findings-from-the-project-nightingale-study.md
