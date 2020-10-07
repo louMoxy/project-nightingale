@@ -79,29 +79,20 @@ page_sections:
   textAlignment: left
 - template: 1-column-text
   block: one-column-1
-  alignment: centered
-  has_padding: false
-  headline: Help with project nightingale
-  textColor: "#34AE37"
-- template: 1-column-text
-  block: one-column-1
   alignment: left
-  has_padding: false
+  has_padding: true
   content: If you would be interested in joining a focus group to seek help and assistance
     using the app, discuss the benefits with others and understand a little more about
     the project then please contact <a href="mailto:hello@projectnightingale.org">hello@projectnightingale.org</a>
     to register your interest. The more interest we get, the more likely we’ll be
     able to put something on to help.<br>
-- template: 1-column-text
-  block: one-column-1
-  alignment: centered
-  has_padding: true
-  headline: Frequently asked questions
-  textColor: "#F75D5C"
+  headline: Help with project nightingale
+  textAlignment: left
+  headerColor: "#50E3C2"
 - template: 1-column-text
   block: one-column-1
   alignment: left
-  has_padding: false
+  has_padding: true
   content: <strong>Do I have to own a fitness device or fitness app to participate?</strong>
     No, not at all. Any data that we can gather will prove useful so please do participate
     even if you do not have access to a fitness app or device.<br><strong>Which apps
@@ -118,6 +109,9 @@ page_sections:
     to capture this information.<br>If you have any general questions about the study
     please email us at <a href="mailto:hello@projectnightingale.org">hello@projectnightingale.org</a>
     and we’ll be happy to help in any way we can.
+  headline: Frequently asked questions
+  textAlignment: left
+  headerColor: "#F5A623"
 - template: full-width-media-element
   block: media-1
   image: "/uploads/screenshot-www1-projectnightingale-org-2020-09-09-11_46_05.png"
