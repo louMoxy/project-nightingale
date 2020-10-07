@@ -4,7 +4,7 @@ layout = "simplePage"
 title = "Initial findings from the Project Nightingale study"
 
 +++
-Initial findings from the Project Nightingale study
+# Initial findings from the Project Nightingale study
 
 We are pleased to announce that we have been invited to present a poster at the BRITSpA (British Society for SpondyloArthritis) Annual Scientific Meeting on the 25th and 26th September 2019, outlining some of the initial results from the Project Nightingale study. Thank you so much to all of you who are a part of it and who have been entering data into uMotif!
 
@@ -16,18 +16,19 @@ A data analyst from White Swan is now trying to add a chronological element to t
 
 ![](/uploads/picture-2.png)
 
-Pain Score	–	Fatigue Score	***
-Pain Score	–	Sleep Score	***
-Pain Score	–	Exercise Score	 
-Pain Score	–	Mood Score	***
-Pain Score	–	Stress Score	***
-Fatigue Score	–	Sleep Score	***
-Fatigue Score	–	Exercise Score	 
-Fatigue Score	–	Mood Score	***
-Fatigue Score	–	Stress Score	***
-Sleep Score	–	Exercise Score	**
-Sleep Score	–	Mood Score	***
-Sleep Score	–	Stress Score	***
-Exercise Score	–	Mood Score	**
-Exercise Score	–	Stress Score	 
-Mood Score	–	Stress Score	***
+| Pain Score     | – | Fatigue Score  | *** |
+|----------------|---|----------------|-----|
+| Pain Score     | – | Sleep Score    | *** |
+| Pain Score     | – | Exercise Score |     |
+| Pain Score     | – | Mood Score     | *** |
+| Pain Score     | – | Stress Score   | *** |
+| Fatigue Score  | – | Sleep Score    | *** |
+| Fatigue Score  | – | Exercise Score |     |
+| Fatigue Score  | – | Mood Score     | *** |
+| Fatigue Score  | – | Stress Score   | *** |
+| Sleep Score    | – | Exercise Score | **  |
+| Sleep Score    | – | Mood Score     | *** |
+| Sleep Score    | – | Stress Score   | *** |
+| Exercise Score | – | Mood Score     | **  |
+| Exercise Score | – | Stress Score   |     |
+| Mood Score     | – | Stress Score   | *** |
