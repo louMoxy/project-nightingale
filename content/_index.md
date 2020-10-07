@@ -25,6 +25,8 @@ page_sections:
     symptoms, allowing a level of self-management.<br>
   headline: What is it?
   headerColor: "#4A90E2"
+  has_padding: true
+  textAlignment: left
 - template: embed-youtube
   block: embed-youtube
   width: 600
