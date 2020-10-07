@@ -26,6 +26,7 @@ fields:
     display_utc: false
   default: now
 pages:
+- content/blogs/7th-bath-bristol-and-weston-combined-axial-spondyloarthropathy-meeting.md
 - content/blogs/as-information-day.md
 - content/blogs/axial-spondyloarthritis-what-is-axspa-and-how-does-it-relate-to-ankylosing-spondylitis.md
 - content/blogs/britspa-annual-scientific-meeting.md
