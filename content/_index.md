@@ -17,17 +17,14 @@ page_sections:
   has_padding: true
 - template: 1-column-text
   block: one-column-1
-  alignment: centered
-  headline: What is it?
-  textColor: "#2882D0"
-- template: 1-column-text
-  block: one-column-1
   alignment: left
   content: The Nightingale study is designed to empower people with axSpA to take
     control of their symptoms and improve their quality of life. Not only will the
     data gathered help consultants to help patients manage their condition, but they
     will be able to see their own ‘real time’ data on factors that may influence these
     symptoms, allowing a level of self-management.<br>
+  headline: What is it?
+  headerColor: "#4A90E2"
 - template: embed-youtube
   block: embed-youtube
   width: 600
