@@ -15,6 +15,7 @@ page_sections:
     study.
   alignment: left
   has_padding: true
+  textAlignment: left
 - template: 1-column-text
   block: one-column-1
   alignment: left
@@ -34,14 +35,8 @@ page_sections:
   size: '600'
 - template: 1-column-text
   block: one-column-1
-  alignment: centered
-  has_padding: false
-  headline: How does it work?
-  textColor: "#DA2ED1"
-- template: 1-column-text
-  block: one-column-1
   alignment: left
-  has_padding: false
+  has_padding: true
   content: It’s simple – join the study via the uMotif app and record a few bits of
     information each day to track your symptoms and movement. If you have a wearable
     device (like a FitBit/Apple Watch), the app will connect with it and automatically
@@ -50,6 +45,9 @@ page_sections:
     recorded and can be subjective and prone to recall bias (a patient trying to remember
     how their sleep has been affected over the last year, how many flares they have
     had etc). This app makes it easy!
+  headline: How does it work?
+  headerColor: "#BD10E0"
+  textAlignment: left
 - template: 1-column-text
   block: one-column-1
   alignment: left
