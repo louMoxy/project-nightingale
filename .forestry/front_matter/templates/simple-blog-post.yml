@@ -1,4 +1,27 @@
 ---
-label: Simple Blog post
+label: Simple page
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+  description: Page title
+- name: layout
+  type: text
+  config:
+    required: false
+  label: layout
+  hidden: true
+  default: simplePage
+- name: date
+  type: datetime
+  label: Date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+  default: now
