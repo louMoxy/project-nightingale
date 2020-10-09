@@ -5,6 +5,13 @@ fields:
 - type: text
   label: Title
   name: title
+- name: date
+  type: datetime
+  label: Date
+  description: ''
+  config:
+    require:
+      true
 - type: text
   name: layout
   label: Layout

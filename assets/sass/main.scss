@@ -39,12 +39,14 @@ header {
 .simplePage {
   h1, h2, h3 {
     padding: 40px 0;
+    text-align: center;
   }
   p {
     padding: 10px 0;
   }
   img {
     margin: auto;
+    display: block;
   }
 }
 
