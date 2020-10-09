@@ -1,6 +1,7 @@
 +++
+date = ""
 layout = "blocks"
-title = "project-nightingale-faqs"
+title = "Project Nightingale FAQs"
 [menu.main]
 name = "FAQS"
 weight = 2
