@@ -1,5 +1,6 @@
 +++
 layout = "blocks"
+date = "2020-01-11T20:50:01Z"
 title = "NASS and AStretch video series"
 [[page_sections]]
 alignment = "centered"

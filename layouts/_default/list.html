@@ -1,13 +1,32 @@
 {{- define "main" -}}
-<div class="section">
+<div class="section" id="listPage">
     <div class="container">
-        {{ range.Pages }}
-        <ul>
-            <a href="{{ .URL}}">
-                <li>{{ .Title}}</li>
-            </a>
-        </ul>
-        {{ end }}
+        <div class="columns is-multiline">
+            {{ range.Pages }}
+                <div class="column is-half">
+                    <a href="{{ .RelPermalink}}">
+                    <div class="card">
+                        <div class="card-content">
+                            <p class="title is-4">{{ .Title}}</p>
+                            <p class="subtitle is-6">{{ .Date.Format "January 2, 2006" }}</p>
+                            <div class="content">
+                                <p>
+                                    {{ if .Summary }}
+                                        {{ .Summary | truncate 200 }}
+                                    {{else}}
+                                        {{ range first 1 (where .Params.page_sections "block" "one-column-1") }}
+                                            {{ .content | truncate 200 }}
+                                        {{ end }}
+                                    {{ end }}
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                </div>
+            {{ end }}
+        </div>
     </div>
 </div>
 {{- end -}}
+
