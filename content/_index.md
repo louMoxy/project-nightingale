@@ -31,7 +31,7 @@ page_sections:
 - template: embed-youtube
   block: embed-youtube
   width: 600
-  url: https://youtu.be/WO_geRRTZgA
+  url: WO_geRRTZgA
   size: '600'
 - template: 1-column-text
   block: one-column-1

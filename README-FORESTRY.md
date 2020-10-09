@@ -1,4 +1,4 @@
-# Editing Your uBuild Site
+# Editing Your Site
 This website uses a Hugo theme called uBuild, which was designed to use Forestry's Blocks feature to create modular page layouts.
 
 ### Using Forestry
@@ -9,7 +9,9 @@ In the sidebar select blogs, click the create new button.
 
 From there select 'Simple page' or 'Page builder' (Read about templates below for more information)
 
+
 ## Templates
+======
 
 ### Simple Page
 If you only plan to add text and images this is the template you need. The styling is limited, but all headings and images will be centered.
