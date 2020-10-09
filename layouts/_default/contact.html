@@ -1,0 +1,46 @@
+{{- define "main" -}}
+<div class="section simplePage">
+    <div class="container">
+        {{ .Content }}
+        <br>
+        <div class="columns">
+            <div class="column">
+                <h3 class="has-text-left">Get in Touch</h3>
+                <p><a href="mailto:rosie.barnett1@nhs.net"></a>rosie.barnett1@nhs.net</p>
+                <p><a href="mailto:hello@projectnightingale.org"></a>hello@projectnightingale.org</p>
+                <br>
+                <h3 class="has-text-left">Technical issues?</h3>
+                <p>Please contact <a href="mailto:help@umotif.com">help@umotif.com</a></p>
+            </div>
+            <div class="column">
+                <form name="contact-us-form" action="" method="POST" data-netlify="true">
+                    <input type="hidden" name="form-name" value="Email signup" />
+                    <div class="field">
+                        <label class="label">Name</label>
+                        <div class="control">
+                            <input id="contact-form-name" name="name" type="text" placeholder="John Smith" class="input" required="true">
+                        </div>
+                    </div>
+                    <div class="field">
+                        <label class="label">Email:</label>
+                        <div class="control">
+                            <input id="contact-form-email" name="Email" type="email" placeholder="Email Address" class="input" required="true">
+                        </div>
+                    </div>
+                    <div class="field">
+                        <label class="label">Message:</label>
+                        <div class="control">
+                            <input id="contact-form-message" name="message" type="text" placeholder="Hey there" class="input" required="true">
+                        </div>
+                    </div>
+                    <div class="field is-grouped is-grouped-right">
+                        <div class="control">
+                            <button type="submit" value="Submit" id="Form-submit" class="button is-primary">Submit</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+{{- end -}}

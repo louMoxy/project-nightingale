@@ -38,8 +38,16 @@ header {
 
 .simplePage {
   h1, h2, h3 {
-    padding: 40px 0;
     text-align: center;
+  }
+  h1 {
+    padding: 40px 0;
+  }
+  h2 {
+    padding: 20px 0;
+  }
+  h3 {
+    padding: 10px 0;
   }
   p {
     padding: 10px 0;
