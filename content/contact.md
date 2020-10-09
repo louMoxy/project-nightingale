@@ -1,6 +1,10 @@
 ---
 layout: contact
 title: Contact
+menu:
+  main:
+    weight: 3
+
 ---
 # Let’s talk
 

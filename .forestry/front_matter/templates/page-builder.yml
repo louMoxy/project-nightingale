@@ -10,8 +10,7 @@ fields:
   label: Date
   description: ''
   config:
-    require:
-      true
+    require: true
 - type: text
   name: layout
   label: Layout
