@@ -1,7 +1,7 @@
 +++
+date = 2020-01-29T19:00:00Z
 layout = "blocks"
 title = "December AxSpA Research Highlights – Focus on Physical Activity"
-date = "2019-13-24T19:34:56Z"
 [[page_sections]]
 alignment = "left"
 block = "one-column-1"
