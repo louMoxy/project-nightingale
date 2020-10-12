@@ -33,7 +33,7 @@ textColor = ""
 [[page_sections]]
 alignment = "left"
 block = "one-column-1"
-content = "<a href=\"https://www.versusarthritis.org/about-arthritis/conditions/ankylosing-spondylitis/\" title=\"https://www.versusarthritis.org/about-arthritis/conditions/ankylosing-spondylitis/\">https://www.versusarthritis.org/about-arthritis/conditions/ankylosing-spondylitis/</a>"
+content = "<a href=\"https://www.versusarthritis.org/about-arthritis/conditions/ankylosing-spondylitis/\" title=\"https://www.versusarthritis.org/about-arthritis/conditions/ankylosing-spondylitis/\">https://www.versusarthritis.org/about-arthritis/conditions/ankylosing-spondylitis/</a><br><br><img src=\"/uploads/va.png\">"
 has_padding = true
 headerColor = "#F5A623"
 headline = "Versus arthritis"
