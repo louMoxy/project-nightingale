@@ -2,6 +2,8 @@
 date = ""
 layout = "blocks"
 title = "Rehabilitation"
+[menu.main]
+weight = 5
 [[page_sections]]
 backgroundColor = "#50E3C2"
 block = "text-only-hero-banner"
