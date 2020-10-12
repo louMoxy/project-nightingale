@@ -29,5 +29,15 @@ headline = ""
 template = "1-column-text"
 textAlignment = "left"
 textColor = ""
+[[page_sections]]
+alignment = "left"
+block = "one-column-1"
+content = "On the RNHRD website you can find exercise videos to help manage your axSpA, in addition to information regarding the RNHRD rehabilitation programme for axSpA.<br><br><a href=\"https://www.ruh.nhs.uk/RNHRD/patients/services/rheumatology/AS_service/patient_info.asp?menu_id=2\" title=\"https://www.ruh.nhs.uk/RNHRD/patients/services/rheumatology/AS_service/patient_info.asp?menu_id=2\">https://www.ruh.nhs.uk/RNHRD/patients/services/rheumatology/AS_service/patient_info.asp?menu_id=2</a>"
+has_padding = true
+headerColor = "#9013FE"
+headline = "RNHRD website"
+template = "1-column-text"
+textAlignment = "left"
+textColor = ""
 
 +++
