@@ -6,7 +6,7 @@ title = "Resources"
 name = ""
 weight = 6
 [[page_sections]]
-backgroundColor = "#50E3C2"
+backgroundColor = "#36E4DA"
 block = "text-only-hero-banner"
 heading = "Resources"
 template = "text-only-hero-banner"
