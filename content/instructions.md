@@ -5,7 +5,7 @@ title = "Instructions"
 [menu.main]
 weight = 4
 [[page_sections]]
-backgroundColor = "#50E3C2"
+backgroundColor = "#36E4DA"
 block = "text-only-hero-banner"
 heading = "Joining Instructions"
 template = "text-only-hero-banner"
