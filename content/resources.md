@@ -3,7 +3,6 @@ date = ""
 layout = "blocks"
 title = "Resources"
 [menu.main]
-name = ""
 weight = 6
 [[page_sections]]
 backgroundColor = "#36E4DA"
