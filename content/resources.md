@@ -1,6 +1,5 @@
 +++
 date = ""
-draft = true
 layout = "blocks"
 title = "Resources"
 [[page_sections]]
@@ -34,7 +33,7 @@ alignment = "left"
 block = "one-column-1"
 content = "<a href=\"https://www.versusarthritis.org/about-arthritis/conditions/ankylosing-spondylitis/\" title=\"https://www.versusarthritis.org/about-arthritis/conditions/ankylosing-spondylitis/\">https://www.versusarthritis.org/about-arthritis/conditions/ankylosing-spondylitis/</a>"
 has_padding = true
-headerColor = "#4A90E2"
+headerColor = "#F5A623"
 headline = "Versus arthritis"
 template = "1-column-text"
 textAlignment = "left"
