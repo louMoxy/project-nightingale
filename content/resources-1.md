@@ -4,7 +4,7 @@ draft = true
 layout = "blocks"
 title = "Resources"
 [[page_sections]]
-backgroundColor = "#4A90E2"
+backgroundColor = "#50E3C2"
 block = "text-only-hero-banner"
 heading = "Resources"
 template = "text-only-hero-banner"
