@@ -5,7 +5,7 @@ title = "Rehabilitation"
 [menu.main]
 weight = 5
 [[page_sections]]
-backgroundColor = "#50E3C2"
+backgroundColor = "#36E4DA"
 block = "text-only-hero-banner"
 heading = "RNHRD Rehabilitation Programme"
 template = "text-only-hero-banner"
