@@ -23,7 +23,7 @@ textColor = ""
 [[page_sections]]
 alignment = "left"
 block = "one-column-1"
-content = "We are yet to publish a full manuscript utilising the Project Nightingale data. However, thanks to our participants, we now have a unique, granular, comprehensive ~2-year dataset which is currently being analysed for research purposes. <br><br>2 manuscripts are currently in preparation, with an additional manuscript at the submission stage. Any updates will be immediately published to this page, or via our research assistant Rosie's twitter (@RosieBarnett95)! We hope to have more updates for you soon :) "
+content = "We are yet to publish a full manuscript utilising the Project Nightingale data. However, thanks to our participants, we now have a unique, granular, comprehensive ~2-year dataset which is currently being analysed for research purposes. <br><br>2 manuscripts are currently in preparation, with an additional manuscript at the submission stage. Any updates will be immediately published to this page, and via our research assistant Rosie's twitter (@RosieBarnett95)! We hope to have more updates for you soon :)"
 has_padding = true
 headerColor = "#BD10E0"
 headline = "Manuscripts"
