@@ -1,8 +1,13 @@
 +++
 date = ""
-draft = true
 layout = "blocks"
 title = "Publications"
+[[page_sections]]
+backgroundColor = "#36E4DA"
+block = "text-only-hero-banner"
+heading = "Publications"
+template = "text-only-hero-banner"
+textColor = "#FFFFFF"
 [[page_sections]]
 alignment = "left"
 block = "one-column-1"
