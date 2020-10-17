@@ -7,7 +7,7 @@ title = "And we are finally back with the regular blog posts…"
 +++
 Hi everyone – if you are new to the blog, then welcome! I hope that everyone is keeping well during these strange times.
 
-2020 has been a bit of a hectic, *unprecedented* time for us all (although I am sure we are all fed up of hearing this word!). However, things are finally beginning to slowly calm down for us now at the hospital. With the virtual 2-week axial spondyloarthritis (axSpA) rehabilitation course beginning next week in Bath, it certainly feels like things are finally, slowly returning to a new normal – although, temporarily in an adaptive, innovative, but very different format.
+2020 has been a bit of a hectic, _unprecedented_ time for us all (although I am sure we are all fed up of hearing this word!). However, things are finally beginning to slowly calm down for us now at the hospital. With the virtual 2-week axial spondyloarthritis (axSpA) rehabilitation course beginning next week in Bath, it certainly feels like things are finally, slowly returning to a new normal – although, temporarily in an adaptive, innovative, but very different format.
 
 Next month we will be posting a more general research update, to provide a brief summary of key research publications to come out over the past year in axSpA. However, today we thought we would provide more of a Project Nightingale specific update.
 
@@ -15,7 +15,7 @@ Although we have been quiet on the blog, our researchers have been busy – with
 
 Also, super excitingly, we have recently received support from the **Sir Halley Stewart Trust** – who have funded a full-time researcher to work on this project! **Rosie Barnett** has been working on the project previously in her spare time, but since the end of August 2020, will now be full-time Project Nightingale. Many of you may have met her already at one of our Project Nightingale information days, or at the recent National Axial Spondyloarthritis Society (NASS) members day ([**https://nass.co.uk/rosie-barnett-speaker-profile/**](https://nass.co.uk/rosie-barnett-speaker-profile/ "https://nass.co.uk/rosie-barnett-speaker-profile/")). She is super excited to continue working on the project full-time and looks forward to the months ahead! Thank you so much **Sir Halley Stewart Trust** for your support.
 
-![](/uploads/profile-picture_rb.jpg)
+![](/uploads/profile-picture_rb_shrunken.jpg)
 
 ![](/uploads/shst-final.jpg)
 
@@ -33,7 +33,7 @@ The Project Nightingale Team
 
 **P274 Association of self-reported symptoms and behaviour in axSpA: initial analyses from the Project Nightingale study**
 
-[Rosie Barnett](javascript:;), [Stanley Ng](javascript:;), [Simon L Jones](javascript:;), [Matthew Young](javascript:;), [Raj Sengupta](javascript:;)
+\[Rosie Barnett\](javascript:;), \[Stanley Ng\](javascript:;), \[Simon L Jones\](javascript:;), \[Matthew Young\](javascript:;), \[Raj Sengupta\](javascript:;)
 
 _Rheumatology_, Volume 59, Issue Supplement_2, April 2020, keaa111.267, [https://doi.org/10.1093/rheumatology/keaa111.267](https://doi.org/10.1093/rheumatology/keaa111.267 "https://doi.org/10.1093/rheumatology/keaa111.267")
 
