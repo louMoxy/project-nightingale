@@ -50,5 +50,15 @@ headline = "Twitter"
 template = "1-column-text"
 textAlignment = "left"
 textColor = ""
+[[page_sections]]
+alignment = "left"
+block = "one-column-1"
+content = "A community for people affected by axial spondyloarthritis (AxSpA). Learn, share, and connect with peers and healthcare professionals.<br><a href=\"https://axialspondyloarthritis.net/\" title=\"https://axialspondyloarthritis.net/\">https://axialspondyloarthritis.net/</a>"
+has_padding = true
+headerColor = "#F8E71C"
+headline = "AxialSpondyloarthritis.net"
+template = "1-column-text"
+textAlignment = "left"
+textColor = ""
 
 +++
