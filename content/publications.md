@@ -2,6 +2,8 @@
 date = ""
 layout = "blocks"
 title = "Publications"
+[menu.main]
+weight = 7
 [[page_sections]]
 backgroundColor = "#36E4DA"
 block = "text-only-hero-banner"
