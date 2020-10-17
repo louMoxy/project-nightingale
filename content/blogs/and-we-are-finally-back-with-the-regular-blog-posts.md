@@ -1,6 +1,5 @@
 +++
 date = 2020-09-06T20:00:00Z
-draft = true
 layout = "simplePage"
 title = "And we are finally back with the regular blog posts…"
 
