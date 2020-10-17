@@ -6,9 +6,9 @@ title = "Publications"
 [[page_sections]]
 alignment = "left"
 block = "one-column-1"
-content = "EULAR, June 2020<br>Daily self-reported flare profiles in axial spondyloarthritis: Associations between flare, symptoms and behaviour. <br>Barnett, R., Ng, S., Jones, S., Young, M. &amp; Sengupta, R., 5 Jun 2020.<br><a href=\"https://ard.bmj.com/content/79/Suppl_1/744.1\" title=\"https://ard.bmj.com/content/79/Suppl_1/744.1\">https://ard.bmj.com/content/79/Suppl_1/744.1</a><br><br>BSRS"
+content = "<strong><span style=\"text-decoration: underline;\">EULAR, June 2020</span></strong><br>Daily self-reported flare profiles in axial spondyloarthritis: Associations between flare, symptoms and behaviour. <br>Barnett, R., Ng, S., Jones, S., Young, M. &amp; Sengupta, R., 5 Jun 2020.<br><a href=\"https://ard.bmj.com/content/79/Suppl_1/744.1\" title=\"https://ard.bmj.com/content/79/Suppl_1/744.1\">https://ard.bmj.com/content/79/Suppl_1/744.1</a><br><br><strong><span style=\"text-decoration: underline;\">BSR, April 2020</span></strong><br>P274 Association of self-reported symptoms and behaviour in axSpA: initial analyses from the Project Nightingale study.<br>Barnett, R., Ng, S., Jones, S., Young, M. &amp; Sengupta, R., Apr 2020.<br><a href=\"https://academic.oup.com/rheumatology/article/59/Supplement_2/keaa111.267/5822494\" title=\"https://academic.oup.com/rheumatology/article/59/Supplement_2/keaa111.267/5822494\">https://academic.oup.com/rheumatology/article/59/Supplement_2/keaa111.267/5822494</a><br>"
 has_padding = true
-headerColor = ""
+headerColor = "#7ED321"
 headline = "Conference papers"
 template = "1-column-text"
 textAlignment = "left"
