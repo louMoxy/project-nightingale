@@ -4,6 +4,8 @@ layout = "simplePage"
 title = "And we are finally back with the regular blog posts…"
 
 +++
+# And we are finally back with the regular blog posts…
+
 Hi everyone – if you are new to the blog, then welcome! I hope that everyone is keeping well during these strange times.
 
 2020 has been a bit of a hectic, _unprecedented_ time for us all (although I am sure we are all fed up of hearing this word!). However, things are finally beginning to slowly calm down for us now at the hospital. With the virtual 2-week axial spondyloarthritis (axSpA) rehabilitation course beginning next week in Bath, it certainly feels like things are finally, slowly returning to a new normal – although, temporarily in an adaptive, innovative, but very different format.
