@@ -43,7 +43,11 @@ In this paper, Dr Marzo-Ortega and colleagues provide a detailed insight into ax
 **Key messages**
 
 1. Non-radiographic and radiographic axial spondyloarthritis is an artificial split of one single disease entity.
+
+    
 2. Non-radiographic and radiographic axial spondyloarthritis carry a comparable disease burden and may need equal treatment options.
+
+    
 3. Axial spondyloarthritis should be seen as a continuum, to facilitate research in areas of unmet need, including:
 
    \-Understanding the factors that determine disease progression
@@ -65,8 +69,16 @@ Despite the publication of various recommendations, quality standards and referr
 **Key messages**
 
 1. There remains a concerning delay to diagnosis and treatment in axial SpA.
+
+    
 2. Significant shortcomings exist at the primary and secondary care level.
+
+    
 3. Improved education of healthcare professionals and implementation of early referral strategies is required.
+
+ 
+
+ 
 
 ![](/uploads/figure-1-summary_04jul2020-jpeg.jpg)
 
@@ -122,7 +134,11 @@ The axial SpAs (axSpAs) are a heterogeneous set of diseases with variation in pr
 **Key messages**
 
 1. There is much variety in clinical presentation and genetics within the axSpA spectrum.
+
+    
 2. Differences in genetic associations within axSpA may explain differences in responses to therapies.
+
+    
 3. Genetic data indicate that there is more variation within non-radiographic axial spondyloarthritis than in ankylosing spondylitis.
 
 # [Classification vs diagnostic criteria: the challenge of diagnosing axial spondyloarthritis](https://academic.oup.com/rheumatology/article/59/Supplement_4/iv6/5923432)
@@ -146,7 +162,11 @@ Much has previously been written about the role of the immune system in axSpA. T
 **Key messages**
 
 1. **Innate immunity** involves barriers that keep harmful materials from entering your body. These barriers form the first line of defense in the **immune** response. Recent evidence suggests that the gut microbiome plays a significant role in innate immunity. Subclinical gut barrier dysfunction is an early axial SpA (axSpA) feature, thus incriminating innate immunity in axSpA.
+
+    
 2. Entheseal biomechanical stress and resident innate immune cells also implicate musculoskeletal innate immunity in early axSpA.
+
+    
 3. Genetics, intestinal permeability/dysbiosis and axSpA tissue response collectively incriminate extensive innate immune ‘danger signals’ in axSpA.
 
 # [Treatment strategies in axial spondyloarthritis: what, when and how?](https://academic.oup.com/rheumatology/article/59/Supplement_4/iv79/5923433)
@@ -162,7 +182,11 @@ Optimal management of axSpA typically requires both **non-pharmacological and ph
 **Key messages**
 
 1. There have been major advances resulting in more treatment options for axSpA.
+
+    
 2. **Optimal treatment of axSpA requires a combination of non-pharmacological and pharmacological treatments.**
+
+    
 
    \- Non-pharmacological strategies involve mainly exercise therapies, education, lifestyle and behavioural changes and self-management. Exercise remains the cornerstone in the treatment of axSpA. In addition to improving many axSpA outcomes, including disease activity, pain, spinal mobility and function, regular exercise has significantly lower cost and fewer adverse effects compared with NSAIDs or biologics, with additional benefits for general health and well-being. The optimal intensity and format of exercise in axSpA remains unclear, with current evidence favouring a combination of endurance and strength training. It is unlikely that there will be a single exercise regimen suitable for all people with axSpA, so a more personalized approach is required, with the type and intensity of the exercise adapted to the patient’s demographics, preferences, comorbidities and disease severity.
 
