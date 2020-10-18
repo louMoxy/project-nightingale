@@ -16,21 +16,21 @@
                 <form name="contact-us-form" action="" method="POST" data-netlify="true">
                     <input type="hidden" name="form-name" value="Email signup" />
                     <div class="field">
-                        <label class="label">Name</label>
+                        <label class="label" for="contact-form-name">Name</label>
                         <div class="control">
-                            <input id="contact-form-name" name="name" type="text" placeholder="John Smith" class="input" required="true">
+                            <input id="contact-form-name" name="name" type="text" placeholder="John Smith" class="input" required>
                         </div>
                     </div>
                     <div class="field">
-                        <label class="label">Email:</label>
+                        <label class="label" for="contact-form-email">Email:</label>
                         <div class="control">
-                            <input id="contact-form-email" name="Email" type="email" placeholder="Email Address" class="input" required="true">
+                            <input id="contact-form-email" name="Email" type="email" placeholder="Email Address" class="input" required>
                         </div>
                     </div>
                     <div class="field">
-                        <label class="label">Message:</label>
+                        <label for="contact-form-message" class="label">Message:</label>
                         <div class="control">
-                            <input id="contact-form-message" name="message" type="text" placeholder="Hey there" class="input" required="true">
+                            <textarea id="contact-form-message" name="message" class="textarea" required placeholder="Hey..."></textarea>
                         </div>
                     </div>
                     <div class="field is-grouped is-grouped-right">
