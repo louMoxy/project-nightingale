@@ -1,7 +1,7 @@
-baseURL = ""
+baseURL = "https://www.projectnightingale.org"
 languageCode = "en-us"
 sectionPagesMenu = "main"
-title = "uBuild: A Page Builder For Hugo and Forestry.io"
+title = "Project Nightingale "
 [Params]
 footerText = "© Copyright 2020, Project Nightingale"
 logo = "uploads/logo-516c18ef04e0eead60f85595d9f8b56a.png"

@@ -3,7 +3,7 @@ date = ""
 layout = "blocks"
 title = "Resources"
 [menu.main]
-weight = 6
+weight = 4
 [[page_sections]]
 backgroundColor = "#36E4DA"
 block = "text-only-hero-banner"
