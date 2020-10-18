@@ -43,9 +43,12 @@ In this paper, Dr Marzo-Ortega and colleagues provide a detailed insight into ax
 1. Non-radiographic and radiographic axial spondyloarthritis is an artificial split of one single disease entity.
 2. Non-radiographic and radiographic axial spondyloarthritis carry a comparable disease burden and may need equal treatment options.
 3. Axial spondyloarthritis should be seen as a continuum, to facilitate research in areas of unmet need, including:
-   * Understanding the factors that determine disease progression
-   * Exploring treatment strategies that would allow for the best outcome for each individual
-   * Better characterising the natural history of disease
+
+   \-Understanding the factors that determine disease progression
+
+   \-Exploring treatment strategies that would allow for the best outcome for each individual
+
+   \-Better characterising the natural history of disease
 
 You may remember that we have provided some detail on axSpA as a disease spectrum in one of our prior blog posts also (please click here if you are interested: [https://www.projectnightingale.org/blogs/axial-spondyloarthritis-what-is-axspa-and-how-does-it-relate-to-ankylosing-spondylitis/](https://www.projectnightingale.org/blogs/axial-spondyloarthritis-what-is-axspa-and-how-does-it-relate-to-ankylosing-spondylitis/ "https://www.projectnightingale.org/blogs/axial-spondyloarthritis-what-is-axspa-and-how-does-it-relate-to-ankylosing-spondylitis/")). The term ‘ankylosing spondylitis’ is used to describe axSpA when clear structural changes can be seen on an x-ray; meanwhile ‘nr-axSpA’ can be used to describe axSpA whereby clear structural changes are not found on an x-ray, but instead may be diagnosed from other clinical features and potentially magnetic resonance imaging (MRI) results. While we are still unsure regarding the natural history of axSpA, it is clear that not all people with nr-axSpA go on to develop structural changes detectable by x-ray. However, it is worth noting that the people more likely to progress radiographically may be smokers, male, HLA-B27 positive, and have higher baseline levels of structural changes or CRP/ESR (see 2018 review by Sari & Haroon for details: [https://link.springer.com/article/10.1007%2Fs11926-018-0795-4](https://link.springer.com/article/10.1007%2Fs11926-018-0795-4 "https://link.springer.com/article/10.1007%2Fs11926-018-0795-4")). As outlined by Dr Marzo-Ortega and colleagues, it is important to note that the cut-off between nr-axSpA and AS is arbitrary, and burden of disease can be similar for both people with nr-axSpA and people with AS.
 
@@ -81,18 +84,20 @@ Mounting evidence reveals evident sex differences in physiology, disease present
 
 **Key messages**
 
-* Women with axSpA have a longer diagnostic delay compared with males. This may be due to:
-  * Differences in presenting symptoms
-  * AxSpA in women sometimes misdiagnosed as fibromyalgia
-  * Historical perception (now myth) of axSpA as a “male disease”
-  * In men, SpA often diagnosed may years before first attack of acute anterior uveitis (AAU). However, in women, diagnosis is significantly more often made after the first attack of AAU. Therefore, screening of AAU patients in ophthalmology could reduce diagnostic delay, especially in women
-* Women with axSpA show significantly lower TNF inhibitor efficacy and drug survival compared with males.
-* Men have a higher radiological progression, but the disease burden is similar for both sexes.
+1. Women with axSpA have a longer diagnostic delay compared with males. This may be due to:
 
-· Ankylosing spondylitis (AS) or radiological axial SpA (axSpA) is more frequently diagnosed in men compared with women (3:1), whereas non-radiographic axSpA has an equal sex distribution. The authors suggest that this sex distribution might be explained by differences in disease course between the two sexes. Men with axSpA show a higher radiological progression (45 vs 33%), whereas women show higher disease activity scores (mean BASDAI 3.2–5.9 vs 3.9–6.3) and extra-articular manifestations (73 vs 82%).
+       a) Differences in presenting symptoms
 
-* Women with axSpA are found to be less often positive for the HLA-B27 allele compared with males, which might explain the different presentation of axSpA in men and women, such as radiological progression. The presence of the HLA-B27 allele is associated with a greater chance for a positive MRI of the SI joints. In addition, HLA-B27 has also been found to be a predictor for having a positive treatment response and better drug survival on biologics.
-* For women, pain sensation fluctuates during the menstrual cycle and women also have a greater number of pain receptors and a different expression of these receptors, for instance, in the opioid receptors. This could explain the overall higher pain sensitivity in women compared with men, which might contribute to higher pain scores reported for patient questionnaires by women with rheumatic diseases.
+       b) AxSpA in women sometimes misdiagnosed as fibromyalgia
+
+       c) Historical perception (now myth) of axSpA as a “male disease”
+
+       d) In men, SpA often diagnosed may years before first attack of acute  anterior uveitis (AAU). However, in women, diagnosis is significantly more often made after the first attack of AAU. Therefore, screening of AAU patients in ophthalmology could reduce diagnostic delay, especially in women
+2. Women with axSpA show significantly lower TNF inhibitor efficacy and drug survival compared with males.
+3. Men have a higher radiological progression, but the disease burden is similar for both sexes.
+4. Ankylosing spondylitis (AS) or radiological axial SpA (axSpA) is more frequently diagnosed in men compared with women (3:1), whereas non-radiographic axSpA has an equal sex distribution. The authors suggest that this sex distribution might be explained by differences in disease course between the two sexes. Men with axSpA show a higher radiological progression (45 vs 33%), whereas women show higher disease activity scores (mean BASDAI 3.2–5.9 vs 3.9–6.3) and extra-articular manifestations (73 vs 82%).
+5. Women with axSpA are found to be less often positive for the HLA-B27 allele compared with males, which might explain the different presentation of axSpA in men and women, such as radiological progression. The presence of the HLA-B27 allele is associated with a greater chance for a positive MRI of the SI joints. In addition, HLA-B27 has also been found to be a predictor for having a positive treatment response and better drug survival on biologics.
+6. For women, pain sensation fluctuates during the menstrual cycle and women also have a greater number of pain receptors and a different expression of these receptors, for instance, in the opioid receptors. This could explain the overall higher pain sensitivity in women compared with men, which might contribute to higher pain scores reported for patient questionnaires by women with rheumatic diseases.
 
 # [Prevalence and impact of comorbidities in axial spondyloarthritis: systematic review and meta-analysis](https://academic.oup.com/rheumatology/article/59/Supplement_4/iv47/5923434)
 
@@ -114,9 +119,9 @@ The axial SpAs (axSpAs) are a heterogeneous set of diseases with variation in pr
 
 **Key messages**
 
-* There is much variety in clinical presentation and genetics within the axSpA spectrum.
-* Differences in genetic associations within axSpA may explain differences in responses to therapies.
-* Genetic data indicate that there is more variation within non-radiographic axial spondyloarthritis than in ankylosing spondylitis.
+1. There is much variety in clinical presentation and genetics within the axSpA spectrum.
+2. Differences in genetic associations within axSpA may explain differences in responses to therapies.
+3. Genetic data indicate that there is more variation within non-radiographic axial spondyloarthritis than in ankylosing spondylitis.
 
 # [Classification vs diagnostic criteria: the challenge of diagnosing axial spondyloarthritis](https://academic.oup.com/rheumatology/article/59/Supplement_4/iv6/5923432)
 
@@ -138,9 +143,9 @@ Much has previously been written about the role of the immune system in axSpA. T
 
 **Key messages**
 
-* **Innate immunity** involves barriers that keep harmful materials from entering your body. These barriers form the first line of defense in the **immune** response. Recent evidence suggests that the gut microbiome plays a significant role in innate immunity. Subclinical gut barrier dysfunction is an early axial SpA (axSpA) feature, thus incriminating innate immunity in axSpA.
-* Entheseal biomechanical stress and resident innate immune cells also implicate musculoskeletal innate immunity in early axSpA.
-* Genetics, intestinal permeability/dysbiosis and axSpA tissue response collectively incriminate extensive innate immune ‘danger signals’ in axSpA.
+1. **Innate immunity** involves barriers that keep harmful materials from entering your body. These barriers form the first line of defense in the **immune** response. Recent evidence suggests that the gut microbiome plays a significant role in innate immunity. Subclinical gut barrier dysfunction is an early axial SpA (axSpA) feature, thus incriminating innate immunity in axSpA.
+2. Entheseal biomechanical stress and resident innate immune cells also implicate musculoskeletal innate immunity in early axSpA.
+3. Genetics, intestinal permeability/dysbiosis and axSpA tissue response collectively incriminate extensive innate immune ‘danger signals’ in axSpA.
 
 # [Treatment strategies in axial spondyloarthritis: what, when and how?](https://academic.oup.com/rheumatology/article/59/Supplement_4/iv79/5923433)
 
@@ -154,9 +159,11 @@ Optimal management of axSpA typically requires both **non-pharmacological and ph
 
 **Key messages**
 
-* There have been major advances resulting in more treatment options for axSpA.
-* **Optimal treatment of axSpA requires a combination of non-pharmacological and pharmacological treatments.**
-  * Non-pharmacological strategies involve mainly exercise therapies, education, lifestyle and behavioural changes and self-management. Exercise remains the cornerstone in the treatment of axSpA. In addition to improving many axSpA outcomes, including disease activity, pain, spinal mobility and function, regular exercise has significantly lower cost and fewer adverse effects compared with NSAIDs or biologics, with additional benefits for general health and well-being. The optimal intensity and format of exercise in axSpA remains unclear, with current evidence favouring a combination of endurance and strength training. It is unlikely that there will be a single exercise regimen suitable for all people with axSpA, so a more personalized approach is required, with the type and intensity of the exercise adapted to the patient’s demographics, preferences, comorbidities and disease severity.
-  * The current licensed drug treatments for axSpA are NSAIDs and biologic DMARDs (bDMARDs) targeting TNF or IL-17A, which in general appear to have similar clinical efficacy in AS and non-radiographic axSpA. JAK inhibitors are a promising therapeutic modality for axSpA, with several phase 3 clinical trials underway. Observational data indicate that, generally, HLA-B27 positivity, younger age, shorter disease duration, male gender, elevated CRP and inflammatory MRI features are associated with higher response rates to TNF inhibitors in axSpA, while obesity and smoking are associated with lower response rates. These factors are not entirely surprising; the predictors of ‘good response’ essentially reflect a higher likelihood of the patient truly having active inflammatory axSpA, as opposed to other causes of back pain such as degenerative disc disease or fibromyalgia, which are unlikely to respond to biologics and which require different management strategies.
-* Extra-articular manifestations and comorbidities can help inform biologic choice in axSpA.
-* Early treatment is associated with better clinical response but evidence for reduced radiographic progression is still awaited.
+1. There have been major advances resulting in more treatment options for axSpA.
+2. **Optimal treatment of axSpA requires a combination of non-pharmacological and pharmacological treatments.**
+
+   \- Non-pharmacological strategies involve mainly exercise therapies, education, lifestyle and behavioural changes and self-management. Exercise remains the cornerstone in the treatment of axSpA. In addition to improving many axSpA outcomes, including disease activity, pain, spinal mobility and function, regular exercise has significantly lower cost and fewer adverse effects compared with NSAIDs or biologics, with additional benefits for general health and well-being. The optimal intensity and format of exercise in axSpA remains unclear, with current evidence favouring a combination of endurance and strength training. It is unlikely that there will be a single exercise regimen suitable for all people with axSpA, so a more personalized approach is required, with the type and intensity of the exercise adapted to the patient’s demographics, preferences, comorbidities and disease severity.
+
+   \- The current licensed drug treatments for axSpA are NSAIDs and biologic DMARDs (bDMARDs) targeting TNF or IL-17A, which in general appear to have similar clinical efficacy in AS and non-radiographic axSpA. JAK inhibitors are a promising therapeutic modality for axSpA, with several phase 3 clinical trials underway. Observational data indicate that, generally, HLA-B27 positivity, younger age, shorter disease duration, male gender, elevated CRP and inflammatory MRI features are associated with higher response rates to TNF inhibitors in axSpA, while obesity and smoking are associated with lower response rates. These factors are not entirely surprising; the predictors of ‘good response’ essentially reflect a higher likelihood of the patient truly having active inflammatory axSpA, as opposed to other causes of back pain such as degenerative disc disease or fibromyalgia, which are unlikely to respond to biologics and which require different management strategies.
+3. Extra-articular manifestations and comorbidities can help inform biologic choice in axSpA.
+4. Early treatment is associated with better clinical response but evidence for reduced radiographic progression is still awaited.
