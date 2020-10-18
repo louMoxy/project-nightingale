@@ -4,6 +4,8 @@ layout = "simplePage"
 title = "Special supplement within the journal “Rheumatology”"
 
 +++
+# Special supplement within the journal “Rheumatology”
+
 Hi everyone – if you are new to the blog, then welcome! I hope that everyone is keeping well during these strange times.
 
 In rather exciting news, this month’s addition of _Rheumatology_ (Oxford University Press) had a special supplement addition specifically regarding axial spondyloarthritis (axSpA). The aim of this edition is to provide a comprehensive overview of axSpA for clinical rheumatologists and general physicians. Such educational tools/ research updates will hopefully be critical in raising awareness of axSpA and helping to reduce the delay to diagnosis.
@@ -17,8 +19,6 @@ Thank you for reading and have a good rest of the weekend everyone!
 Best wishes,
 
 The Project Nightingale Team
-
- 
 
 **EDITORIAL**
 
@@ -43,11 +43,7 @@ In this paper, Dr Marzo-Ortega and colleagues provide a detailed insight into ax
 **Key messages**
 
 1. Non-radiographic and radiographic axial spondyloarthritis is an artificial split of one single disease entity.
-
-    
 2. Non-radiographic and radiographic axial spondyloarthritis carry a comparable disease burden and may need equal treatment options.
-
-    
 3. Axial spondyloarthritis should be seen as a continuum, to facilitate research in areas of unmet need, including:
 
    \-Understanding the factors that determine disease progression
@@ -69,16 +65,8 @@ Despite the publication of various recommendations, quality standards and referr
 **Key messages**
 
 1. There remains a concerning delay to diagnosis and treatment in axial SpA.
-
-    
 2. Significant shortcomings exist at the primary and secondary care level.
-
-    
 3. Improved education of healthcare professionals and implementation of early referral strategies is required.
-
- 
-
- 
 
 ![](/uploads/figure-1-summary_04jul2020-jpeg.jpg)
 
@@ -101,11 +89,11 @@ Mounting evidence reveals evident sex differences in physiology, disease present
 1. Women with axSpA have a longer diagnostic delay compared with males. This may be due to:
 
        a) Differences in presenting symptoms
-
+       
        b) AxSpA in women sometimes misdiagnosed as fibromyalgia
-
+       
        c) Historical perception (now myth) of axSpA as a “male disease”
-
+       
        d) In men, SpA often diagnosed may years before first attack of acute  anterior uveitis (AAU). However, in women, diagnosis is significantly more often made after the first attack of AAU. Therefore, screening of AAU patients in ophthalmology could reduce diagnostic delay, especially in women
 2. Women with axSpA show significantly lower TNF inhibitor efficacy and drug survival compared with males.
 3. Men have a higher radiological progression, but the disease burden is similar for both sexes.
@@ -134,11 +122,7 @@ The axial SpAs (axSpAs) are a heterogeneous set of diseases with variation in pr
 **Key messages**
 
 1. There is much variety in clinical presentation and genetics within the axSpA spectrum.
-
-    
 2. Differences in genetic associations within axSpA may explain differences in responses to therapies.
-
-    
 3. Genetic data indicate that there is more variation within non-radiographic axial spondyloarthritis than in ankylosing spondylitis.
 
 # [Classification vs diagnostic criteria: the challenge of diagnosing axial spondyloarthritis](https://academic.oup.com/rheumatology/article/59/Supplement_4/iv6/5923432)
@@ -162,11 +146,7 @@ Much has previously been written about the role of the immune system in axSpA. T
 **Key messages**
 
 1. **Innate immunity** involves barriers that keep harmful materials from entering your body. These barriers form the first line of defense in the **immune** response. Recent evidence suggests that the gut microbiome plays a significant role in innate immunity. Subclinical gut barrier dysfunction is an early axial SpA (axSpA) feature, thus incriminating innate immunity in axSpA.
-
-    
 2. Entheseal biomechanical stress and resident innate immune cells also implicate musculoskeletal innate immunity in early axSpA.
-
-    
 3. Genetics, intestinal permeability/dysbiosis and axSpA tissue response collectively incriminate extensive innate immune ‘danger signals’ in axSpA.
 
 # [Treatment strategies in axial spondyloarthritis: what, when and how?](https://academic.oup.com/rheumatology/article/59/Supplement_4/iv79/5923433)
@@ -182,11 +162,7 @@ Optimal management of axSpA typically requires both **non-pharmacological and ph
 **Key messages**
 
 1. There have been major advances resulting in more treatment options for axSpA.
-
-    
 2. **Optimal treatment of axSpA requires a combination of non-pharmacological and pharmacological treatments.**
-
-    
 
    \- Non-pharmacological strategies involve mainly exercise therapies, education, lifestyle and behavioural changes and self-management. Exercise remains the cornerstone in the treatment of axSpA. In addition to improving many axSpA outcomes, including disease activity, pain, spinal mobility and function, regular exercise has significantly lower cost and fewer adverse effects compared with NSAIDs or biologics, with additional benefits for general health and well-being. The optimal intensity and format of exercise in axSpA remains unclear, with current evidence favouring a combination of endurance and strength training. It is unlikely that there will be a single exercise regimen suitable for all people with axSpA, so a more personalized approach is required, with the type and intensity of the exercise adapted to the patient’s demographics, preferences, comorbidities and disease severity.
 
