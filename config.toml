@@ -1,7 +1,9 @@
 baseURL = "https://www.projectnightingale.org"
 languageCode = "en-us"
 sectionPagesMenu = "main"
-title = "Project Nightingale "
+title = "Project Nightingale"
+[Author]
+name="Project Nightingale"
 [Params]
 footerText = "© Copyright 2020, Project Nightingale"
 logo = "uploads/logo-516c18ef04e0eead60f85595d9f8b56a.png"
