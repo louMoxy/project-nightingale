@@ -1,6 +1,5 @@
 +++
 date = 2020-10-18T07:55:36Z
-draft = true
 layout = "simplePage"
 title = "Special supplement within the journal “Rheumatology”"
 
