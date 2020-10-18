@@ -4,7 +4,7 @@ layout = "simplePage"
 title = "Special supplement within the journal “Rheumatology”"
 
 +++
-# Special supplement within the journal “Rheumatology”
+# Special supplement within the journal “Rheumatology” 
 
 Hi everyone – if you are new to the blog, then welcome! I hope that everyone is keeping well during these strange times.
 
