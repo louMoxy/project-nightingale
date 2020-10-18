@@ -64,13 +64,11 @@ Despite the publication of various recommendations, quality standards and referr
 * Significant shortcomings exist at the primary and secondary care level.
 * Improved education of healthcare professionals and implementation of early referral strategies is required.
 
-![](/uploads/figure-1-summary_04jul2020.tiff)
+![](/uploads/figure-1-summary_04jul2020-jpeg.jpg)
 
 **Summary figure: source of the axial SpA lost tribe**
 
-![Chart, diagram, bubble chart
-
-Description automatically generated](file:///C:/Users/rosie/AppData/Local/Temp/msohtmlclip1/01/clip_image004.jpg =602x448)
+![](/uploads/figure-5-summary_v1-0-jpeg.jpg)
 
 **Summary figure: implementable steps to reduce diagnostic delay in axSpA.**
 
@@ -107,21 +105,6 @@ Comorbidities are common in people with axial spondyloarthritis (axSpA). In this
 
 The most prevalent individual comorbidities were hypertension (pooled prevalence 23%), hyperlipidaemia (17%) and obesity (14%). Eleven studies consistently showed higher prevalence of comorbidities in axSpA than controls, particularly large differences were seen for depression and heart failure. Comorbidities (total number of and individual conditions) were also associated with axSpA disease activity, functional impairment, quality of life, work productivity and mortality. Systematic and repeated assessments should therefore be integrated into routine clinical practice to ensure holistic patient-centred management. Additional studies are needed to validate comorbidities indices (measurements) for axSpA research.
 
-**Odds ratios (OR) of comorbidities compared between axSpA and control groups** _(I.e. likelihood of comorbidity occurring in individuals with axSpA versus those without axSpA. E.g. below, someone with axSpA 1.58x more likely to be diagnosed with hypertension)._
-
-| --- | --- | --- | --- | --- | --- |
-|  | n | Pooled OR | 95% CI | I2, % | OR range |
-| Hypertension | 9 | 1.58 | 1.29, 1.92 | 98 | 1.09, 3.01 |
-| Any cardiovascular disease | 3 | 1.42 | 0.999, 2.03 | 99 | 1.14, 1.97 |
-| Any ischaemic heart disease | 7 | 1.51 | 1.21, 1.87 | 87 | 1.10, 2.74 |
-| Heart failure | 4 | 1.84 | 1.25, 2.73 | 89 | 1.42, 2.74 |
-| Stroke | 6 | 1.30 | 1.04, 1.62 | 81 | 0.95, 1.80 |
-| Peripheral vascular disease | 5 | 1.47 | 1.10, 1.96 | 83 | 1.06, 2.21 |
-| Diabetes | 8 | 1.14 | 1.001, 1.30 | 83 | 0.90, 1.31 |
-| Hyperlipidaemia | 5 | 1.18 | 1.01, 1.39 | 94 | 1.02, 1.46 |
-| Cancer | 5 | 1.22 | 1.01, 1.47 | 93 | 0.80, 1.59 |
-| Depression | 4 | 1.80 | 1.45, 2.23 | 92 | 1.45, 2.10 |
-
 # [Genetics and the axial spondyloarthritis spectrum](https://academic.oup.com/rheumatology/article/59/Supplement_4/iv58/5923443)
 
 [Matthew A Brown](https://academic.oup.com/rheumatology/search-results?f_Authors=Matthew+A+Brown), [Huji Xu](https://academic.oup.com/rheumatology/search-results?f_Authors=Huji+Xu), [Zhixiu Li](https://academic.oup.com/rheumatology/search-results?f_Authors=Zhixiu+Li)
@@ -150,7 +133,7 @@ As touched upon in the above articles, although significant progress has been ma
 
 _Rheumatology_, Volume 59, Issue Supplement_4, October 2020, Pages iv67–iv78, [https://doi.org/10.1093/rheumatology/keaa408](https://doi.org/10.1093/rheumatology/keaa408 "https://doi.org/10.1093/rheumatology/keaa408")
 
-![Text Box: Note: Entheses are the site of attachment of tendon, ligament, fascia, or capsule to bone. Entheses are commonly inflamed in axSpA, whereby inflammation of the entheses is defined as enthesitis.](file:///C:/Users/rosie/AppData/Local/Temp/msohtmlclip1/01/clip_image005.png =585x88)
+![](/uploads/untitled.jpg)
 
 Much has previously been written about the role of the immune system in axSpA. The purpose of this review is to summarize the evidence on the role of innate immunity in disease initiation in axSpA. The authors split the role of innate immunity into two major categories, innate immunity in the gut in axSpA and its role at physically stressed sites. They then evaluate the ‘danger signals’ from both the intestine and entheses and other sites of high biomechanical stress or damage that may serve as key drivers of axSpA onset, evolution, disease flares and eventual outcomes.
 
