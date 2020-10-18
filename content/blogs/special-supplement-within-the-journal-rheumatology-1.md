@@ -59,9 +59,9 @@ Despite the publication of various recommendations, quality standards and referr
 
 **Key messages**
 
-* There remains a concerning delay to diagnosis and treatment in axial SpA.
-* Significant shortcomings exist at the primary and secondary care level.
-* Improved education of healthcare professionals and implementation of early referral strategies is required.
+1. There remains a concerning delay to diagnosis and treatment in axial SpA.
+2. Significant shortcomings exist at the primary and secondary care level.
+3. Improved education of healthcare professionals and implementation of early referral strategies is required.
 
 ![](/uploads/figure-1-summary_04jul2020-jpeg.jpg)
 
