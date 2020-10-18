@@ -40,12 +40,12 @@ In this paper, Dr Marzo-Ortega and colleagues provide a detailed insight into ax
 
 **Key messages**
 
-* Non-radiographic and radiographic axial spondyloarthritis is an artificial split of one single disease entity.
-* Non-radiographic and radiographic axial spondyloarthritis carry a comparable disease burden and may need equal treatment options.
-* Axial spondyloarthritis should be seen as a continuum, to facilitate research in areas of unmet need, including:
-  * Understanding the factors that determine disease progression
-  * Exploring treatment strategies that would allow for the best outcome for each individual
-  * Better characterising the natural history of disease
+1. Non-radiographic and radiographic axial spondyloarthritis is an artificial split of one single disease entity.
+2. Non-radiographic and radiographic axial spondyloarthritis carry a comparable disease burden and may need equal treatment options.
+3. Axial spondyloarthritis should be seen as a continuum, to facilitate research in areas of unmet need, including:
+   * Understanding the factors that determine disease progression
+   * Exploring treatment strategies that would allow for the best outcome for each individual
+   * Better characterising the natural history of disease
 
 You may remember that we have provided some detail on axSpA as a disease spectrum in one of our prior blog posts also (please click here if you are interested: [https://www.projectnightingale.org/blogs/axial-spondyloarthritis-what-is-axspa-and-how-does-it-relate-to-ankylosing-spondylitis/](https://www.projectnightingale.org/blogs/axial-spondyloarthritis-what-is-axspa-and-how-does-it-relate-to-ankylosing-spondylitis/ "https://www.projectnightingale.org/blogs/axial-spondyloarthritis-what-is-axspa-and-how-does-it-relate-to-ankylosing-spondylitis/")). The term ‘ankylosing spondylitis’ is used to describe axSpA when clear structural changes can be seen on an x-ray; meanwhile ‘nr-axSpA’ can be used to describe axSpA whereby clear structural changes are not found on an x-ray, but instead may be diagnosed from other clinical features and potentially magnetic resonance imaging (MRI) results. While we are still unsure regarding the natural history of axSpA, it is clear that not all people with nr-axSpA go on to develop structural changes detectable by x-ray. However, it is worth noting that the people more likely to progress radiographically may be smokers, male, HLA-B27 positive, and have higher baseline levels of structural changes or CRP/ESR (see 2018 review by Sari & Haroon for details: [https://link.springer.com/article/10.1007%2Fs11926-018-0795-4](https://link.springer.com/article/10.1007%2Fs11926-018-0795-4 "https://link.springer.com/article/10.1007%2Fs11926-018-0795-4")). As outlined by Dr Marzo-Ortega and colleagues, it is important to note that the cut-off between nr-axSpA and AS is arbitrary, and burden of disease can be similar for both people with nr-axSpA and people with AS.
 
