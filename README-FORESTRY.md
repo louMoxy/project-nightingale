@@ -19,5 +19,4 @@ If you only plan to add text and images this is the template you need. The styli
 ### Page Builder
 If you need more styling options, or want to include a youtube clip then you can use this template...
  
-Todo rest
 
