@@ -40,8 +40,8 @@ page_sections:
   content: It’s simple – join the study via the uMotif app and record a few bits of
     information each day to track your symptoms and movement. If you have a wearable
     device (like a FitBit/Apple Watch), the app will connect with it and automatically
-    track sleep and exercise data.Currently, data recorded relating specifically to
-    a patient’s quality of life – i.e. work, sleep, exercise and flares, is poorly
+    track sleep and exercise data. Currently, data recorded relating specifically
+    to a patient’s quality of life – i.e. work, sleep, exercise and flares, is poorly
     recorded and can be subjective and prone to recall bias (a patient trying to remember
     how their sleep has been affected over the last year, how many flares they have
     had etc). This app makes it easy!
@@ -54,10 +54,11 @@ page_sections:
   has_padding: false
   content: Project Nightingale’s study is now live! If you’ve not already downloaded
     the App and would like to take part please enter your email address below to get
-    involved.It is important to note that currently, unfortunately participation in
-    Project Nightingale is only available for patients with axSpA at the Royal National
-    Hospital for Rheumatic Disease in Bath, or for people who have attended a clinical
-    appointment here. If you have any queries about this, please email <a href="mailto:hello@projectnightingale.org">hello@projectnightingale.org</a>
+    involved. It is important to note that currently, unfortunately participation
+    in Project Nightingale is only available for patients with axSpA at the Royal
+    National Hospital for Rheumatic Disease in Bath, or for people who have attended
+    a clinical appointment here. If you have any queries about this, please email
+    <a href="mailto:hello@projectnightingale.org">hello@projectnightingale.org</a>
     .
   textAlignment: left
 - template: signup-bar
@@ -71,7 +72,7 @@ page_sections:
     clinical consultation by addressing issues important to them. The data could also
     be used to help understand the benefits, or lack of, from any new treatments started.
     Importantly, this project is ongoing, so the longer you can log for the better
-    – there is currently no end date for data entry!<strong>Please note:</strong>
+    – there is currently no end date for data entry! <strong>Please note:</strong>
     Only your consultant will be able to see individual-level data. However, by taking
     part, all data will be made anonymous to be used for research to help others with
     Axial Spondyloarthritis.
