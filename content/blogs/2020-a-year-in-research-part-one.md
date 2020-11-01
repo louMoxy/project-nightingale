@@ -5,6 +5,8 @@ layout = "simplePage"
 title = "2020 – A year in research! Part one"
 
 +++
+# 2020 – A year in research! Part one
+
 Hi everyone – if you are new to the blog, then welcome! I hope that everyone is keeping well and having a good weekend.
 
 Over the next couple of blog posts, we are going to run through some of the key research highlights for axial spondyloarthritis (axSpA) over the past year. And oh, what a year it has been! This first blog post will provide updates from January 2020 – March 2020.
@@ -19,13 +21,13 @@ Best wishes,
 
 The Project Nightingale Team
 
-## New biologic drug treatment for axSpA - an update on ixekizumab
+### New biologic drug treatment for axSpA - an update on ixekizumab
 
-###### [COAST-V,](https://academic.oup.com/rheumatology/search-results?f_Authors=Helena+Marzo-Ortega) COAST-W, and COAST-X clinical trials
+#### [COAST-V,](https://academic.oup.com/rheumatology/search-results?f_Authors=Helena+Marzo-Ortega) COAST-W, and COAST-X clinical trials
 
-###### _COAST-V and COAST-W – efficacy and safety in individuals with radiographic axSpA (i.e. ankylosing spondylitis), Annals of the Rheumatic Diseases_, Volume 79, Issue 2, February 2020, Pages 179-185, [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7025731/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7025731/ "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7025731/")
+#### _COAST-V and COAST-W – efficacy and safety in individuals with radiographic axSpA (i.e. ankylosing spondylitis), Annals of the Rheumatic Diseases_, Volume 79, Issue 2, February 2020, Pages 179-185, [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7025731/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7025731/ "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7025731/")
 
-###### _COAST-X – efficacy and safety in individuals with non-radiographic axSpA, Lancet,_ Volume 395, Issue 10217, January 2020, Pages 53-64, [https://www.thelancet.com/journals/lancet/article/PIIS0140-6736](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736 "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736")[(19)32971-X/fulltext](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(19)32971-X/fulltext)
+#### _COAST-X – efficacy and safety in individuals with non-radiographic axSpA, Lancet,_ Volume 395, Issue 10217, January 2020, Pages 53-64, [https://www.thelancet.com/journals/lancet/article/PIIS0140-6736](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736 "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736")[(19)32971-X/fulltext](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(19)32971-X/fulltext)
 
 ### Background on biologics for axSpA
 
