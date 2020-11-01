@@ -26,6 +26,7 @@ fields:
     display_utc: false
   default: now
 pages:
+- content/blogs/2020-a-year-in-research-part-one.md
 - content/blogs/7th-bath-bristol-and-weston-combined-axial-spondyloarthropathy-meeting.md
 - content/blogs/and-the-new-website-is-live.md
 - content/blogs/and-we-are-finally-back-with-the-regular-blog-posts.md
