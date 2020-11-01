@@ -10,9 +10,9 @@ Hi everyone – if you are new to the blog, then welcome! I hope that everyone i
 
 Over the next couple of blog posts, we are going to run through some of the key research highlights for axial spondyloarthritis (axSpA) over the past year. And oh, what a year it has been! This first blog post will provide updates from January 2020 – March 2020.
 
-We hope you enjoy reading through the study overviews, and as always, please feel free to get in touch with any questions by **emailing Rosie at** [**rosie.barnett1@nhs.net**](mailto:rosie.barnett1@nhs.net), and she will be happy to discuss with you. If you are on twitter, you can also follow [**https://twitter.com/RosieBarnett95 **](https://twitter.com/RosieBarnett95 "https://twitter.com/RosieBarnett95")for regular research and Project Nightingale updates, including notifications for new blog posts!
+We hope you enjoy reading through the study overviews, and as always, please feel free to get in touch with any questions by **emailing Rosie at** [**rosie.barnett1@nhs.net**](mailto:rosie.barnett1@nhs.net), and she will be happy to discuss with you. If you are on twitter, you can also follow [**https://twitter.com/RosieBarnett95 **](https://twitter.com/RosieBarnett95 "https://twitter.com/RosieBarnett95") for regular research and Project Nightingale updates, including notifications for new blog posts!
 
-If you yourself are interested in writing a blog post for us, we would also love to hear from you! Not only regarding your potential experiences with Project Nightingale, but also regarding your general experiences with axSpA. Again, please emaile Rosie above, or get in touch using hello@projectnightingale.org.
+If you yourself are interested in writing a blog post for us, we would also love to hear from you! Not only regarding your potential experiences with Project Nightingale, but also regarding your general experiences with axSpA. Again, please email Rosie above, or get in touch using hello@projectnightingale.org.
 
 Thank you for reading and have a good rest of the weekend everyone!
 
