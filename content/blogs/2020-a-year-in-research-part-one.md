@@ -19,19 +19,19 @@ Best wishes,
 
 The Project Nightingale Team
 
-# New biologic drug treatment for axSpA - an update on ixekizumab
+## New biologic drug treatment for axSpA - an update on ixekizumab
 
-[COAST-V,](https://academic.oup.com/rheumatology/search-results?f_Authors=Helena+Marzo-Ortega) COAST-W, and COAST-X clinical trials
+###### [COAST-V,](https://academic.oup.com/rheumatology/search-results?f_Authors=Helena+Marzo-Ortega) COAST-W, and COAST-X clinical trials
 
-_COAST-V and COAST-W – efficacy and safety in individuals with radiographic axSpA (i.e. ankylosing spondylitis), Annals of the Rheumatic Diseases_, Volume 79, Issue 2, February 2020, Pages 179-185, [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7025731/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7025731/ "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7025731/")
+###### _COAST-V and COAST-W – efficacy and safety in individuals with radiographic axSpA (i.e. ankylosing spondylitis), Annals of the Rheumatic Diseases_, Volume 79, Issue 2, February 2020, Pages 179-185, [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7025731/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7025731/ "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7025731/")
 
-_COAST-X – efficacy and safety in individuals with non-radiographic axSpA, Lancet,_ Volume 395, Issue 10217, January 2020, Pages 53-64, [https://www.thelancet.com/journals/lancet/article/PIIS0140-6736](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736 "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736")[(19)32971-X/fulltext](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(19)32971-X/fulltext)
+###### _COAST-X – efficacy and safety in individuals with non-radiographic axSpA, Lancet,_ Volume 395, Issue 10217, January 2020, Pages 53-64, [https://www.thelancet.com/journals/lancet/article/PIIS0140-6736](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736 "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736")[(19)32971-X/fulltext](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(19)32971-X/fulltext)
 
-Background on biologics for axSpA
+### Background on biologics for axSpA
 
 Currently in the UK, NICE (National Institute for Health and Care Excellence) recommend the tumour necrosis factor alpha (TNF-alpha – an inflammatory molecule produced by cells of the immune system) inhibitors, adalimumab, certolizumab pegol, etanercept and golimumab as treatment options for adults with severe active axSpA whose disease has responded inadequately to, or who cannot tolerate non-steroidal anti-inflammatory drugs (NSAIDs). Infliximab is also recommended for adults with severe active ankylosing spondylitis specifically. Biosimilar versions of adalimumab, etanercept and infliximab are available (i.e. biological products that are very similar to the reference biologic – no _clinically_ meaningful differences in terms of safety, purity, and potency). NICE also recommends the interleukin-17A (IL-17A – like TNF-alpha, an inflammatory molecule produced by cells of the immune system) inhibitor secukinumab as an alternative to, or after inadequate response to TNF-alpha inhibitors for individuals with severe ankylosing spondylitis. Although secukinumab is yet to be licensed for use in non-radiographic axSpA in the UK, in June of this year, it was approved in the US. NICE will publish guidance on this in the UK on 19th May 2021 (previously delayed due to COVID).
 
-Ixekizumab
+### Ixekizumab
 
 Ixekizumab is another inhibitor of IL-17A, currently approved for use in moderate-to-severe plaque psoriasis and psoriatic arthritis with moderate-to-severe plaque psoriasis. It is not currently authorised for the treatment of axSpA in the UK.
 
@@ -39,15 +39,15 @@ Early this year, we saw publication of the 52-week results of three significant 
 
 Indeed, ixekizumab was just this year granted approval by the FDA in the US for treatment of both radiographic and non-radiographic axSpA! In the UK, unfortunately the NICE discussions/appraisal of ixekizumab has been delayed due to COVID. However, this is expected to be published on the **19th May 2021.**
 
-![](file:///C:/Users/rosie/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg =586x231)
+![](/uploads/picture3.png)
 
-A quick word on JAK inhibitors…
+### A quick word on JAK inhibitors…
 
 The inhibition of Janus Kinase (JAK) molecules may also represent a future treatment strategy for axSpA. An article published in October of this year discusses this in detail ([https://www.frontiersin.org/articles/10.3389/fimmu.2020.591176/full](https://www.frontiersin.org/articles/10.3389/fimmu.2020.591176/full "https://www.frontiersin.org/articles/10.3389/fimmu.2020.591176/full")). Although the data from three clinical trials of JAK inhibitors in active ankylosing spondylitis are very promising, studies evaluating patients who have failed TNF inhibitors or anti-IL-17 therapy will be of great interest to place JAK inhibitors in the treatment algorithm of axSpA. Other interesting issues are head-to-head comparisons with TNF inhibitors and efficacy in non-radiographic axSpA. Long-term safety results are also currently awaited.
 
 The authors of the October article suggested that **new orally available JAK inhibitors** will most likely soon be included in the treatment recommendations for axSpA and provide the clinician with options in patients who are not eligible or have contraindications to TNF inhibitors or anti-IL-17, such as allergic reactions, congestive heart failure or active IBD (anti-IL-17).
 
-The impact of smoking on response to TNF inhibitors in axial spondyloarthritis: methodological considerations for longitudinal observational studies
+## The impact of smoking on response to TNF inhibitors in axial spondyloarthritis: methodological considerations for longitudinal observational studies
 
 Sizheng Zhao, Kazuki Yoshida, Gareth T Jones, David M Hughes, Sara K Tedeschi, Houchen Lyu, Robert J Moots, Daniel H Solomon, and Nicola J Goodson.
 
@@ -57,9 +57,9 @@ The present paper by Zhao and colleagues used longitudinal data from the British
 
 The authors conclude that prescribers should dispel any subconscious bias that smokers may not respond as well to treatment. Nevertheless, emphasise the importance of smoking cessation, particularly given the high burden of heart disease in rheumatic patients. Furthermore, smoking is associated with more severe disease (activity, functional impairment and radiographic progression); although it is not known whether cessation leads to improvement in disease outcome. Conflicting results from prior studies are likely explained by methodological differences.
 
-![single cigarette stick with ashes stick](file:///C:/Users/rosie/AppData/Local/Temp/msohtmlclip1/01/clip_image004.jpg =314x207)
+![](/uploads/picture4.jpg)
 
-Structural progression in axial spondyloarthritis
+## Structural progression in axial spondyloarthritis
 
 Krystel Aouad, Nelly Ziade, Xenofon Baraliakos.
 
@@ -67,16 +67,9 @@ _Joint Bone Spine,_ 2020 Mar; 87(2):131-136. [https://doi.org/10.1016/j.jbspin.2
 
 The following review article discussed structural progression in axSpA. See highlights in bullet points below:
 
-![Rectangle: Rounded Corners: Highlights
-1.	Diagnosis at an early inflammatory stage of axial spondyloarthritis is a key condition for a better disease control and management.
-2.	The natural history of axSpA is now better understood with imaging studies and long-term follow-up data, with some predictive factors for structural progression being identified, particularly smoking, mechanical stress, obesity, elevated CRP, ASDAS (disease activity), BASDAI (disease activity), Bone Marrow Edema (fluid in the bone marrow) on MRI (imaging) and baseline syndesmophytes (bony growth inside a ligament, commonly in the spine).
-3.	Non-steroidal anti-inflammatory drugs are still considered as the first line treatment for axSpA, however, their impact on structural progression is conflicting.
-4.	Recent data on biologic disease-modifying antirheumatic drugs, such as tumor necrosis factor inhibitors have shown significant slowing of radiographic damage after several years of treatment, while first data with interleukin-17 inhibitors were also positive.
-5.	Novel emerging drugs are being evaluated with promising results on halting disease progression.
+![](/uploads/picture5.png)
 
-](file:///C:/Users/rosie/AppData/Local/Temp/msohtmlclip1/01/clip_image005.png =582x448)
-
-High intensity exercise for 3 months reduces disease activity in axial spondyloarthritis (axSpA): a multicentre randomised trial of 100 patients
+## High intensity exercise for 3 months reduces disease activity in axial spondyloarthritis (axSpA): a multicentre randomised trial of 100 patients
 
 Silje Halvorsen Sveaas, Annelie Bilberg, Inger Jorid Berg, Sella Arrestad Provan, Silvia Rollefstad, Anne Grete Semb, Kåre Birger Hagen, Melissa Woll Johansen, Elisabeth Pedersen, Hanne Dagfinrud
 
@@ -84,9 +77,11 @@ _British Journal of Sports Medicine 2020 Mar; **54:**292-297._ [https://bjsm.bmj
 
 We of course all know that exercise is considered important in the management of axSpA. However, prior to the present study, the impact of high intensity exercises on disease activity was unknown.
 
-In this randomised controlled trial of 100 participants with axSpA, aged from their 20s to 60s, high-intensity exercise over 3-months (in comparison to the no-intervention control group – instructed to maintain their usual physical activity level), reduced symptoms (pain, fatigue, stiffness), disease activity and also inflammation in people with axSpA. It also improved patients' function and cardiovascular health. **This debunks concerns that high intensity exercise might exacerbate disease activity in people with axSpA.** And suggests high intensity exercise as a potential management technique for individuals with axSpA.
+In this randomised controlled trial of 100 participants with axSpA, aged from their 20s to 60s, high-intensity exercise over 3-months (in comparison to the no-intervention control group – instructed to maintain their usual physical activity level), reduced symptoms (pain, fatigue, stiffness), disease activity and also inflammation in people with axSpA. It also improved patients' function and cardiovascular health. 
 
-Physical activity and sedentary behaviour and their associations with clinical measures in axial spondyloarthritis
+**This debunks concerns that high intensity exercise might exacerbate disease activity in people with axSpA.** And suggests high intensity exercise as a potential management technique for individuals with axSpA.
+
+## Physical activity and sedentary behaviour and their associations with clinical measures in axial spondyloarthritis
 
 Elaine H Coulter, Marie Therese McDonald, Sara Cameron, Stefan Siebert, Lorna Paul.
 
@@ -98,11 +93,9 @@ Participants accumulated an average of 93.2 ± 41.5 min/day walking with an aver
 
 These findings, as above, support the promotion of physical activity and reduction of sedentary behaviour in axSpA. Whereby, **physical activity is associated with better function, exercise capacity and spinal mobility, while SB is associated with lower exercise capacity and poor quality of life.**
 
-![](file:///C:/Users/rosie/AppData/Local/Temp/msohtmlclip1/01/clip_image006.png =395x301)
+![](/uploads/picture7.jpg)
 
-![](file:///C:/Users/rosie/AppData/Local/Temp/msohtmlclip1/01/clip_image007.jpg =194x259)
-
-Patients with axial spondyloarthritis report significant differences between men and women and high impact of the disease: large websurvey analysis.
+## Patients with axial spondyloarthritis report significant differences between men and women and high impact of the disease: large websurvey analysis.
 
 Ibáñez Vodnizza SE , van Bentum RE , Valenzuela O , van der Horst-Bruinsma IE.
 
@@ -112,7 +105,7 @@ In last weeks blog post, we discussed the special supplement addition of Rheumat
 
 Importantly, overall, the use of biologics was low, while the use of opiates such as codeine were worryingly high. As stated above, **women used significantly less biologics despite reporting a worse disease state and work disability, which could be due to treatment inequity.** This study therefore reveals the need to improve treatment access and gender inequality in Chilean axSpA.
 
-Differences between females and males in axial spondyloarthritis: data from a real-life cross-sectional cohort
+## Differences between females and males in axial spondyloarthritis: data from a real-life cross-sectional cohort
 
 Hmy de Jong, J E Paramarta, Jjh de Winter, Dlp Baeten, Mgh van de Sande.
 
@@ -120,7 +113,7 @@ _Scandinavian Journal of Rheumatology 2020,_ _49_(1), 28-32. [https://doi.org/10
 
 As above, the present study looked at sex differences in axSpA, but in a large cohort (>300 individuals) in the Netherlands. In this real-life cohort of people with axSpA, although males more often had structural damage on X-rays, **females had similar disease with regard to SpA features and at least equal disease activity parameters compared to males**.
 
-Demographic and clinical differences between ankylosing spondylitis and non-radiographic axial spondyloarthritis: results from a multicentre retrospective study in the Lazio region of Italy
+## Demographic and clinical differences between ankylosing spondylitis and non-radiographic axial spondyloarthritis: results from a multicentre retrospective study in the Lazio region of Italy
 
 Maria Sole Chimenti, Paola Conigliaro, Luca Navarini, Francesca Maria Martina, Giusy Peluso, Domenico Birra, Paola Sessa, Michele Anzidei, Palma Scolieri, Vincenzo Bruzzese, Gianluca Santoboni, Paolo Cardello, Elisa Gremese, Antonella Afeltra, Guido Valesini, Gian Domenico Sebastiani, Roberto Perricone, Rossana Scrivo.
 
@@ -134,7 +127,7 @@ The peripheral joints of the nr-axSpA patients were more frequently involved, ha
 
 This work highlights distinctive features in individuals with AS and nr-axSpA. The authors furthermore suggest that imaging should be crucial in guiding the choice of treatment in order to control disease activity and inflammation.
 
-The role of obesity on inflammation and damage in spondyloarthritis: a systematic literature review on body mass index and imaging
+## The role of obesity on inflammation and damage in spondyloarthritis: a systematic literature review on body mass index and imaging
 
 Maria Sole Sibel Bakirci, Janet Dabague, Lihi Eder, Dennis McGonagle, Sibel Zehra Aydin.
 
@@ -144,7 +137,7 @@ In the present article, Bakirci and colleagues conducted a systematic review of 
 
 A higher BMI was linked to both increased axial and peripheral new bone formation and entheseal (where tendons or ligaments attach to bone) inflammation by imaging, as supported by the limited number of studies in the literature. Unfortunately, its effect on the sacroiliac joint and spinal inflammation is not clear as MRI studies are lacking.
 
-Other articles worth a mention…
+# Other articles worth a mention…
 
 This blog post is already incredibly long, so we won’t go into huge detail about the following studies. However, thought that these were definitely worth a mention! We have added links to the full-text publications, where available, in case you are interested in looking into this further.
 
