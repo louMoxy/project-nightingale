@@ -4,7 +4,7 @@ layout = "simplePage"
 title = "2020 – A year in research! Part one"
 
 +++
-# 2020 – A year in research! Part one
+# 2020 – A year in axSpA research! Part one
 
 Hi everyone – if you are new to the blog, then welcome! I hope that everyone is keeping well and having a good weekend.
 
@@ -19,10 +19,6 @@ Thank you for reading and have a good rest of the weekend everyone!
 Best wishes,
 
 The Project Nightingale Team
-
-  
-
- 
 
 ## New biologic drug treatment for axSpA - an update on ixekizumab
 
@@ -80,7 +76,7 @@ _British Journal of Sports Medicine 2020 Mar; **54:**292-297._ [https://bjsm.bmj
 
 We of course all know that exercise is considered important in the management of axSpA. However, prior to the present study, the impact of high intensity exercises on disease activity was unknown.
 
-In this randomised controlled trial of 100 participants with axSpA, aged from their 20s to 60s, high-intensity exercise over 3-months (in comparison to the no-intervention control group – instructed to maintain their usual physical activity level), reduced symptoms (pain, fatigue, stiffness), disease activity and also inflammation in people with axSpA. It also improved patients' function and cardiovascular health. 
+In this randomised controlled trial of 100 participants with axSpA, aged from their 20s to 60s, high-intensity exercise over 3-months (in comparison to the no-intervention control group – instructed to maintain their usual physical activity level), reduced symptoms (pain, fatigue, stiffness), disease activity and also inflammation in people with axSpA. It also improved patients' function and cardiovascular health.
 
 **This debunks concerns that high intensity exercise might exacerbate disease activity in people with axSpA.** And suggests high intensity exercise as a potential management technique for individuals with axSpA.
 
