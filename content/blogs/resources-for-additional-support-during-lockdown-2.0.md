@@ -29,5 +29,15 @@ headline = "All-Party Parliamentary Group on Axial Spondyloarthritis "
 template = "1-column-text"
 textAlignment = "left"
 textColor = ""
+[[page_sections]]
+alignment = "left"
+block = "one-column-1"
+content = "In June, as part of the APPG, a “Lessons from coronavirus” consultation was published via the parliament website (see link above). It was highlighted that across the country, there are numerous examples of innovative and rapid service redesign to facilitate maximum access and provision of care. For example, implementation of the virtual rehabilitation course at the RNHRD (<a href=\"https://www.projectnightingale.org/rehabilitation/\" title=\"https://www.projectnightingale.org/rehabilitation/\">https://www.projectnightingale.org/rehabilitation/</a>). Or the use of virtual appointments and embedding of new methods of patient contact.<br><br>Although we acknowledge the limitations of virtual consultations, in some cases, this has even helped to increase appointment attendance. For example, for individuals in their 20s to 30s who work full time. Importantly, it has been highlighted that there is a crucial need to invest in appropriate IT infrastructure to facilitate innovation and patient care. In addition to a need to implement effective triage protocols to ensure rapid access to care for those most in need. For example, individuals experiencing a flare-up of their condition.<br><br>Not only in Rheumatology, but throughout the entire healthcare sector, we have seen a surge of publications regarding how the COVID-19 crisis has resulted in an unpredicted seismic shift in service delivery. And importantly, despite the challenges, opportunities have arisen in terms of rapid implementation of novel, more efficient, patient-centred, alternative ways to deliver patient care. As we progress through second lockdown, and throughout the eventual post-COVID-19 era, it will be critical for us to harness the lessons learned throughout the pandemic, in order to build a truly resilient healthcare sector, and safeguard provision of care in the case of any future outbreaks.<br><br>We look forward to seeing what the post-COVID era will bring in terms of healthcare innovations, service efficiency, and improving patient care.<br><br>Take care and stay safe.<br><br>All the best,<br>The Project Nightingale Team"
+has_padding = true
+headerColor = "#B8E986"
+headline = "Rheumatology care: lessons learned from the COVID-19 crisis"
+template = "1-column-text"
+textAlignment = "left"
+textColor = ""
 
 +++
