@@ -48,5 +48,15 @@ headline = "Resources"
 template = "1-column-text"
 textAlignment = "left"
 textColor = ""
+[[page_sections]]
+alignment = "left"
+block = "one-column-1"
+content = "For personalised advice on getting the most out of your rheumatology telehealth visits, check out <a href=\"https://www.erheum.org/\" title=\"https://www.erheum.org/\">https://www.erheum.org/</a>.<br><br>And again, the following video by Will Gregory may also be useful: Making the most of your virtual consultation <a href=\"https://www.youtube.com/watch?v=N5bl9-XoSmI\" title=\"https://www.youtube.com/watch?v=N5bl9-XoSmI\">https://www.youtube.com/watch?v=N5bl9-XoSmI</a>"
+has_padding = true
+headerColor = "#50E3C2"
+headline = "Want Better Virtual Care with Your Rheumatologist?"
+template = "1-column-text"
+textAlignment = "left"
+textColor = ""
 
 +++
