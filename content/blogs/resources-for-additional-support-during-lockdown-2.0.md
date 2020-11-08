@@ -1,5 +1,5 @@
 +++
-date = ""
+date = 2020-11-08T15:00:00Z
 layout = "blocks"
 title = "Resources for additional support during lockdown 2.0"
 [[page_sections]]
