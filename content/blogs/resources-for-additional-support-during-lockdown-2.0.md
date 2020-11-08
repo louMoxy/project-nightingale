@@ -1,6 +1,5 @@
 +++
 date = ""
-draft = true
 layout = "blocks"
 title = "Resources for additional support during lockdown 2.0"
 [[page_sections]]
