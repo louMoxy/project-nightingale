@@ -19,5 +19,15 @@ headline = ""
 template = "1-column-text"
 textAlignment = "left"
 textColor = ""
+[[page_sections]]
+alignment = "left"
+block = "one-column-1"
+content = "On Wednesday 4th November, we witnessed the 5th All-Party Parliamentary Group (APPG) meeting for axSpA: with a focus on hydrotherapy provision and improving access. For more information on the APPG, please visit the NASS website: <a href=\"https://nass.co.uk/get-involved/campaign-with-us/appg/\" title=\"https://nass.co.uk/get-involved/campaign-with-us/appg/\">https://nass.co.uk/get-involved/campaign-with-us/appg/</a>. The full recording for the 5th meeting can be viewed here on YouTube also: <a href=\"https://www.youtube.com/watch?v=eOTiCowgMaQ\" title=\"https://www.youtube.com/watch?v=eOTiCowgMaQ\">https://www.youtube.com/watch?v=eOTiCowgMaQ</a>. The meeting included expert presentations from 4 speakers within the axSpA community, providing key perspectives regarding hydrotherapy care. In addition to a discussion regarding the impact of COVID-19 on access to hydrotherapy, and a final Q&amp;A session.<br><br>The APPG meet within parliament regularly and aim to raise awareness of axSpA and to ensure implementation of the best care possible. In the recent months, we have seen the APPG strive for steps to be taken to address the worrying gaps in care that exist for axSpA – gaps that have been only further widened by the current pandemic. There is a crucial need for an appropriate balance between COVID-19 and ‘ordinary’ health and care demand. More on this here: <a href=\"https://committees.parliament.uk/writtenevidence/8131/pdf/\" title=\"https://committees.parliament.uk/writtenevidence/8131/pdf/\">https://committees.parliament.uk/writtenevidence/8131/pdf/</a><br><br><img src=\"https://nass.co.uk/wp-content/uploads/2019/07/APPG_logo_web_v2_transparent-02-1024x221.png\">"
+has_padding = true
+headerColor = "#9013FE"
+headline = "All-Party Parliamentary Group on Axial Spondyloarthritis "
+template = "1-column-text"
+textAlignment = "left"
+textColor = ""
 
 +++
