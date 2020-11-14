@@ -59,5 +59,15 @@ headline = "An update on biomarkers for axSpA"
 template = "1-column-text"
 textAlignment = "left"
 textColor = ""
+[[page_sections]]
+alignment = "left"
+block = "one-column-1"
+content = "<strong>An update on serum biomarkers to assess axial spondyloarthritis and to guide treatment decision. June 2020. Lorenzin and colleagues. </strong><a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7315656/\" title=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7315656/\"><strong>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7315656/</strong></a><strong><br><br></strong>This review provided an overview of existing research attempting to identify biomarkers for axSpA. Numerous studies have been conducted to seek biomarkers to guide treatment in SpA and to monitor the disease. However, currently, no new biomarkers satisfy the characteristics for use in clinical practice and CRP remains the most relevant biomarker in axSpA.<br><br>Grouping and understanding the role of all other potential biomarkers is challenging. Inflammatory markers have been investigated but standardization is lacking and they mirror CRP. Markers of bone metabolism have shown diverging results on disease activity and progression. The reason could be that biomarkers implicated in the axSpA disease process are restricted to specific tissues and do not migrate to the general circulation. Anti-drug antibodies (<em>produced by the immune system and inactivating the effects of the treatment</em>) and therapeutic drug monitoring are adequate tools to drive treatment decision but are not useful to characterise individuals and identify those prone to more rapid structural damage.<br><br>Eventually, a combination of biomarkers may be promising, nevertheless association with clinical characteristics is necessary to increase their predictive value. The authors suggest that further research should focus on the most promising biomarkers in order to reduce the wide variation of observations and better define their role and cut-offs either alone or in combination.<em>A schematic summary of the potential use in the clinical practice of selected promising biomarkers in axial spondyloarthritis.</em>"
+has_padding = true
+headerColor = ""
+headline = ""
+template = "1-column-text"
+textAlignment = "left"
+textColor = ""
 
 +++
