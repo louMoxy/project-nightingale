@@ -85,5 +85,11 @@ headline = ""
 template = "1-column-text"
 textAlignment = "left"
 textColor = ""
+[[page_sections]]
+block = "media-1"
+caption = ""
+image = "/uploads/picture2.png"
+template = "full-width-media-element"
+width = nil
 
 +++
