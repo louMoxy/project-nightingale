@@ -49,5 +49,15 @@ headline = "Smoking: axSpA outcomes and response to TNF inhibitors"
 template = "1-column-text"
 textAlignment = "left"
 textColor = ""
+[[page_sections]]
+alignment = "left"
+block = "one-column-1"
+content = "As a quick introduction, a biomarker is a naturally occurring molecule, gene, or characteristic by which a particular pathological or physiological process, disease, etc. can be identified. <strong>No accurate biomarkers or immune-phenotyping tools currently exist for the identification of axSpA. </strong>Identification of<strong> </strong>appropriate biomarkers in axSpA may in future allow for earlier diagnosis and treatment, better targeting of treatments to those at increased risk of long-term complications and, potentially, better selection of those treatments on the basis of probability of response to specific agents – wouldn’t that be incredible!<br><br>HLA-B27 and CRP blood serum biomarkers are currently commonly used in axSpA, whereby there is a strong genetic association of axSpA with the HLA-B27 gene. However, not all axSpA patients are HLA-B27 positive and this often leads to delayed diagnosis in HLA-B27-negative patients. Furthermore, CRP, despite being a widely used laboratory marker for axSpA and used as a criterion for determining treatment, is thought to be lacking in sensitivity and responsiveness, while the natural degree of fluctuation is not well understood.<br><br>Between April and June, we have picked out below two key review articles providing a brief update into research of potential future biomarkers for axSpA."
+has_padding = true
+headerColor = "#F8E71C"
+headline = "An update on biomarkers for axSpA"
+template = "1-column-text"
+textAlignment = "left"
+textColor = ""
 
 +++
