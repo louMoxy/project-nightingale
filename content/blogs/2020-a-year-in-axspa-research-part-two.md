@@ -1,6 +1,5 @@
 +++
-date = 2020-11-15T09:00:00Z
-draft = true
+date = 2020-11-15T08:00:00Z
 layout = "blocks"
 title = "2020 – A year in axSpA research! Part two"
 [[page_sections]]
