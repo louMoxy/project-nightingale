@@ -4,7 +4,7 @@ draft = true
 layout = "blocks"
 title = "Smartphone BASMI measurement survey"
 [[page_sections]]
-backgroundColor = "#F5A623"
+backgroundColor = "#36E4DA"
 block = "text-only-hero-banner"
 heading = "Smartphone based BASMI measurement in axial spondyloarthritis"
 template = "text-only-hero-banner"
