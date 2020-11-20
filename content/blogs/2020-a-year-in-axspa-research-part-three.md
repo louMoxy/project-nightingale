@@ -19,5 +19,15 @@ headline = "Good morning everyone!"
 template = "1-column-text"
 textAlignment = "left"
 textColor = ""
+[[page_sections]]
+alignment = "left"
+block = "one-column-1"
+content = "I am sure we are all more than tired of hearing the C-word! However, we understand that now is a particularly challenging and scary time for all of us, perhaps especially if you have a chronic condition. And as such, feel it is important to present the aforementioned interesting study from the journal <em>Annals of the Rheumatic Diseases</em>, which has significantly contributed to the field of COVID research.<br><br>The present study included 600 individuals with rheumatic disease diagnosed with COVID, from 40 countries, as part of the COVID-19 Global Rheumatology Alliance registry. Encouragingly, over half the patients did not require hospitalisation. <strong>Treatment with biologics or traditional disease-modifying antirheumatic drugs (DMARDs)</strong> was associated with <strong>lower odds of hospitalisation</strong>, largely driven by anti-TNF therapies. While older age and presence of comorbidities such as hypertension, cardiovascular disease and diabetes were associated with increased risk of hospitalisation – as in the general population. Higher doses of prednisone (≥10 mg/day) were also associated with increased risk of hospitalisation. However, it is very important to note that due to the way in which case information was collected as part of the register, these rates should be interpreted with caution as are likely to be higher than people with rheumatic disease in the general population infected with COVID.<br><br>Interestingly, anti-TNF drugs such as adalimumab (Humira) and IL-6 inhibitors are now being trialled for potential treatment of COVID in the community, based on evidence from studies such as the one described above. While further evidence is absolutely needed in this area, it is exciting that some of this initial work indeed came from the field of Rheumatology!<br><br><strong>See here for more information about the trialling of adalimumab for COVID-19: </strong><a href=\"https://www.bmj.com/content/371/bmj.m3847\" title=\"https://www.bmj.com/content/371/bmj.m3847\"><strong>https://www.bmj.com/content/371/bmj.m3847</strong></a><strong> and here for more information about IL-6 inhibitors in COVID trials: </strong><a href=\"https://inflammregen.biomedcentral.com/articles/10.1186/s41232-020-00134-7\" title=\"https://inflammregen.biomedcentral.com/articles/10.1186/s41232-020-00134-7\"><strong>https://inflammregen.biomedcentral.com/articles/10.1186/s41232-020-00134-7</strong></a><strong>.</strong>"
+has_padding = true
+headerColor = "#BD10E0"
+headline = "Characteristics associated with hospitalisation for COVID-19 in people with rheumatic disease: data from the COVID-19 Global Rheumatology Alliance physician-reported registry"
+template = "1-column-text"
+textAlignment = "left"
+textColor = ""
 
 +++
