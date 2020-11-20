@@ -49,5 +49,15 @@ headline = "Do Illness Perceptions and Coping Strategies Change Over Time in Pat
 template = "1-column-text"
 textAlignment = "left"
 textColor = ""
+[[page_sections]]
+alignment = "left"
+block = "one-column-1"
+content = "<strong>April 2020. Joo and colleagues. </strong><a href=\"https://link.springer.com/article/10.1007%2Fs10067-019-04803-y\" title=\"https://link.springer.com/article/10.1007%2Fs10067-019-04803-y\"><strong>https://link.springer.com/article/10.1007%2Fs10067-019-04803-y</strong></a><strong><br><br></strong>You may recognise this publication from our 2019 October axSpA research updates post, as this study was published online as a pre-print last year (<a href=\"https://www.projectnightingale.org/blogs/october-axspa-research-highlights/\" title=\"https://www.projectnightingale.org/blogs/october-axspa-research-highlights/\">https://www.projectnightingale.org/blogs/october-axspa-research-highlights/</a>). This article used an exciting new statistical method of analyses known as machine learning – a bit of a buzzword in the research space at the moment! The authors developed statistical models driven by data from people with axSpA that could, with reasonable accuracy, <strong>predict radiographic progression</strong>. Further modelling with data from more people could provide an exciting opportunity for the clinical translation of such predictive models to highlight and improve the treatment of people who are at high-risk of progression. Very exciting work!"
+has_padding = true
+headerColor = "#ECDA06"
+headline = "Machine learning–based prediction of radiographic progression in patients with axial spondyloarthritis"
+template = "1-column-text"
+textAlignment = "left"
+textColor = ""
 
 +++
