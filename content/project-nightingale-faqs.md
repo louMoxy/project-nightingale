@@ -111,5 +111,15 @@ headline = "Any other questions?"
 template = "1-column-text"
 textAlignment = "left"
 textColor = ""
+[[page_sections]]
+alignment = "left"
+block = "one-column-1"
+content = "This petal refers to <strong>total screen time - including watching TV</strong>."
+has_padding = true
+headerColor = "#F8E71C"
+headline = "Does the optional \"screen time\" petal question relate to mobile phone/computer/tablet screen time only or does it include total screen time including watching TV?"
+template = "1-column-text"
+textAlignment = "left"
+textColor = ""
 
 +++
