@@ -29,5 +29,15 @@ headline = "Characteristics associated with hospitalisation for COVID-19 in peop
 template = "1-column-text"
 textAlignment = "left"
 textColor = ""
+[[page_sections]]
+alignment = "left"
+block = "one-column-1"
+content = ""
+has_padding = true
+headerColor = ""
+headline = ""
+template = "1-column-text"
+textAlignment = "left"
+textColor = ""
 
 +++
