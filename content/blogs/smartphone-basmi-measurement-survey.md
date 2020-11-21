@@ -1,6 +1,5 @@
 +++
 date = 2020-11-21T09:00:00Z
-draft = true
 layout = "blocks"
 title = "Smartphone BASMI measurement survey"
 [[page_sections]]
