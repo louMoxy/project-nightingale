@@ -34,5 +34,10 @@ block = "embed-youtube"
 template = "embed-youtube"
 url = "8cnTeTKY0QE"
 width = 600
+[[page_sections]]
+block = "embed-youtube"
+template = "embed-youtube"
+url = "N5bl9-XoSmI"
+width = 600
 
 +++
