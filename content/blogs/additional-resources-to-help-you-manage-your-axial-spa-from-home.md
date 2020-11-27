@@ -64,5 +64,20 @@ block = "embed-youtube"
 template = "embed-youtube"
 url = "fRPX5v1EAQI"
 width = 600
+[[page_sections]]
+alignment = "left"
+block = "one-column-1"
+content = "If you missed the excellent “Physio in Focus” conference last Saturday, do not worry – the full conference has been published online by NASS (see video below)! Including the following talks:<br><br>Keeping motivated to keep moving – Will Gregory, 3:20<br><br>The jaw and axial SpA – Philip Bateman, 37:40<br><br>Coping with Fatigue – Dr Jane Martindale, 55:11<br><br>Checking your movements at home – quick checks and maybe even a BASMI? – Claire Jeffries, 1:15:49<br><br>Sleep well with axial SpA – Emily Clarke, 1:31:09"
+has_padding = true
+headerColor = "#F8E71C"
+headline = "Physio in focus conference"
+template = "1-column-text"
+textAlignment = "left"
+textColor = ""
+[[page_sections]]
+block = "embed-youtube"
+template = "embed-youtube"
+url = "KJ9SbAFJhe4"
+width = 600
 
 +++
