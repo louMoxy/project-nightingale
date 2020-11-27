@@ -55,7 +55,7 @@ block = "one-column-1"
 content = "You may remember us discussing the potential benefits of high-intensity exercise in Part Two of our “A year in AxSpA Research” series: <a href=\"https://www.projectnightingale.org/blogs/2020-a-year-in-axspa-research-part-two/\" title=\"https://www.projectnightingale.org/blogs/2020-a-year-in-axspa-research-part-two/\">https://www.projectnightingale.org/blogs/2020-a-year-in-axspa-research-part-two/</a>. Excitingly, on the 19th November, NASS published their Facebook live session with the brilliant Self Management Programme Officer, Zoë Clark, and physiotherapist Josh Poole, where Josh talks about the benefits of high-intensity interval training (HIIT) for people with axial SpA and leads a HIIT taster session. Check it out below:"
 has_padding = true
 headerColor = "#50D4E3"
-headline = "High-intensity exercise videos"
+headline = "High-intensity exercise for axial SpA"
 template = "1-column-text"
 textAlignment = "left"
 textColor = ""
