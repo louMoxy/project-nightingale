@@ -29,5 +29,10 @@ headline = "Rheumatology journal club"
 template = "1-column-text"
 textAlignment = "left"
 textColor = ""
+[[page_sections]]
+block = "embed-youtube"
+template = "embed-youtube"
+url = "8cnTeTKY0QE"
+width = 600
 
 +++
