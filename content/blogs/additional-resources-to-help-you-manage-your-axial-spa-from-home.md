@@ -81,19 +81,13 @@ width = 600
 [[page_sections]]
 alignment = "left"
 block = "one-column-1"
-content = "<span class=\"css-901oao css-16my406 r-1qd0xha r-ad9z0x r-bcqeeo r-qvutc0\">The fabulous Zoë Clark, Self Management Programme Officer at NASS, is sharing her top tips for simple </span><a href=\"https://twitter.com/hashtag/selfcare?src=hashtag_click\"><span class=\"r-18u37iz\">#selfcare</span></a><span class=\"css-901oao css-16my406 r-1qd0xha r-ad9z0x r-bcqeeo r-qvutc0\"> on 2nd December at 1pm. Join live </span><a href=\"https://t.co/yW6bjhLuYm?amp=1\" title=\"https://zcu.io/OMiC\"><span class=\"css-901oao css-16my406 r-1qd0xha r-hiw28u r-ad9z0x r-bcqeeo r-qvutc0\">https://</span>zcu.io/OMiC</a><span class=\"css-901oao css-16my406 r-1qd0xha r-ad9z0x r-bcqeeo r-qvutc0\"> or catch up afterwards </span><a href=\"https://t.co/Yz6zOtpb32?amp=1\" title=\"https://zcu.io/vOQW\"><span class=\"css-901oao css-16my406 r-1qd0xha r-hiw28u r-ad9z0x r-bcqeeo r-qvutc0\">https://</span>zcu.io/vOQW</a><span class=\"css-901oao css-16my406 r-1qd0xha r-ad9z0x r-bcqeeo r-qvutc0\"> What's your number one tip?</span>"
+content = "<span class=\"css-901oao css-16my406 r-1qd0xha r-ad9z0x r-bcqeeo r-qvutc0\">The fabulous Zoë Clark, Self Management Programme Officer at NASS, is sharing her top tips for simple </span><a href=\"https://twitter.com/hashtag/selfcare?src=hashtag_click\"><span class=\"r-18u37iz\">#selfcare</span></a><span class=\"css-901oao css-16my406 r-1qd0xha r-ad9z0x r-bcqeeo r-qvutc0\"> on 2nd December at 1pm. Join live </span><a href=\"https://t.co/yW6bjhLuYm?amp=1\" title=\"https://zcu.io/OMiC\"><span class=\"css-901oao css-16my406 r-1qd0xha r-hiw28u r-ad9z0x r-bcqeeo r-qvutc0\">https://</span>zcu.io/OMiC</a><span class=\"css-901oao css-16my406 r-1qd0xha r-ad9z0x r-bcqeeo r-qvutc0\"> or catch up afterwards </span><a href=\"https://t.co/Yz6zOtpb32?amp=1\" title=\"https://zcu.io/vOQW\"><span class=\"css-901oao css-16my406 r-1qd0xha r-hiw28u r-ad9z0x r-bcqeeo r-qvutc0\">https://</span>zcu.io/vOQW</a><span class=\"css-901oao css-16my406 r-1qd0xha r-ad9z0x r-bcqeeo r-qvutc0\"> What's your number one tip?<br><br><br><img src=\"/uploads/png.png\"></span>"
 has_padding = true
 headerColor = "#86F111"
 headline = "Self care for axial SpA"
 template = "1-column-text"
 textAlignment = "left"
 textColor = ""
-[[page_sections]]
-block = "media-1"
-caption = ""
-image = "/uploads/png.png"
-template = "full-width-media-element"
-width = nil
 [[page_sections]]
 alignment = "left"
 block = "one-column-1"
