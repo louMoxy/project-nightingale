@@ -91,7 +91,7 @@ textColor = ""
 [[page_sections]]
 block = "media-1"
 caption = ""
-image = "/uploads/en5vohtxcaqk55a.jfif"
+image = "/uploads/png.png"
 template = "full-width-media-element"
 width = nil
 [[page_sections]]
