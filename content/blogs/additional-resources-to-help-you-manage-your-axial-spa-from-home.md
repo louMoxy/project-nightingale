@@ -36,7 +36,7 @@ width = 600
 [[page_sections]]
 alignment = "left"
 block = "one-column-1"
-content = "We have posted these links previously. However, this really is so important, so we are posting again here!<br><br>For personalised advice on getting the most out of your rheumatology telehealth visits, check out <a href=\"https://www.erheum.org/\" title=\"https://www.erheum.org/\">https://www.erheum.org/</a>. From the non-profit arthritis community CreakyJoints, eRheum™ provides a FREE personalized guide for better telehealth visits.<br><br>And again, the following video by Will Gregory may also be useful: Making the most of your virtual consultation."
+content = "We have posted these links previously. However, this really is so important, so we are posting again here!<br><br>For personalised advice on getting the most out of your rheumatology telehealth visits, check out <a href=\"https://www.erheum.org/\" title=\"https://www.erheum.org/\">https://www.erheum.org/</a>. From the non-profit arthritis community CreakyJoints, eRheum™ provides a FREE personalized guide for better telehealth visits.<br><br>And again, the following video by the brilliant Will Gregory may also be useful: Making the most of your virtual consultation."
 has_padding = true
 headerColor = "#B8E986"
 headline = "How to make the most of your virtual consultation"
