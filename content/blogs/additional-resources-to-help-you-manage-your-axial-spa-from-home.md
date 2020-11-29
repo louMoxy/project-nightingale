@@ -91,7 +91,7 @@ textColor = ""
 [[page_sections]]
 alignment = "left"
 block = "one-column-1"
-content = "Our brilliant team of physios at the RNHRD, who I am sure many of you will be familiar with, have put together a series of videos and simple exercises that you can watch and complete from home. Check them out below and let us know what you think! <br><br><a href=\"https://www.ruh.nhs.uk/RNHRD/patients/services/rheumatology/AS_service/exercises.asp?menu_id=2\" title=\"https://www.ruh.nhs.uk/RNHRD/patients/services/rheumatology/AS_service/exercises.asp?menu_id=2\">https://www.ruh.nhs.uk/RNHRD/patients/services/rheumatology/AS_service/exercises.asp?menu_id=2</a>  "
+content = "Our brilliant, specialist team of physios at the RNHRD, who I am sure many of you will be familiar with, have put together a series of videos and simple exercises that you can watch and complete from home. Check them out below and let us know what you think! <br><br><a href=\"https://www.ruh.nhs.uk/RNHRD/patients/services/rheumatology/AS_service/exercises.asp?menu_id=2\" title=\"https://www.ruh.nhs.uk/RNHRD/patients/services/rheumatology/AS_service/exercises.asp?menu_id=2\">https://www.ruh.nhs.uk/RNHRD/patients/services/rheumatology/AS_service/exercises.asp?menu_id=2</a>  "
 has_padding = true
 headerColor = "#F5A623"
 headline = "Exercise videos from our expert physio team at the RNHRD"
