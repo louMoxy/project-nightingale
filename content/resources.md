@@ -23,7 +23,7 @@ textColor = ""
 [[page_sections]]
 alignment = "left"
 block = "one-column-1"
-content = "On the RNHRD website you can find exercise videos to help manage your axSpA, in addition to information regarding the RNHRD rehabilitation programme for axSpA.<br><br><a href=\"https://www.ruh.nhs.uk/RNHRD/patients/services/rheumatology/AS_service/patient_info.asp?menu_id=2\" title=\"https://www.ruh.nhs.uk/RNHRD/patients/services/rheumatology/AS_service/patient_info.asp?menu_id=2\">https://www.ruh.nhs.uk/RNHRD/patients/services/rheumatology/AS_service/patient_info.asp?menu_id=2</a><br><br><img src=\"/uploads/rnhrd.jpg\">"
+content = "On the RNHRD website, our brilliant, specialist team of physios, who I am sure many of you will be familiar with, have put together a series of videos and simple exercises that you can watch and complete from home. Check them out below and let us know what you think! <br><br>You can also find information regarding the RNHRD rehabilitation programme for axSpA, which is currently running virtually as a 1-week online Zoom course during the pandemic.<br><br><a href=\"https://www.ruh.nhs.uk/RNHRD/patients/services/rheumatology/AS_service/patient_info.asp?menu_id=2\" title=\"https://www.ruh.nhs.uk/RNHRD/patients/services/rheumatology/AS_service/patient_info.asp?menu_id=2\">https://www.ruh.nhs.uk/RNHRD/patients/services/rheumatology/AS_service/patient_info.asp?menu_id=2</a><br><br><img src=\"/uploads/rnhrd.jpg\">"
 has_padding = true
 headerColor = "#9013FE"
 headline = "RNHRD website"
