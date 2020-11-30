@@ -60,5 +60,20 @@ headline = "Twitter"
 template = "1-column-text"
 textAlignment = "left"
 textColor = ""
+[[page_sections]]
+alignment = "left"
+block = "one-column-1"
+content = "For personalised advice on getting the most out of your rheumatology telehealth visits, check out <a href=\"https://www.erheum.org/\" title=\"https://www.erheum.org/\">https://www.erheum.org/</a>. From the non-profit arthritis community CreakyJoints, eRheum™ provides a FREE personalized guide for better telehealth visits.<br><br>The following video by the excellent Will Gregory may also be useful: Making the most of your virtual consultation."
+has_padding = true
+headerColor = "#BD10E0"
+headline = "How to make the most of your virtual consultation"
+template = "1-column-text"
+textAlignment = "left"
+textColor = ""
+[[page_sections]]
+block = "embed-youtube"
+template = "embed-youtube"
+url = "N5bl9-XoSmI"
+width = 600
 
 +++
