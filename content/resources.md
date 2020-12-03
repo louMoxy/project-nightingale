@@ -1,5 +1,5 @@
 +++
-date = ""
+date = 2020-11-01T00:00:00Z
 layout = "blocks"
 title = "Resources"
 [menu.main]
