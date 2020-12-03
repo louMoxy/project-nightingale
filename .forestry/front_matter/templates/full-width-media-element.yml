@@ -15,7 +15,7 @@ fields:
   type: number
   label: Max image width
   config:
-    required: false
+    required: true
     min: 30
     max: 1800
     step: 10
