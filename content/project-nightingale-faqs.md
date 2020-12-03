@@ -4,7 +4,7 @@ layout = "blocks"
 title = "Project Nightingale FAQs"
 [menu.main]
 name = "FAQS"
-weight = 6
+weight = 7
 [[page_sections]]
 backgroundColor = "#36E4DA"
 block = "text-only-hero-banner"

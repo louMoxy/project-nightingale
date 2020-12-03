@@ -2,6 +2,9 @@
 date = ""
 layout = "blocks"
 title = "Virtual consultations"
+[menu.main]
+name = "Consultations"
+weight = 4
 [[page_sections]]
 backgroundColor = "#36E4DA"
 block = "text-only-hero-banner"

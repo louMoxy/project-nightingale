@@ -3,7 +3,7 @@ date = 2020-11-01T00:00:00Z
 layout = "blocks"
 title = "Resources"
 [menu.main]
-weight = 4
+weight = 5
 [[page_sections]]
 backgroundColor = "#36E4DA"
 block = "text-only-hero-banner"
