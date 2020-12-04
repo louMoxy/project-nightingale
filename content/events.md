@@ -2,6 +2,8 @@
 date = ""
 layout = "blocks"
 title = "Events"
+[menu.main]
+weight = 6
 [[page_sections]]
 backgroundColor = "#36E4DA"
 block = "text-only-hero-banner"

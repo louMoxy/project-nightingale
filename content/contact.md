@@ -3,7 +3,7 @@ layout: contact
 title: Contact
 menu:
   main:
-    weight: 8
+    weight: 9
 
 ---
 # Let’s talk
