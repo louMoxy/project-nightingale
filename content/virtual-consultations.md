@@ -44,7 +44,7 @@ textColor = ""
 [[page_sections]]
 alignment = "left"
 block = "one-column-1"
-content = "The following video by the excellent Will Gregory may also be useful: Making the most of your virtual consultation."
+content = "The following video (posted on the NASS YouTube: <a href=\"https://www.youtube.com/user/NASSCentral\" title=\"https://www.youtube.com/user/NASSCentral\">https://www.youtube.com/user/NASSCentral</a>) by the excellent Will Gregory is also definitely worth a watch. Thank you Will! <br><br>NASS have a brilliant range of videos on their YouTube - from how to cope with fatigue and tips for self-care, to live high-intensity work-out sessions and gentle yoga. We would recommend having a look if you are interested!"
 has_padding = true
 headerColor = "#F8E71C"
 headline = "Video advice from Will Gregory & AStretch"
