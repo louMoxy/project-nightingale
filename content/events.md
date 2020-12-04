@@ -68,5 +68,10 @@ headline = "Catch-up on past events..."
 template = "1-column-text"
 textAlignment = "left"
 textColor = ""
+[[page_sections]]
+block = "embed-youtube"
+template = "embed-youtube"
+url = "_vCm_Utpnsg"
+width = 600
 
 +++
