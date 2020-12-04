@@ -4,10 +4,10 @@ draft = true
 layout = "blocks"
 title = "Events"
 [[page_sections]]
-backgroundColor = ""
+backgroundColor = "#36E4DA"
 block = "text-only-hero-banner"
-heading = ""
+heading = "Events"
 template = "text-only-hero-banner"
-textColor = ""
+textColor = "#FFFFFF"
 
 +++
