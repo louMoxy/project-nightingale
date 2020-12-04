@@ -19,5 +19,15 @@ headline = "Events happening in the next few months"
 template = "1-column-text"
 textAlignment = "left"
 textColor = "#B8E986"
+[[page_sections]]
+alignment = "left"
+block = "one-column-1"
+content = "The brilliant Mel from BIRD has been busy recording podcasts for various different conditions, with help from patients, clinicians, academics and other experts in the field of Rheumatology. The axial SpA series is currently in production, and once published, will of course be linked on our website!<br><br>The current online series includes podcasts about Myositis, Vasculitis and Osteoporosis. Keep up to date with BIRD's online content here: <a href=\"https://www.birdbath.org.uk/for-patients-public\" title=\"https://www.birdbath.org.uk/for-patients-public\">https://www.birdbath.org.uk/for-patients-public</a>"
+has_padding = true
+headerColor = "#F5A623"
+headline = "Bath Institute for Rheumatic Diseases"
+template = "1-column-text"
+textAlignment = "left"
+textColor = ""
 
 +++
