@@ -25,7 +25,7 @@ alignment = "left"
 block = "one-column-1"
 content = "ASone is an additional website provided by NASS, specifically for younger people diagnosed with axial SpA. <br><br>As axial SpA is typically diagnosed in the 20's, this can be a particularly challenging time - as it is of course a critical age where we begin to navigate relationships, build careers and establish who we are. ASone was created to inform and educate on axial SpA. But also, importantly, to enable you to share your thoughts, feelings and experiences with each other. <br><br>The ASone website has blog posts and extensive information to help you manage your axial SpA. While there is also an opportunity to read about others experiences with the condition. Or to even write your own blog. Check out the website here: <a href=\"http://asone.nass.co.uk/\" title=\"http://asone.nass.co.uk/\">http://asone.nass.co.uk/</a>; <a href=\"http://asone.nass.co.uk/express-yourself/\" title=\"http://asone.nass.co.uk/express-yourself/\">http://asone.nass.co.uk/express-yourself/</a><br><br>"
 has_padding = true
-headerColor = "#4F75F2"
+headerColor = "#8A86E9"
 headline = "ASone - bringing young people with axial SpA together"
 template = "1-column-text"
 textAlignment = "left"
