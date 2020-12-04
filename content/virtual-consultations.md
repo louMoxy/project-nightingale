@@ -14,7 +14,7 @@ textColor = "#FFFFFF"
 [[page_sections]]
 alignment = "left"
 block = "one-column-1"
-content = "Regular appointments with your clinical team are obviously important for monitoring your condition, and ensuring that you are getting the best treatment possible for your axial SpA. However, this year has seen a lot of changes to the way in which we all engage with healthcare - including the introduction of virtual appointments. We have put together a list of resources below to help you prepare, navigate and hopefully make the most of your virtual appointments.<br>"
+content = "Regular appointments with your clinical team are obviously important for monitoring your condition, and ensuring that you are getting the best treatment possible for your axial SpA. However, this year has seen a lot of changes to the way in which we all engage with healthcare - including the introduction of virtual appointments. We have put together a list of resources below to help you prepare for, navigate and hopefully make the most of your virtual appointments.<br>"
 has_padding = true
 headerColor = "#B8E986"
 headline = "How to make the most of your virtual consultations"
