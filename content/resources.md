@@ -35,7 +35,7 @@ block = "media-1"
 caption = ""
 image = "/uploads/asone.png"
 template = "full-width-media-element"
-width = "900"
+width = "750"
 [[page_sections]]
 alignment = "left"
 block = "one-column-1"
