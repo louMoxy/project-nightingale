@@ -71,6 +71,11 @@ textColor = ""
 [[page_sections]]
 block = "embed-youtube"
 template = "embed-youtube"
+url = "cxhmlLpNub0"
+width = 600
+[[page_sections]]
+block = "embed-youtube"
+template = "embed-youtube"
 url = "_vCm_Utpnsg"
 width = 600
 
