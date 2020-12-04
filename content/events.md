@@ -45,6 +45,6 @@ block = "media-1"
 caption = ""
 image = "/uploads/nass.png"
 template = "full-width-media-element"
-width = "600"
+width = "800"
 
 +++
