@@ -35,7 +35,7 @@ block = "media-1"
 caption = ""
 image = "/uploads/podcast.png"
 template = "full-width-media-element"
-width = "500"
+width = "700"
 [[page_sections]]
 block = "media-1"
 caption = ""
