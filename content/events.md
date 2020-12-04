@@ -31,6 +31,12 @@ template = "1-column-text"
 textAlignment = "left"
 textColor = ""
 [[page_sections]]
+block = "media-1"
+caption = ""
+image = "/uploads/podcasts.png"
+template = "full-width-media-element"
+width = "800"
+[[page_sections]]
 alignment = "left"
 block = "one-column-1"
 content = "The fabulous Zoë Clark, experienced Osteopath and Self Management Programme Officer for NASS, recently kindly got in touch with us at Project Nightingale to provide some additional resources for the website. Thank you so much Zoë!<br><br>Below is a schedule of all the upcoming events led by NASS. For all of these, people can watch live via: <a href=\"https://www.facebook.com/NationalAxialSpondyloarthritisSociety/live\" title=\"https://www.facebook.com/NationalAxialSpondyloarthritisSociety/live\">https://www.facebook.com/NationalAxialSpondyloarthritisSociety/live</a>. Then they are all uploaded (plus resources) to: <a href=\"https://www.facebook.com/NationalAxialSpondyloarthritisSociety/live\" title=\"https://www.facebook.com/NationalAxialSpondyloarthritisSociety/live\">https://nass.co.uk/managing-my-as/my-as-my-life/</a>.<br><br><br><strong><em><span style=\"text-decoration: underline;\">Schedule: December</span></em></strong><br><br>James Hillery (from the Great British Bake Off) baking amaretti biscuits on 19th December at 3pm: <a href=\"https://fb.me/e/Uf0HyGRt\" title=\"https://fb.me/e/Uf0HyGRt\">https://fb.me/e/Uf0HyGRt</a> <br><br><br><strong><em><span style=\"text-decoration: underline;\">Schedule: January Facebook Lives:</span></em></strong><br><br>13th January, 1pm: Grounding and distraction techniques with Dave Smithson, Anxiety UK Operations Director<br><br>20th January, 1pm: Pain management with Colin Beevor, Matron/Senior Clinical Nurse Specialist<br><br>27th January, 12pm: Tai chi with Susi Gaikwad, Rheumatology Specialist Physiotherapist"
