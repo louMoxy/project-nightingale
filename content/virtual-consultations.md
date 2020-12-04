@@ -56,5 +56,11 @@ block = "embed-youtube"
 template = "embed-youtube"
 url = "N5bl9-XoSmI"
 width = 600
+[[page_sections]]
+block = "media-1"
+caption = ""
+image = "/uploads/nass.png"
+template = "full-width-media-element"
+width = "600"
 
 +++
