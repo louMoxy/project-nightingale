@@ -33,6 +33,12 @@ textColor = ""
 [[page_sections]]
 block = "media-1"
 caption = ""
+image = "/uploads/podcast.png"
+template = "full-width-media-element"
+width = "500"
+[[page_sections]]
+block = "media-1"
+caption = ""
 image = "/uploads/podcasts.png"
 template = "full-width-media-element"
 width = "800"
