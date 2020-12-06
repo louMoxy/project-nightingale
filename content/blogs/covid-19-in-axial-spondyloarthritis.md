@@ -19,5 +19,11 @@ headline = "Introduction"
 template = "1-column-text"
 textAlignment = "left"
 textColor = ""
+[[page_sections]]
+block = "media-1"
+caption = "Key findings from the 2019 APPG inquiry into axial SpA care"
+image = "/uploads/asdsadsa.png"
+template = "full-width-media-element"
+width = "750"
 
 +++
