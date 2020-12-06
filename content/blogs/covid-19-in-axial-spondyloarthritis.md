@@ -55,5 +55,15 @@ headline = "Key findings – Healthcare professionals"
 template = "1-column-text"
 textAlignment = "left"
 textColor = ""
+[[page_sections]]
+alignment = "left"
+block = "one-column-1"
+content = "Following the results of the present survey, in an excellent combined effort, people with axSpA in collaboration with their clinicians have now produced a set of minimum axSpA service specifications to be put forward by the APPG for axSpA and NASS to inform commissioners across the country: <a href=\"https://nass.co.uk/wp-content/uploads/2020/10/APPG-Recommendation-Paper-COVID-19-Axial-SpA-for-website-1.pdf\" title=\"https://nass.co.uk/wp-content/uploads/2020/10/APPG-Recommendation-Paper-COVID-19-Axial-SpA-for-website-1.pdf\">https://nass.co.uk/wp-content/uploads/2020/10/APPG-Recommendation-Paper-COVID-19-Axial-SpA-for-website-1.pdf</a>. <br><br>These specifications were produced to assess the resilience of local services and to support and ensure the continued provision of core services in the event of future outbreaks. Further discussion with key policy makers and national agencies including NHS Digital, which has responsibility for overseeing the development of patient coding (to identify those people most at risk/ vulnerable and who require urgent attention), should ensure that existing diagnosis and risk coding is fit for purpose and well understood by those delivering services. This is of course vital not only for axSpA, but for every health condition. <strong>Indeed, the pandemic has drawn attention to failings across all healthcare sectors – promoting a prioritisation of initiatives to revolutionise and optimise future patient care.</strong>"
+has_padding = true
+headerColor = "#7A54D5"
+headline = "Creation of minimum axial SpA service specifications, put forward by the axial SpA APPG"
+template = "1-column-text"
+textAlignment = "left"
+textColor = ""
 
 +++
