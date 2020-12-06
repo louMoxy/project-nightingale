@@ -1,8 +1,7 @@
 +++
 date = 2020-12-06T09:00:00Z
-draft = true
 layout = "blocks"
-title = "COVID-19 in axial spondyloarthritis"
+title = "COVID-19 in axial spondyloarthritis care provision"
 [[page_sections]]
 backgroundColor = "#36E4DA"
 block = "text-only-hero-banner"
