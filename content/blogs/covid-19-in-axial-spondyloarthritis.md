@@ -45,5 +45,15 @@ headline = "Key findings – Patients"
 template = "1-column-text"
 textAlignment = "left"
 textColor = ""
+[[page_sections]]
+alignment = "left"
+block = "one-column-1"
+content = "· 31% reduction in the overall number of operational sites providing care for axSpA since the first national lockdown<br><br>· 27 (44%) of 61 services were unable to provide face-to-face care for patients with flare, and 23 (38%) of 60 services could not maintain specialist physiotherapy support<br><br>· Crucially, considerable variation in the provision of digital care was identified, with 38 (66%) of 58 services providing virtual flare management and 27 (47%) of 58 providing remote identification and diagnosis, resulting in a lottery for patients that is entirely dependent on where they live<br><br>· The widest variation was seen in the time taken to identify high-risk patients under their care, with 30 (58%) of 52 respondents reporting being able to identify this cohort within 2 weeks or less, seven (13%) saying it took 3–4 weeks, and three (6%) saying it took 4–6 weeks. Five (10%) respondents reported that they still had not been able to identify all high-risk patients by July, 2020, 4 months after shielding guidance was issued by the UK Government, largely as a result of coding challenges"
+has_padding = true
+headerColor = "#F5A623"
+headline = "Key findings – Healthcare professionals"
+template = "1-column-text"
+textAlignment = "left"
+textColor = ""
 
 +++
