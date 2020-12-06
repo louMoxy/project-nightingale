@@ -65,5 +65,15 @@ headline = "Creation of minimum axial SpA service specifications, put forward by
 template = "1-column-text"
 textAlignment = "left"
 textColor = ""
+[[page_sections]]
+alignment = "left"
+block = "one-column-1"
+content = "To summarise, the authors concluded that although the COVID-19 pandemic has highlighted existing gaps in service provision for people with axSpA, it has also accelerated change – with the introduction of virtual and remote consultations, including care for flares, and an increased interest in digital service provision and the importance of remote monitoring. Indeed, it has required a rapid adaptation of both patients and clinicians to new ways of working. And has highlighted the need for imminent changes to enhance both the resilience and efficiency of our current healthcare system. To ultimately provide optimal support and the best possible care for people with axSpA."
+has_padding = true
+headerColor = ""
+headline = "Conclusions"
+template = "1-column-text"
+textAlignment = "left"
+textColor = ""
 
 +++
