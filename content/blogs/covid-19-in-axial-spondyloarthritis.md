@@ -25,5 +25,11 @@ caption = "Key findings from the 2019 APPG inquiry into axial SpA care"
 image = "/uploads/asdsadsa.png"
 template = "full-width-media-element"
 width = "750"
+[[page_sections]]
+block = "media-1"
+caption = "Recommendations from the 2019 APPG inquiry into axial SpA care"
+image = "/uploads/recommendations-appg.png"
+template = "full-width-media-element"
+width = "750"
 
 +++
