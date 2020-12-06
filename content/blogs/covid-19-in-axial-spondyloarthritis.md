@@ -75,5 +75,15 @@ headline = "Conclusions"
 template = "1-column-text"
 textAlignment = "left"
 textColor = ""
+[[page_sections]]
+alignment = "left"
+block = "one-column-1"
+content = "<strong>Dr Helena Marzo-Ortega, Consultant Rheumatologist &amp; Rheumatology Advisor to NASS<br></strong>Dr Marzo-Ortega<strong> </strong>is a Consultant Rheumatologist for the Leeds Teaching Hospitals NHS Trust and an Honorary Clinical Associate Professor at the University of Leeds. She is the Clinical Lead of the Spondyloarthropathy service at the Section of Musculoskeletal Disease and the Clinical Lead for the MSK Specialty Group of the West Yorkshire UKCRN CLRN. Her main areas of interest are within the field of early arthritis, undifferentiated arthritis and spondyloarthritis including Psoriatic arthritis, with a special focus on the role of imaging biomarkers and biologic therapies. Dr Marzo-Ortega also led October’s special supplement within the journal “Rheumatology”, focussed on axial SpA. Read about this supplement and our contribution here: <a href=\"https://www.projectnightingale.org/blogs/special-supplement-within-the-journal-rheumatology-1/\" title=\"https://www.projectnightingale.org/blogs/special-supplement-within-the-journal-rheumatology-1/\">https://www.projectnightingale.org/blogs/special-supplement-within-the-journal-rheumatology-1/</a>. <br><br><strong>Simon Whalley, Senior Account Director at</strong> <strong>M&amp;F Health &amp; public enquiry point for the APPG on axial SpA. <br><br>Jill Hamilton, Head of Policy &amp; Health Services at NASS<br></strong>Jill is responsible for raising awareness of axial SpA among healthcare professionals, and policy and decision makers. Jill also works with the events coordinator at NASS, strategically overseeing event themes and content.<strong>Dr <br><br>Dale Webb, NASS CEO<br></strong>Dale is Chief Executive and has overall responsibility for the management of NASS. He works with policy makers, funders, service commissioners and professional bodies in order to raise awareness, raise funds and ensure that people with axial SpA get earlier diagnosis and access to effective treatment and rehabilitation. Dale leads an outstanding team of staff who deliver an ambitious programme of work to support the axial SpA community across the UK. You can follow him on Twitter @NASSchiefexec."
+has_padding = true
+headerColor = "#B8E986"
+headline = "Author profiles"
+template = "1-column-text"
+textAlignment = "left"
+textColor = ""
 
 +++
