@@ -85,5 +85,11 @@ caption = ""
 image = "/uploads/samaritans.png"
 template = "full-width-media-element"
 width = "750"
+[[page_sections]]
+block = "media-1"
+caption = ""
+image = "/uploads/samaritans2.png"
+template = "full-width-media-element"
+width = "750"
 
 +++
