@@ -19,5 +19,15 @@ headline = ""
 template = "1-column-text"
 textAlignment = "left"
 textColor = ""
+[[page_sections]]
+alignment = "left"
+block = "one-column-1"
+content = "<em>Please note that the opening times of some of the below helplines may vary over the Christmas period. However, NHS 111 and the Samaritans are free and available 24/7, 365 days a year.</em>"
+has_padding = true
+headerColor = "#9D7DEC"
+headline = "Helplines"
+template = "1-column-text"
+textAlignment = "left"
+textColor = ""
 
 +++
