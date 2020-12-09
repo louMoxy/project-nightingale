@@ -39,5 +39,10 @@ headline = "National Axial Spondyloarthritis Society"
 template = "1-column-text"
 textAlignment = "left"
 textColor = ""
+[[page_sections]]
+block = "embed-youtube"
+template = "embed-youtube"
+url = "xZ6CCpTh01k"
+width = 600
 
 +++
