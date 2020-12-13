@@ -1,6 +1,5 @@
 +++
 date = 2020-12-13T08:00:00Z
-draft = true
 layout = "blocks"
 title = "Support during the Christmas period"
 [[page_sections]]
