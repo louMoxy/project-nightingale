@@ -1,5 +1,5 @@
 +++
-date = ""
+date = 2021-01-24T08:00:00Z
 draft = true
 layout = "blocks"
 title = "First blog post of 2021!"
@@ -49,5 +49,30 @@ block = "embed-youtube"
 template = "embed-youtube"
 url = "Th30GfWFk8c"
 width = 600
+[[page_sections]]
+alignment = "left"
+block = "one-column-1"
+content = "Last week, the inspirational singer-songwriter Talia Dean was on BBC5 live to talk about her AS journey. In case you missed it, you can still read her article on BBC online here: <a href=\"https://www.bbc.co.uk/news/stories-55567981\" title=\"https://www.bbc.co.uk/news/stories-55567981\">https://www.bbc.co.uk/news/stories-55567981</a>. Talia also spoke with Dasha and Gillian to talk about living with axial SpA on the NASS YouTube channel: see linked below if you missed it."
+has_padding = true
+headerColor = ""
+headline = ""
+template = "1-column-text"
+textAlignment = "left"
+textColor = ""
+[[page_sections]]
+block = "embed-youtube"
+template = "embed-youtube"
+url = "Dl020Bn-NBA"
+width = 600
+[[page_sections]]
+alignment = "left"
+block = "one-column-1"
+content = "Below are a few dates for NASS Facebook Lives coming up in the next couple of weeks. For the full itinerary, please check out our Events page.<br><br>27 Jan 1200: Therapeutic tai chi session with Rheumatology Specialist Physiotherapist Susi Gaikwad<br><br>3 Feb 1300: NASS Self Management Programme Officer, Zoë Clark, will be demonstrating how to make a 'flare toolkit' to help people manage their axial SpA flares<br><br>11 Feb 1800: Life coach, Julie Vallortigara, will be discussing how people with long-term conditions can use life coaching to improve their health and clarify their goals"
+has_padding = true
+headerColor = "#F8E71C"
+headline = "Upcoming NASS events"
+template = "1-column-text"
+textAlignment = "left"
+textColor = ""
 
 +++
