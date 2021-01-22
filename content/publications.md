@@ -43,7 +43,7 @@ textColor = ""
 [[page_sections]]
 alignment = "left"
 block = "one-column-1"
-content = "If you are a researcher or healthcare professional and keen to learn more about our work with Project Nightingale or how you can get involved, please get in touch with one of our researchers Rosie Barnett via rosie.barnett1@nhs.net. We look forward to hearing from you.  "
+content = "If you are a researcher or healthcare professional and keen to learn more about our work with Project Nightingale or how you can get involved, please get in touch with one of our researchers Rosie Barnett via <em>rosie.barnett1@nhs.net</em>. We look forward to hearing from you.  "
 has_padding = true
 headerColor = "#4A90E2"
 headline = "Information for researchers"
