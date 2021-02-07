@@ -50,10 +50,10 @@ textAlignment = "left"
 textColor = ""
 [[page_sections]]
 block = "media-1"
-caption = "text"
+caption = ""
 image = "/uploads/picture2-blog-upa.png"
 template = "full-width-media-element"
-width = "800"
+width = "700"
 [[page_sections]]
 alignment = "left"
 block = "one-column-1"
