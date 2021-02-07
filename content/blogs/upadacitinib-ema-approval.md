@@ -19,5 +19,15 @@ headline = "Hi everyone!"
 template = "1-column-text"
 textAlignment = "left"
 textColor = ""
+[[page_sections]]
+alignment = "left"
+block = "one-column-1"
+content = "<img src=\"/uploads/blog-upa.png\">"
+has_padding = true
+headerColor = ""
+headline = "Quick Summary"
+template = "1-column-text"
+textAlignment = "left"
+textColor = ""
 
 +++
