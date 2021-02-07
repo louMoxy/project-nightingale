@@ -51,7 +51,7 @@ textColor = ""
 [[page_sections]]
 block = "media-1"
 caption = ""
-image = "/uploads/picture2-blog-upa.png"
+image = "/uploads/picture4.png"
 template = "full-width-media-element"
 width = "700"
 [[page_sections]]
