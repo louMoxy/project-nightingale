@@ -65,5 +65,15 @@ headline = "What evidence is there for its effectiveness in AS?"
 template = "1-column-text"
 textAlignment = "left"
 textColor = ""
+[[page_sections]]
+alignment = "left"
+block = "one-column-1"
+content = "Approval by the EMA essentially means that the drug is now licensed across most European countries, including the UK. This means that the EMA has rigorously reviewed all clinical research on the drug and are satisfied that it is effective, safe and meets manufacturing quality standards.<br><br>Before potentially becoming available for use in the UK, it still needs to be approved/appraised by the National Institute for Health and Care Excellence (NICE), the Scottish Medicines Consortium (SMC), and potentially the All Wales Medicines Strategy Group (AWMSG) or Department of Health in Northern Ireland. These groups will decide if it should be used in the UK and whether there should be restrictions on its use. For example, anti-TNF medication can only be used in people who have severe axial spondyloarthritis (severe axSpA, including severe AS) who have tried non-steroidal anti-inflammatory drugs (NSAIDs), but NSAIDs have not worked: <a href=\"https://www.nice.org.uk/guidance/ta383\" title=\"https://www.nice.org.uk/guidance/ta383\">https://www.nice.org.uk/guidance/ta383</a>.<br><br>These various approvals processes may take some time. But it is exciting to know that a new form of treatment could be on its way. And has been deemed safe and effective for AS by the EMA!<br><br><em>A quick note<br></em>In future, for newer drugs, the approvals process is due to change slightly for the UK due to BREXIT. Licensing decisions for the UK will be transferred from the EMA to the UK Medicines and Healthcare products Regulatory Agency (MHRA). However, for a period of 2 years following 1st January 2021, the UK are to continue to adopt decisions taken by the European Commission on the approval of new marketing authorisations. Hence the EMA approval of Upadacitinib still applying to the UK!"
+has_padding = true
+headerColor = "#B8E986"
+headline = "What does this approval mean?"
+template = "1-column-text"
+textAlignment = "left"
+textColor = ""
 
 +++
