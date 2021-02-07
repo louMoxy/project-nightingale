@@ -39,5 +39,21 @@ headline = "What is Upadacitinib and how does it work?"
 template = "1-column-text"
 textAlignment = "left"
 textColor = ""
+[[page_sections]]
+alignment = "left"
+block = "one-column-1"
+content = "In the clinical trial SELECT-AXIS 1, including 187 patients with AS, Serious Adverse Events (SAEs - defined in medical trials as any untoward serious medical event: <a href=\"https://www.fda.gov/safety/reporting-serious-problems-fda/what-serious-adverse-event\" title=\"https://www.fda.gov/safety/reporting-serious-problems-fda/what-serious-adverse-event\">https://www.fda.gov/safety/reporting-serious-problems-fda/what-serious-adverse-event</a>) were reported in just 1% of the patients in both the Upadacitinib and placebo group. No serious infections, cancers, blood clots, or deaths were reported.<br><br>The most common adverse events reported with Upadacitinib included blood CPK increase (<strong>very high</strong> CPK level most often means that there has been stress to muscle tissue, the heart, or the brain), diarrhea, nasopharyngitis, headache and nausea. During hospitalisation for adverse events (distinct from SAEs), no significant findings were obtained (including normal CPK values), and the patients were discharged in good condition. These findings are consistent with those clinical trials for RA and PsA also, with no new significant safety risks identified."
+has_padding = true
+headerColor = "#F8E71C"
+headline = "How do we know that it is safe?"
+template = "1-column-text"
+textAlignment = "left"
+textColor = ""
+[[page_sections]]
+block = "media-1"
+caption = "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(19)32534-6/fulltext"
+image = "/uploads/picture2-blog-upa.png"
+template = "full-width-media-element"
+width = "600"
 
 +++
