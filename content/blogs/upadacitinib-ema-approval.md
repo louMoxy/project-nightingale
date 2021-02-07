@@ -1,6 +1,5 @@
 +++
 date = 2021-02-07T09:00:00Z
-draft = true
 layout = "blocks"
 title = "Upadacitinib EMA approval"
 [[page_sections]]
