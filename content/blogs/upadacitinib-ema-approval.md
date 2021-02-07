@@ -51,9 +51,19 @@ textAlignment = "left"
 textColor = ""
 [[page_sections]]
 block = "media-1"
-caption = "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(19)32534-6/fulltext"
+caption = "text"
 image = "/uploads/picture2-blog-upa.png"
 template = "full-width-media-element"
-width = "600"
+width = "800"
+[[page_sections]]
+alignment = "left"
+block = "one-column-1"
+content = "In SELECT-AXIS 1, Upadacitinib met the primary endpoint of Assessment of Spondyloarthritis International Society (ASAS) 40 response at week 14 versus placebo. ASAS40 requires an improvement of at least 40% and an absolute improvement of at least 1 unit (on a 0-10 scale) in at least three of four of the below domains, with no worsening of the remaining domain:<br><br>- Patient global assessment of disease activity for the past week<br>- Patient assessment of back pain over the past week<br>- Function (BASFI)<br>- Inflammation (severity and duration of morning stiffness, average of items 5 and 6 in the BASDAI)<br><br>Upadacitinib also achieved statistical significance across several key secondary endpoints versus placebo, including ASAS partial remission at week 14 and Bath Ankylosing Spondylitis Disease Activity Index (BASDAI) 50 (50% reduction in BASDAI) at week 14. ASAS partial remission indicates very low disease activity - a value of 2 (on a 0 to 10 scale) present in each of the above 4 domains."
+has_padding = true
+headerColor = "#F5A623"
+headline = "What evidence is there for its effectiveness in AS?"
+template = "1-column-text"
+textAlignment = "left"
+textColor = ""
 
 +++
