@@ -22,7 +22,7 @@ textColor = "#000000"
 [[page_sections]]
 alignment = "left"
 block = "one-column-1"
-content = "Firstly, last week we submitted a journal manuscript reporting some of our first results from the Project Nightingale dataset! Thank you so much to all of our participants for logging their data, and allowing us to do this exciting research. The manuscript was looking at flare characterisation using daily self-reported symptoms and behaviour, as report in the uMotif app. After submitting, manuscripts have to go through extensive review processes by the journal before potential acceptance for publication. And we may even have to submit it to a couple of places before it is accepted. However, you can be assured that as soon as it is published, you will be notified both on this blog and on our PhD student Rosie's twitter: <a href=\"https://twitter.com/RosieBarnett95\" title=\"https://twitter.com/RosieBarnett95\">https://twitter.com/RosieBarnett95</a>!"
+content = "Firstly, last week we submitted a journal manuscript reporting some of our first results from the Project Nightingale dataset! Thank you so much to all of our participants for logging their data, and allowing us to do this exciting research. The manuscript was looking at flare characterisation using daily self-reported symptoms and behaviour, as reported in the uMotif app. After submitting, manuscripts have to go through extensive review processes by the journal before potential acceptance for publication. And we may even have to submit it to a couple of places before it is accepted. However, you can be assured that as soon as it is published, you will be notified both on this blog and on our PhD student Rosie's twitter: <a href=\"https://twitter.com/RosieBarnett95\" title=\"https://twitter.com/RosieBarnett95\">https://twitter.com/RosieBarnett95</a>!"
 has_padding = true
 headerColor = "#B8E986"
 headline = "Manuscript in preparation"
@@ -32,7 +32,7 @@ textColor = ""
 [[page_sections]]
 alignment = "left"
 block = "one-column-1"
-content = "Furthermore, some of you may have seen Rosie present some of these initial finding during a NASS Facebook live event last week. If you missed it and want to catch-up, this talk is available via the NASS Facebook channel and is also embedded as a YouTube video at the bottom of this page. Rosie also talks about other apps available for you to manage your health. And future exciting work that you can contribute to at the RNHRD. We hope that you find it interesting/useful!"
+content = "Furthermore, some of you may have seen Rosie present some of these initial findings during a NASS Facebook live event last week. If you missed it and want to catch-up, this talk is available via the NASS Facebook channel and is also embedded as a YouTube video below. Rosie also talks about other available apps available to help you manage your health. And future exciting work that you can contribute to at the RNHRD. We hope that you find it interesting/useful!"
 has_padding = true
 headerColor = "#EB83E8"
 headline = "Project Nightingale NASS Facebook live"
@@ -47,7 +47,7 @@ width = 600
 [[page_sections]]
 alignment = "left"
 block = "one-column-1"
-content = "Secondly, we have now almost completed our interview process for the new Project Nightingale research assistant. Interviews were last week, and we are super excited to have someone new joining the team soon! This will enable us to expand and work on additional analysis of the Project Nightingale dataset, as well as potentially exploring other aspects of novel app development. We will introduce you to the new member once the position has been finalised! This role has been funded by the Sir Halley Stewart Trust, who we are extremely grateful to have supported this important work."
+content = "Finally, we have now almost completed our interview process for the new Project Nightingale research assistant. Interviews were last week, and we are super excited to have someone new joining the team soon! This will enable us to expand and work on additional analysis of the Project Nightingale dataset, as well as potentially exploring other aspects of novel app development. We will introduce you to the new member once the position has been finalised! This role has been funded by the Sir Halley Stewart Trust, who we are extremely grateful to have supported this important work."
 has_padding = true
 headerColor = "#F5B54B"
 headline = "Recruitment of Project Nightingale research assistant"
