@@ -69,11 +69,5 @@ caption = ""
 image = "/uploads/logo-516c18ef04e0eead60f85595d9f8b56a.png"
 template = "full-width-media-element"
 width = "750"
-[[page_sections]]
-block = "media-1"
-caption = ""
-image = "/uploads/shst-final.jpg"
-template = "full-width-media-element"
-width = "600"
 
 +++
