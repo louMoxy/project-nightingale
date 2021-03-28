@@ -81,6 +81,12 @@ template = "1-column-text"
 textAlignment = "left"
 textColor = ""
 [[page_sections]]
+block = "media-1"
+caption = ""
+image = "/uploads/nass.png"
+template = "full-width-media-element"
+width = "600"
+[[page_sections]]
 alignment = "left"
 block = "one-column-1"
 content = "If you made it this far, thank you so much for reading! Have a lovely rest of the weekend.<br><br>Take care and all the best,<br>The Project Nightingale Team"
