@@ -29,5 +29,15 @@ headline = "Participants"
 template = "1-column-text"
 textAlignment = "left"
 textColor = ""
+[[page_sections]]
+alignment = "left"
+block = "one-column-1"
+content = "Until our data is published, we unfortunately cannot go into too much detail regarding the results. However, our PhD student Rosie recently did a talk for the National Axial Spondyloarthritis Society where she discusses some of our results regarding flare characterisation: <a href=\"https://www.youtube.com/watch?v=I0kHN88PPRo\" title=\"https://www.youtube.com/watch?v=I0kHN88PPRo\">https://www.youtube.com/watch?v=I0kHN88PPRo</a>.<br><br>This month, we have also submitted another manuscript using the Project Nightingale cohort data - looking at chronic widespread pain in axSpA. If you read last months blog post, you will also be aware that we submitted another manuscript last month looking at flare characterisation. So fingers crossed, we should hopefully be able to share these papers with you soon! Although, as mentioned last week, the review processes can be quite long and we may have to submit to a few places before being accepted (some of the joys of academia!).<br><br>"
+has_padding = true
+headerColor = ""
+headline = "What have we learnt so far?"
+template = "1-column-text"
+textAlignment = "left"
+textColor = ""
 
 +++
