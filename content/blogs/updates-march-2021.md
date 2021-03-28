@@ -14,11 +14,11 @@ alignment = "left"
 block = "one-column-1"
 content = "Happy Sunday! We hope that you are keeping well and having an okay week, despite the grim weather. Not long to go now until hopefully a bit of a break over Easter weekend.<br><br>Some Project Nightingale updates for March..."
 has_padding = true
-headerColor = ""
+headerColor = "#7ED321"
 headline = "Good morning everyone!"
 template = "1-column-text"
 textAlignment = "left"
-textColor = "#7ED321"
+textColor = ""
 [[page_sections]]
 alignment = "left"
 block = "one-column-1"
@@ -32,12 +32,18 @@ textColor = ""
 [[page_sections]]
 alignment = "left"
 block = "one-column-1"
-content = "Until our data is published, we unfortunately cannot go into too much detail regarding the results. However, our PhD student Rosie recently did a talk for the National Axial Spondyloarthritis Society where she discusses some of our results regarding flare characterisation: <a href=\"https://www.youtube.com/watch?v=I0kHN88PPRo\" title=\"https://www.youtube.com/watch?v=I0kHN88PPRo\">https://www.youtube.com/watch?v=I0kHN88PPRo</a>.<br><br>This month, we have also submitted another manuscript using the Project Nightingale cohort data - looking at chronic widespread pain in axSpA. If you read last months blog post, you will also be aware that we submitted another manuscript last month looking at flare characterisation. So fingers crossed, we should hopefully be able to share these papers with you soon! Although, as mentioned last week, the review processes can be quite long and we may have to submit to a few places before being accepted (some of the joys of academia!).<br><br>Only this week, we also submitted an abstract to the International Congress of Spondyloarthritides (<a href=\"https://spa-congress.org/home\" title=\"https://spa-congress.org/home\">https://spa-congress.org/home</a>) - comparing flare patterns in radiographic (ankylosing spondylitis - AS) versus non-radiographic axSpA. See our previous blog post if you want to know more about the distinction between radiographic (AS) or non-radiographic axSpA: <a href=\"https://www.projectnightingale.org/blogs/axial-spondyloarthritis-what-is-axspa-and-how-does-it-relate-to-ankylosing-spondylitis/\" title=\"https://www.projectnightingale.org/blogs/axial-spondyloarthritis-what-is-axspa-and-how-does-it-relate-to-ankylosing-spondylitis/\">https://www.projectnightingale.org/blogs/axial-spondyloarthritis-what-is-axspa-and-how-does-it-relate-to-ankylosing-spondylitis/</a>."
+content = "So far, we have mainly focussed on trying to characterise flare, and understand how symptom patterns may vary for different people. We are now working with the Institute for Mathematical Innovation in Bath to apply for funding to study this in more detail - to potentially see if we can use the dataset to predict when flare is going to occur. Gaining a better understanding of flare will hopefully, in future, allow us to better understand how to reduce the frequency and intensity of flares. Therefore, hopefully improving peoples quality of life. You can check out our current publications via the \"Publications\" tab above - including a couple of conference abstracts/ posters. However, until the rest of our flare characterisation work is published, we unfortunately cannot go into too much detail regarding the results. However, our PhD student Rosie recently did a talk for the National Axial Spondyloarthritis Society where she discusses some of our results regarding flare characterisation: <a href=\"https://www.youtube.com/watch?v=I0kHN88PPRo\" title=\"https://www.youtube.com/watch?v=I0kHN88PPRo\">https://www.youtube.com/watch?v=I0kHN88PPRo</a>. As soon as our work is published, Rosie will let you all know via the \"Publications\" tab and via her twitter @RosieBarnett95.<br><br>This month, we have also submitted another manuscript using the Project Nightingale cohort data - looking at chronic widespread pain in axSpA. If you read last months blog post, you will also be aware that we submitted another manuscript last month looking at flare characterisation. So fingers crossed, we should hopefully be able to share these papers with you soon! Although, as mentioned last week, the review processes can be quite long and we may have to submit to a few places before being accepted (some of the joys of academia!).<br><br>Only this week, we also submitted an abstract to the International Congress of Spondyloarthritides (<a href=\"https://spa-congress.org/home\" title=\"https://spa-congress.org/home\">https://spa-congress.org/home</a>) - comparing flare patterns in radiographic (ankylosing spondylitis - AS) versus non-radiographic axSpA. See our previous blog post if you want to know more about the distinction between radiographic (AS) or non-radiographic axSpA: <a href=\"https://www.projectnightingale.org/blogs/axial-spondyloarthritis-what-is-axspa-and-how-does-it-relate-to-ankylosing-spondylitis/\" title=\"https://www.projectnightingale.org/blogs/axial-spondyloarthritis-what-is-axspa-and-how-does-it-relate-to-ankylosing-spondylitis/\">https://www.projectnightingale.org/blogs/axial-spondyloarthritis-what-is-axspa-and-how-does-it-relate-to-ankylosing-spondylitis/</a>. If this abstract is accepted, we will hopefully be able to share our work on an international scale at the 2021 conference in Belgium."
 has_padding = true
-headerColor = ""
+headerColor = "#F5A623"
 headline = "What have we learnt so far?"
 template = "1-column-text"
 textAlignment = "left"
 textColor = ""
+[[page_sections]]
+block = "media-1"
+caption = ""
+image = "/uploads/spondylocongress.png"
+template = "full-width-media-element"
+width = "700"
 
 +++
