@@ -1,6 +1,5 @@
 +++
 date = 2021-09-15T11:00:00Z
-draft = true
 layout = "blocks"
 title = "2020 – A year in axSpA research! Part four + Introducing our new research assistant"
 [[page_sections]]
@@ -91,5 +90,11 @@ headline = "Summary & sign-off!"
 template = "1-column-text"
 textAlignment = "left"
 textColor = ""
+[[page_sections]]
+block = "media-1"
+caption = ""
+image = "/uploads/logo-516c18ef04e0eead60f85595d9f8b56a.png"
+template = "full-width-media-element"
+width = "700"
 
 +++
