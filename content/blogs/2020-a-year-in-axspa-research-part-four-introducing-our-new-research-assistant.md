@@ -1,5 +1,5 @@
 +++
-date = 2021-09-15T11:00:00Z
+date = 2021-09-15T13:00:00Z
 layout = "blocks"
 title = "2020 – A year in axSpA research! Part four + Introducing our new research assistant"
 [[page_sections]]
