@@ -81,5 +81,15 @@ headline = "Using qualitative methods for a conceptual analysis of measures of h
 template = "1-column-text"
 textAlignment = "left"
 textColor = ""
+[[page_sections]]
+alignment = "left"
+block = "one-column-1"
+content = "I hope you found these articles on work productivity interesting! They are quite varied in nature, and show the impact that axSpA can have on the lives of working people on a daily basis. It’s also great to see the kind of research that is being done to hopefully make life easier at work in the long-term!<br><br>If you want to share your experience of any work-related issues or tips on how you manage your axspa while working, now or in the past, please contact me on: <a href=\"mailto:ns2271@bath.ac.uk\">ns2271@bath.ac.uk</a>. I would love to hear from you!"
+has_padding = true
+headerColor = "#4A90E2"
+headline = "Summary & sign-off!"
+template = "1-column-text"
+textAlignment = "left"
+textColor = ""
 
 +++
