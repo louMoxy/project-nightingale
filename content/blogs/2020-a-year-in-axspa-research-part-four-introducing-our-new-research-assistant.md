@@ -24,7 +24,7 @@ block = "media-1"
 caption = ""
 image = "/uploads/ns.png"
 template = "full-width-media-element"
-width = "700"
+width = "150"
 [[page_sections]]
 alignment = "left"
 block = "one-column-1"
@@ -58,6 +58,16 @@ content = "<strong>Clinical trials suggest that appropriate treatment can improv
 has_padding = true
 headerColor = ""
 headline = ""
+template = "1-column-text"
+textAlignment = "left"
+textColor = ""
+[[page_sections]]
+alignment = "left"
+block = "one-column-1"
+content = "<em>July 2020. Tektonidou and colleagues. <br><br></em><a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7534071\" title=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7534071\">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7534071</a>This was a 2-year real-world study focused on comparing the impact of adalimumab, a bDMARD (biologic) treatment known as a tumour necrosis factor (TNF) inhibitor which is used to reduce inflammation, on three conditions which can cause joint damage and inflammation: rheumatoid arthritis (RA), psoriatic arthritis (PsA), and ankylosing spondylitis (AS) (the radiographic form of axial spondyloarthritis - r-axSpA). In total, 500 people were enrolled onto the study and an impressive 421 people (84.2%) completed the study follow-up period. Of the overall study population, 150 (30%) formed the AS/r-axSpA sample, of which 66% were male, 54% were employed or self-employed, 33.3% were current smokers, and median age at diagnosis was 39 years.<br><br>As we have seen in the review article above, AS/r-axSpA can affect working ability due to diminishing physical function, and can also result in sleep disturbances due to diminished sleep quality. <strong>Adalimumab has previously been shown to improve work productivity and sleep</strong> when measured using patient-reported outcomes measures such as Work Productivity and Activity Impairment (WPAI) and Medical Outcomes Study Sleep Scale (MOS-SS). This study provides real-world evidence on the adalimumab-induced changes in work productivity and in sleep disturbances in people with moderate to severe RA, PsA, and AS. Although this study took place in routine clinical care settings in Greece, it’s useful to show what the results of treatment were to manage symptoms related to work productivity and sleep, as these can affect people with AS/r-axSpA on a daily basis.<br><br>At the end of the study (24-months), the mean BASDAI (disease activity) score had decreased significantly, from an average score of 5.8 to 1.5 in people with AS/r-axSpA. The work productivity scores from baseline to 24-months had significantly improved for people with AS/r-axSpA in absenteeism, presenteeism, overall work impairment due to health, and activity impairment due to health. Similarly, the sleep scores showed significant improvement. The results also showed a significant positive correlation between disease activity improvement and improvements in work impairment and sleep disturbance for people with AS/r-axSpA. So a very promising result to see that sleep disturbance improved along with disease activity scores!<br><br>These results are similar to findings of work impairment in adalimumab studies in <a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7732412/pdf/fpubh-08-602334.pdf\">China</a>. Another <a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6251385/pdf/dic-7-212556.pdf\">study</a> in five Central and Eastern Europe countries produced clinically meaningful improvements in disease activity and physical function with adalimumab therapy, and the treatment was associated with reductions in healthcare resource use (e.g. hospital admissions, inpatient days, visits to healthcare providers) and sick leave."
+has_padding = true
+headerColor = ""
+headline = "Real-world evidence of the impact of adalimumab on work productivity and sleep measures in patients with rheumatoid arthritis, psoriatic arthritis, and ankylosing spondylitis"
 template = "1-column-text"
 textAlignment = "left"
 textColor = ""
