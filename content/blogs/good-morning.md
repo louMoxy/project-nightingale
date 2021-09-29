@@ -7,7 +7,7 @@ backgroundColor = "#36E4DA"
 block = "text-only-hero-banner"
 heading = "Act on Axial SpA campaign- A Gold Standard Time to Diagnosis "
 template = "text-only-hero-banner"
-textColor = "#4A90E2"
+textColor = "#FFFFFF"
 [[page_sections]]
 alignment = "left"
 block = "one-column-1"
