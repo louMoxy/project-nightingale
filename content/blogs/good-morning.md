@@ -39,5 +39,15 @@ headline = "How was the campaign started?"
 template = "1-column-text"
 textAlignment = "left"
 textColor = ""
+[[page_sections]]
+alignment = "left"
+block = "one-column-1"
+content = "Four primary changes were identified that the campaign sets out to achieve. These are described below with the proposed actions for each ‘change’:"
+has_padding = true
+headerColor = "#B8E986"
+headline = "What does the campaign hope to achieve?"
+template = "1-column-text"
+textAlignment = "left"
+textColor = ""
 
 +++
