@@ -4,7 +4,7 @@ draft = true
 layout = "blocks"
 title = "Act on Axial SpA campaign- A Gold Standard Time to Diagnosis"
 [[page_sections]]
-backgroundColor = ""
+backgroundColor = "#36E4DA"
 block = "text-only-hero-banner"
 heading = "Act on Axial SpA campaign- A Gold Standard Time to Diagnosis "
 template = "text-only-hero-banner"
