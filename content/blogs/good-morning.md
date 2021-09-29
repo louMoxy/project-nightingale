@@ -6,9 +6,9 @@ title = "Act on Axial SpA campaign- A Gold Standard Time to Diagnosis"
 [[page_sections]]
 backgroundColor = ""
 block = "text-only-hero-banner"
-heading = ""
+heading = "Act on Axial SpA campaign- A Gold Standard Time to Diagnosis "
 template = "text-only-hero-banner"
-textColor = ""
+textColor = "#4A90E2"
 [[page_sections]]
 alignment = "left"
 block = "one-column-1"
