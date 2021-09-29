@@ -69,5 +69,15 @@ headline = "2.\tEnsure that patients who present at primary care and community p
 template = "1-column-text"
 textAlignment = "left"
 textColor = "#FB5432"
+[[page_sections]]
+alignment = "left"
+block = "one-column-1"
+content = "Currently, if secondary care clinicians do suspect axial SpA (e.g. through ophthalmology, gastroenterology, dermatology and orthopaedic spinal surgery), they may reroute the patient back to the GP or follow a standard 18-week secondary referral route, all of which adds to delay<br><br>A national training programme for secondary care services will be rolled out locally led by rheumatologists and their teams, and later refined and rolled out nationally<br><br>A combination of online access to learning and face-to-face teaching sessions on site at the hospital base<br><br>A targeted media and professional communications programme including presentations, exhibitions and poster case studies at events<br><br>Use of hospital’s internal referral pathways to rheumatology, which will be audited"
+has_padding = true
+headerColor = "#000000"
+headline = "3.\tEnsure that patients who present at secondary care services with suspected axial SpA are identified at the first presentation and urgently referred to rheumatology"
+template = "1-column-text"
+textAlignment = "left"
+textColor = "#FB5432"
 
 +++
