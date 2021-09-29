@@ -52,46 +52,6 @@ textColor = ""
 [[page_sections]]
 alignment = "left"
 block = "one-column-1"
-content = "Phase 1- communications to drive public awareness to test the act on axial SpA brand and key messaging<br><br>Phase 2- concentrated local campaign in a single area, combining learning from Phase One and adding new communication tactics. This may be extended to other parts of the UK if it results in an increase in rheumatology referrals<br><br>Use of ‘SPINE’ which sets out the key symptoms:<br><strong>S</strong>ymptoms start slowly<br><strong>P</strong>ain in the lower back<br><strong>I</strong>mproves with movement<br><strong>N</strong>ight time waking<br><strong>E</strong>arly onset (under 40)<br><br>An eight-point set of inflammatory back pain (IBP) criteria and online symptom checker, with information on booking an appointment with a primary care consultation (see actonaxialspa.com)"
-has_padding = true
-headerColor = "#000000"
-headline = "1.\tHelp the person with inflammatory back pain to recognise that it might be axial SpA and feel confident about the actions they should take"
-template = "1-column-text"
-textAlignment = "left"
-textColor = "#D0021B"
-[[page_sections]]
-alignment = "left"
-block = "one-column-1"
-content = "Create and support a group of clinical champions including First Contact Practitioners, GPs, community musculoskeletal physiotherapists, and nurse practitioners. Their work will directly result in earlier identification of patients with suspected axial SpA and quicker referral to rheumatology<br><br>Promote use of online resource (actonaxialspa.com), eight-point IBP criteria, and SPADE tool which is designed to assist medical professionals define the chances of axial SpA in a patient with chronic back pain, below the age of 40 (<a href=\"http://www.spadetool.co.uk\">www.spadetool.co.uk</a>)<br><br>Pilot project in Bath where if a GP types “back pain”, the electronic patient record system can prompt consideration of axial SpA"
-has_padding = true
-headerColor = "#000000"
-headline = "2.\tEnsure that patients who present at primary care and community physiotherapy services with potential axial SpA are appropriately identified and urgently referred to rheumatology"
-template = "1-column-text"
-textAlignment = "left"
-textColor = "#FB5432"
-[[page_sections]]
-alignment = "left"
-block = "one-column-1"
-content = "Currently, if secondary care clinicians do suspect axial SpA (e.g. through ophthalmology, gastroenterology, dermatology and orthopaedic spinal surgery), they may reroute the patient back to the GP or follow a standard 18-week secondary referral route, all of which adds to delay<br><br>A national training programme for secondary care services will be rolled out locally led by rheumatologists and their teams, and later refined and rolled out nationally<br><br>A combination of online access to learning and face-to-face teaching sessions on site at the hospital base<br><br>A targeted media and professional communications programme including presentations, exhibitions and poster case studies at events<br><br>Use of hospital’s internal referral pathways to rheumatology, which will be audited"
-has_padding = true
-headerColor = "#000000"
-headline = "3.\tEnsure that patients who present at secondary care services with suspected axial SpA are identified at the first presentation and urgently referred to rheumatology"
-template = "1-column-text"
-textAlignment = "left"
-textColor = "#FB5432"
-[[page_sections]]
-alignment = "left"
-block = "one-column-1"
-content = "There is a lack of general awareness of the term axial SpA among UK radiologists: survey responses of 269 UK radiologists found that just 75% were aware of the term axial SpA, and only 31% were aware of the definitions of ‘positive’ MRI (suggestive of Axial SpA) for the sacroiliac joints and 25% for the spine<br><br>Recommendations for the interpretation of MRI in the diagnosis of axial SpA have been recently developed by <a href=\"https://britspa.co.uk/\">BRITSpA</a>. Their national implementation should help standardise practice and allow for a more consistent, reliable approach to diagnosis<br><br>An axial SpA MRI training programme will be developed which will also promote guidance to reach undergraduate medical students, foundation and specialty healthcare professionals"
-has_padding = true
-headerColor = "#000000"
-headline = "4.\tEnsure quick and accurate diagnosis of axial SpA in rheumatology"
-template = "1-column-text"
-textAlignment = "left"
-textColor = "#FB5432"
-[[page_sections]]
-alignment = "left"
-block = "one-column-1"
 content = "I really hope you found this update on the Act on Axial SpA campaign interesting. I’m sure you’ll agree it is a fantastic effort to get these changes recognised and in practice. This campaign is a result of years of continuous effort to <strong>raise public awareness and education in Axial SpA</strong>, and the outcome is a tremendous set of changes which will eventually help all those with potential Axial SpA receive a much faster diagnosis. These changes cover so much of NHS care people receive day-to-day, and hopefully, as a result, in the future people can <strong>receive an early diagnosis and</strong> <strong>carry on with their lives</strong>!<br><br>I’d like to acknowledge our own Project Nightingale team members Rosie Barnett, who is research advisor on this programme, and Dr Raj Sengupta who is one of the campaign founders and medical advisors on the programme.<br><br>You can access more information on the campaign website here: <a href=\"https://www.actonaxialspa.com/for-the-general-public/\" title=\"https://www.actonaxialspa.com/for-the-general-public/\">https://www.actonaxialspa.com/for-the-general-public/</a><br><br>If you would like to share your thoughts and opinions after reading this blog and/or the full article, please contact me on <a href=\"mailto:ns2271@bath.ac.uk\">ns2271@bath.ac.uk</a><br><br>Best Wishes,<br><br>The Project Nightingale Team<br><br><img src=\"/uploads/nass-picture.png\">"
 has_padding = true
 headerColor = "#4A90E2"
