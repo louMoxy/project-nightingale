@@ -49,5 +49,15 @@ headline = "What does the campaign hope to achieve?"
 template = "1-column-text"
 textAlignment = "left"
 textColor = ""
+[[page_sections]]
+alignment = "left"
+block = "one-column-1"
+content = "a. Phase 1- communications to drive public awareness to test the act on axial SpA brand and key messaging<br>b. Phase 2- concentrated local campaign in a single area, combining learning from Phase One and adding new communication tactics. This may be extended to other parts of the UK if it results in an increase in rheumatology referrals<br>c. Use of ‘SPINE’ which sets out the key symptoms:<br><strong>S</strong>ymptoms start slowly<br><strong>P</strong>ain in the lower back<br><strong>I</strong>mproves with movement<br><strong>N</strong>ight time waking<br><strong>E</strong>arly onset (under 40)<br>d. An eight-point set of inflammatory back pain (IBP) criteria and online symptom checker, with information on booking an appointment with a primary care consultation (see actonaxialspa.com)"
+has_padding = true
+headerColor = "#D0021B"
+headline = "1.\tHelp the person with inflammatory back pain to recognise that it might be axial SpA and feel confident about the actions they should take"
+template = "1-column-text"
+textAlignment = "left"
+textColor = ""
 
 +++
