@@ -79,5 +79,15 @@ headline = "3.\tEnsure that patients who present at secondary care services with
 template = "1-column-text"
 textAlignment = "left"
 textColor = "#FB5432"
+[[page_sections]]
+alignment = "left"
+block = "one-column-1"
+content = "There is a lack of general awareness of the term axial SpA among UK radiologists: survey responses of 269 UK radiologists found that just 75% were aware of the term axial SpA, and only 31% were aware of the definitions of ‘positive’ MRI (suggestive of Axial SpA) for the sacroiliac joints and 25% for the spine<br><br>Recommendations for the interpretation of MRI in the diagnosis of axial SpA have been recently developed by <a href=\"https://britspa.co.uk/\">BRITSpA</a>. Their national implementation should help standardise practice and allow for a more consistent, reliable approach to diagnosis<br><br>An axial SpA MRI training programme will be developed which will also promote guidance to reach undergraduate medical students, foundation and specialty healthcare professionals"
+has_padding = true
+headerColor = "#000000"
+headline = "4.\tEnsure quick and accurate diagnosis of axial SpA in rheumatology"
+template = "1-column-text"
+textAlignment = "left"
+textColor = "#FB5432"
 
 +++
