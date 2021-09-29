@@ -19,5 +19,11 @@ headline = "Good Morning! "
 template = "1-column-text"
 textAlignment = "left"
 textColor = "#000000"
+[[page_sections]]
+backgroundColor = ""
+block = "text-only-hero-banner"
+heading = "Why is there such a long delay to diagnosis in axial SpA?"
+template = "text-only-hero-banner"
+textColor = "#BD10E0"
 
 +++
