@@ -89,5 +89,15 @@ headline = "4.\tEnsure quick and accurate diagnosis of axial SpA in rheumatology
 template = "1-column-text"
 textAlignment = "left"
 textColor = "#FB5432"
+[[page_sections]]
+alignment = "left"
+block = "one-column-1"
+content = "I really hope you found this update on the Act on Axial SpA campaign interesting. I’m sure you’ll agree it is a fantastic effort to get these changes recognised and in practice. This campaign is a result of years of continuous effort to <strong>raise public awareness and education in Axial SpA</strong>, and the outcome is a tremendous set of changes which will eventually help all those with potential Axial SpA receive a much faster diagnosis. These changes cover so much of NHS care people receive day-to-day, and hopefully, as a result, in the future people can <strong>receive an early diagnosis and</strong> <strong>carry on with their lives</strong>!<br><br>I’d like to acknowledge our own Project Nightingale team members Rosie Barnett, who is research advisor on this programme, and Dr Raj Sengupta who is one of the campaign founders and medical advisors on the programme.<br><br>You can access more information on the campaign website here: <a href=\"https://www.actonaxialspa.com/for-the-general-public/\" title=\"https://www.actonaxialspa.com/for-the-general-public/\">https://www.actonaxialspa.com/for-the-general-public/</a><br><br>If you would like to share your thoughts and opinions after reading this blog and/or the full article, please contact me on <a href=\"mailto:ns2271@bath.ac.uk\">ns2271@bath.ac.uk</a><br><br>Best Wishes,<br><br>The Project Nightingale Team<br><br><img src=\"/uploads/nass-picture.png\">"
+has_padding = true
+headerColor = "#4A90E2"
+headline = "Summary and sign-off"
+template = "1-column-text"
+textAlignment = "left"
+textColor = ""
 
 +++
