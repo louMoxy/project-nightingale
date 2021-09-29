@@ -29,5 +29,15 @@ headline = "Why is there such a long delay to diagnosis in axial SpA?"
 template = "1-column-text"
 textAlignment = "left"
 textColor = ""
+[[page_sections]]
+alignment = "left"
+block = "one-column-1"
+content = "The idea for the Act on Axial SpA campaign was initially conceived by NASS CEO Dr Dale Webb, and consultant rheumatologist Dr Raj Sengupta (principal investigator of Project Nightingale!), and Professor Karl Gaffney. The campaign plan has involved an 11-month consultation process which included people living with axial SpA, healthcare professionals, professional bodies, commissioners, Parliamentarians and policymakers, as well as sending out a survey to them to get an idea of the kind of support there would be for this campaign. Workshops were also held with public health specialists, journalists, documentary makers and other communications experts to understand more about public awareness campaigning, and with stakeholders to get their input on the recommendations made. The campaign has been able to identify an integrated whole-system approach that uses multiple change levers, and allows the condition to be viewed in a way that involves all contributing factors, rather than just the disease itself. To put it another way, the intervention is both system-focussed (e.g. using pathways to follow for referral to simplify and standardise care) and people-focussed (e.g. using an online symptom checker for those with potential axial SpA)."
+has_padding = true
+headerColor = "#BD10E0"
+headline = "How was the campaign started?"
+template = "1-column-text"
+textAlignment = "left"
+textColor = ""
 
 +++
