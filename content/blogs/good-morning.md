@@ -25,5 +25,15 @@ block = "text-only-hero-banner"
 heading = "Why is there such a long delay to diagnosis in axial SpA?"
 template = "text-only-hero-banner"
 textColor = "#BD10E0"
+[[page_sections]]
+alignment = "left"
+block = "one-column-1"
+content = "Although the past few decades have seen a huge increase in our understanding of the condition, including improvements in available treatments and improvements in diagnosis, the diagnosis of axial SpA remains complex, and the terminology can be confusing. For example, up until recently, the condition was known only as ankylosing spondylitis (<a href=\"https://www.projectnightingale.org/blogs/axial-spondyloarthritis-what-is-axspa-and-how-does-it-relate-to-ankylosing-spondylitis/\" title=\"https://www.projectnightingale.org/blogs/axial-spondyloarthritis-what-is-axspa-and-how-does-it-relate-to-ankylosing-spondylitis/\">https://www.projectnightingale.org/blogs/axial-spondyloarthritis-what-is-axspa-and-how-does-it-relate-to-ankylosing-spondylitis/</a>)! And in terms of public awareness, even just the name axial spondyloarthritis can be hard to pronounce!"
+has_padding = true
+headerColor = ""
+headline = "Why is there such a long delay to diagnosis in axial SpA?"
+template = "1-column-text"
+textAlignment = "left"
+textColor = ""
 
 +++
