@@ -58,7 +58,7 @@ headerColor = "#000000"
 headline = "1.\tHelp the person with inflammatory back pain to recognise that it might be axial SpA and feel confident about the actions they should take"
 template = "1-column-text"
 textAlignment = "left"
-textColor = "#FB5432"
+textColor = "#D0021B"
 [[page_sections]]
 alignment = "left"
 block = "one-column-1"
