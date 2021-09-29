@@ -59,5 +59,15 @@ headline = "1.\tHelp the person with inflammatory back pain to recognise that it
 template = "1-column-text"
 textAlignment = "left"
 textColor = "#FB5432"
+[[page_sections]]
+alignment = "left"
+block = "one-column-1"
+content = "Create and support a group of clinical champions including First Contact Practitioners, GPs, community musculoskeletal physiotherapists, and nurse practitioners. Their work will directly result in earlier identification of patients with suspected axial SpA and quicker referral to rheumatology<br><br>Promote use of online resource (actonaxialspa.com), eight-point IBP criteria, and SPADE tool which is designed to assist medical professionals define the chances of axial SpA in a patient with chronic back pain, below the age of 40 (<a href=\"http://www.spadetool.co.uk\">www.spadetool.co.uk</a>)<br><br>Pilot project in Bath where if a GP types “back pain”, the electronic patient record system can prompt consideration of axial SpA"
+has_padding = true
+headerColor = "#000000"
+headline = "2.\tEnsure that patients who present at primary care and community physiotherapy services with potential axial SpA are appropriately identified and urgently referred to rheumatology"
+template = "1-column-text"
+textAlignment = "left"
+textColor = "#FB5432"
 
 +++
