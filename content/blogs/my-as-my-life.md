@@ -25,7 +25,7 @@ block = "one-column-1"
 content = "We will try to keep these up to date on our “Events” page moving forward!<br><strong><br>Thursday 14 October, 13.00: </strong>How axial SpA can affect your feet with Dr Lindsey Cherry, Senior Clinical Academic at the University of Southampton &amp; Solent NHS Trust<br><br><strong>Wednesday 20 October, 12.00: </strong>Pilates ‘improver’ session with Ruth Larkin, Sports Therapist and Pilates teacher<br><br><strong>Tuesday 26 October, 10.00: </strong>Relaxation session with Ali Potter, Health &amp; Mindset Coach and Osteopath<br><br><strong>Wednesday 3 November, 13.00: </strong>Acupuncture for pain with Ian Appleyard, Research &amp; Policy Manager, British Acupuncture Council<br><br><strong>Weds 10 Nov, 13.00: </strong>Winter wellbeing with Colin Beevor, Matron and Senior Clinical Nurse Specialist, Portsmouth Hospital<br><br><strong>Weds 17 Nov, 18.00: </strong>HIIT exercise session with Josh Poole, Senior Physiotherapist<br><br><strong>Weds 24 Nov, 13.00: </strong>Women and axial SpA with Dr Helena Marzo-Ortega, Consultant Rheumatologist<br><br><strong>Weds 1 Dec, 18.00: </strong>Men and axial SpA with Will Gregory, Consultant Physiotherapist (Rheumatology)<br><br><strong>Weds 8 Dec, 13.00: </strong>Somatic movement class with Ian Young, Somatics teacher<br> <br><br>We have also embedded some videos below of a few of the recent sessions, in case you missed them! All are posted on the My AS, My Life website and YouTube channel, following the live session on Facebook."
 has_padding = true
 headerColor = "#F5A623"
-headline = "Here are some of the exciting upcoming Facebook live’s:"
+headline = "Here are some of the exciting upcoming Facebook lives:"
 template = "1-column-text"
 textAlignment = "left"
 textColor = ""
@@ -89,6 +89,21 @@ textColor = ""
 block = "embed-youtube"
 template = "embed-youtube"
 url = "-DRCQKQlIok"
+width = 600
+[[page_sections]]
+alignment = "left"
+block = "one-column-1"
+content = ""
+has_padding = true
+headerColor = "#E80CEB"
+headline = "How axial spondyloarthritis (inc. ankylosing spondylitis) can affect different areas of the body"
+template = "1-column-text"
+textAlignment = "left"
+textColor = ""
+[[page_sections]]
+block = "embed-youtube"
+template = "embed-youtube"
+url = "plfYuYE1kpY"
 width = 600
 
 +++
