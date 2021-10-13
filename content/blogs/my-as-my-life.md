@@ -60,5 +60,25 @@ headline = "Pilates for axial SpA with Ruth Larkin"
 template = "1-column-text"
 textAlignment = "left"
 textColor = ""
+[[page_sections]]
+block = "embed-youtube"
+template = "embed-youtube"
+url = "Rsp0LtZbrwA"
+width = 600
+[[page_sections]]
+alignment = "left"
+block = "one-column-1"
+content = ""
+has_padding = true
+headerColor = "#F8E71C"
+headline = "Gut health, bacteria and axial SpA with Prof Julian Marchesi"
+template = "1-column-text"
+textAlignment = "left"
+textColor = ""
+[[page_sections]]
+block = "embed-youtube"
+template = "embed-youtube"
+url = "-DRCQKQlIok"
+width = 600
 
 +++
