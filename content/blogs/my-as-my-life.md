@@ -19,5 +19,15 @@ headline = "Hello everyone!"
 template = "1-column-text"
 textAlignment = "left"
 textColor = ""
+[[page_sections]]
+alignment = "left"
+block = "one-column-1"
+content = "<strong>Thursday 14 October, 13.00: </strong>How axial SpA can affect your feet with Dr Lindsey Cherry, Senior Clinical Academic at the University of Southampton &amp; Solent NHS Trust<br><br><strong>Wednesday 20 October, 12.00: </strong>Pilates ‘improver’ session with Ruth Larkin, Sports Therapist and Pilates teacher<br><br><strong>Tuesday 26 October, 10.00: </strong>Relaxation session with Ali Potter, Health &amp; Mindset Coach and Osteopath<br><br><strong>Wednesday 3 November, 13.00: </strong>Acupuncture for pain with Ian Appleyard, Research &amp; Policy Manager, British Acupuncture Council<br><br>We have also embedded some videos below of a few of the recent sessions, in case you missed them! All are posted on the My AS, My Life website and YouTube channel, following the live session on Facebook.<br><br>As always, thank you NASS and Zoë for all that you do for the axial SpA community!<br><br>Have a good rest of the week everyone and we look forward to posting again at the end of the month (another 2020 research updates post!).<br><br>All the best,<br>The Project Nightingale team"
+has_padding = true
+headerColor = "#F5A623"
+headline = "We have listed some of the exciting upcoming Facebook live’s below and will try to keep these up to date on our “Events” page moving forward"
+template = "1-column-text"
+textAlignment = "left"
+textColor = ""
 
 +++
