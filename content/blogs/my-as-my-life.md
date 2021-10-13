@@ -1,6 +1,5 @@
 +++
 date = 2021-10-13T09:00:00Z
-draft = true
 layout = "blocks"
 title = "My AS, My Life"
 [[page_sections]]
@@ -96,7 +95,7 @@ block = "one-column-1"
 content = ""
 has_padding = true
 headerColor = "#E80CEB"
-headline = "How axial spondyloarthritis (inc. ankylosing spondylitis) can affect different areas of the body"
+headline = "How axial spondyloarthritis (inc. ankylosing spondylitis) can affect different areas of the body, with Professor Karl Gaffney"
 template = "1-column-text"
 textAlignment = "left"
 textColor = ""
