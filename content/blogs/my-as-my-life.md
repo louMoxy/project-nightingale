@@ -35,5 +35,30 @@ caption = ""
 image = "/uploads/myasmylife.png"
 template = "full-width-media-element"
 width = "900"
+[[page_sections]]
+alignment = "left"
+block = "one-column-1"
+content = ""
+has_padding = true
+headerColor = "#B8E986"
+headline = "Managing your axial SpA when you are less active"
+template = "1-column-text"
+textAlignment = "left"
+textColor = ""
+[[page_sections]]
+block = "embed-youtube"
+template = "embed-youtube"
+url = "bJDgEpf68Ag"
+width = 600
+[[page_sections]]
+alignment = "left"
+block = "one-column-1"
+content = ""
+has_padding = true
+headerColor = "#4A90E2"
+headline = "Pilates for axial SpA with Ruth Larkin"
+template = "1-column-text"
+textAlignment = "left"
+textColor = ""
 
 +++
