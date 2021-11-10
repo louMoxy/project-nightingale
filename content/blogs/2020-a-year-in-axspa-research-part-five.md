@@ -69,5 +69,11 @@ headline = "Summary & Sign-Off!"
 template = "1-column-text"
 textAlignment = "left"
 textColor = ""
+[[page_sections]]
+block = "media-1"
+caption = ""
+image = "/uploads/logo-516c18ef04e0eead60f85595d9f8b56a.png"
+template = "full-width-media-element"
+width = "700"
 
 +++
