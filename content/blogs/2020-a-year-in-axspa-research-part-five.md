@@ -52,7 +52,7 @@ textColor = ""
 [[page_sections]]
 alignment = "left"
 block = "one-column-1"
-content = ""
+content = "If you want to help eliminate myths in axSpA, why not become a member of the NASS axSpA community of over 4000 supportive members! As a member, you can contribute to #ditchthemyth. People diagnosed with axSpA are taking part in the <a href=\"https://www.facebook.com/hashtag/ditchthemyth?epa=HASHTAG\">myth busting challenge</a> on Facebook, and giving their personal experience.<br><br>There is also a <a href=\"https://nass.co.uk/myth-busting-quiz/?fbclid=IwAR15O0FZRCyS2j30kUJRKh7mzPI88KjQAkSLRaJR4sxUyD0seJkCUutFbb4\">Myth Busting Quiz</a> on the NASS website, where you can test your own knowledge of axSpA!"
 has_padding = true
 headerColor = "#F13F55"
 headline = "#DitchTheMyth"
