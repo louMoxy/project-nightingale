@@ -49,5 +49,15 @@ headline = "Sex and gender differences in axial spondyloarthritis: myths and tru
 template = "1-column-text"
 textAlignment = "left"
 textColor = ""
+[[page_sections]]
+alignment = "left"
+block = "one-column-1"
+content = ""
+has_padding = true
+headerColor = "#F13F55"
+headline = "#DitchTheMyth"
+template = "1-column-text"
+textAlignment = "left"
+textColor = ""
 
 +++
