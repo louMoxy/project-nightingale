@@ -59,5 +59,15 @@ headline = "#DitchTheMyth"
 template = "1-column-text"
 textAlignment = "left"
 textColor = ""
+[[page_sections]]
+alignment = "left"
+block = "one-column-1"
+content = "I hope you enjoyed reading these summaries of the three different articles on axSpA.<br><br>There was quite a lot of information on treatment for axSpA, so if you want to read more on this please see the resources on the NASS website, as well as other related resources to the information in this blog:<br><br>Biologic therapy: <a href=\"https://nass.co.uk/resource/nass-guide-to-biologic-therapy/\" title=\"https://nass.co.uk/resource/nass-guide-to-biologic-therapy/\">https://nass.co.uk/resource/nass-guide-to-biologic-therapy/</a><br><br>Uveitis: <a href=\"https://nass.co.uk/resource/nass-guide-to-uveitis/\" title=\"https://nass.co.uk/resource/nass-guide-to-uveitis/\">https://nass.co.uk/resource/nass-guide-to-uveitis/</a><br><br>Living well with axSpa, including information on exercise and medication: <a href=\"https://nass.co.uk/resource/nass-guidebook/\" title=\"https://nass.co.uk/resource/nass-guidebook/\">https://nass.co.uk/resource/nass-guidebook/</a><br><br>If you have been affected by any of the information in these summaries, please reach out to help and support available <a href=\"https://nass.co.uk/contact-us/\">here</a>.<br><br>If you want to share your experience of any issues related to this blog, please contact me on: <a href=\"file:///C:/Users/rosie/AppData/Local/Packages/microsoft.windowscommunicationsapps_8wekyb3d8bbwe/LocalState/Files/S0/6843/Attachments/ns2271@bath.ac.uk\">ns2271@bath.ac.uk</a>. I would love to hear from you!<br><br>We also currently have a survey running, where we are gathering views and opinions on monitoring axSpA symptoms via a smartphone app. If you would like to have your say, you can access the survey here: <a href=\"https://bathreg.onlinesurveys.ac.uk/to-track-or-not-to-track-in-axialspondyloarthritis\" title=\"https://bathreg.onlinesurveys.ac.uk/to-track-or-not-to-track-in-axialspondyloarthritis\">https://bathreg.onlinesurveys.ac.uk/to-track-or-not-to-track-in-axialspondyloarthritis</a>. It will be closing at 7.30am on 15th November!<br><br>Have a good rest of the week all!<br><br>Best Wishes,<br><br>The Project Nightingale Team<br><br>"
+has_padding = true
+headerColor = "#9013FE"
+headline = "Summary & Sign-Off!"
+template = "1-column-text"
+textAlignment = "left"
+textColor = ""
 
 +++
