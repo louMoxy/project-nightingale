@@ -41,6 +41,10 @@ page_sections:
   block: cta-bar
 - template: full-width-media-element
   block: media-1
+  width: '800'
+  image: "/uploads/logo-516c18ef04e0eead60f85595d9f8b56a.png"
+- template: full-width-media-element
+  block: media-1
   image: "/uploads/cropped-green-motif-in-hand-android-swipe-sml_preview1.png"
   width: '600'
 - template: 1-column-text
@@ -84,19 +88,6 @@ page_sections:
     had etc). This app makes it easy!
   headline: How does it work?
   headerColor: "#BD10E0"
-  textAlignment: left
-- template: 1-column-text
-  block: one-column-1
-  alignment: left
-  has_padding: false
-  content: Project Nightingale’s study is now live! If you’ve not already downloaded
-    the App and would like to take part please enter your email address below to get
-    involved. It is important to note that currently, unfortunately participation
-    in Project Nightingale is only available for patients with axSpA at the Royal
-    National Hospital for Rheumatic Disease in Bath, or for people who have attended
-    a clinical appointment here. If you have any queries about this, please email
-    <a href="mailto:hello@projectnightingale.org">hello@projectnightingale.org</a>
-    .
   textAlignment: left
 - template: 1-column-text
   block: one-column-1
