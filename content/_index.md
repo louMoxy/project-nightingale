@@ -14,16 +14,17 @@ page_sections:
     an end on 31st December 2021. However, our team are working hard to migrate to
     a new app, which we hope to release at the end of this year, or early next year.
     We are currently in the contracting phase with the new app provider, and are designing
-    the look of the new symptom scales. We are really excited about this new phase
-    of the project, and hope to have some updates for you soon! <br><br>If you would
-    like to find out more about the new app, or migrate your existing umotif data,
-    please reach out to hello@projectnightingale.org or use the box below to enter
-    your email and one of our team will be in touch. We can then also reach out to
-    you regarding any Project Nightingale-related updates! In the meantime, if you
-    are new to Project Nightingale, please see the sections below to find out more
-    about the history of the study, and our prior collaboration with umotif. We also
-    have various other website pages for you to explore - including information on
-    upcoming Facebook Live talks by the <a href="https://nass.co.uk/" title="">National
+    the look of the new symptom scales based on feedback from potential users (via
+    an online survey!). We are really excited about this new phase of the project,
+    and hope to have some updates for you soon! <br><br>If you would like to find
+    out more about the new app, or migrate your existing umotif data, please reach
+    out to hello@projectnightingale.org and one of our team will be in touch. You
+    can also use the box below to enter your email so that we can reach out to you
+    regarding any Project Nightingale-related updates! <br><br>In the meantime, if
+    you are new to Project Nightingale, please see the sections below to find out
+    more about the history of the study, and our prior collaboration with umotif.
+    We also have various other website pages for you to explore - including information
+    on upcoming Facebook Live talks by the <a href="https://nass.co.uk/" title="">National
     Axial Spondyloarthritis Society</a> (see "<a href="https://www.projectnightingale.org/events/"
     title="">Events</a>" tab above), and a <a href="https://www.projectnightingale.org/blogs/"
     title="">blog</a> section where we post various axial spondyloarthritis research
@@ -35,6 +36,8 @@ page_sections:
     apologies for any disruption in your logging. If you have any queries, please
     email hello@projectnightingale.org and we will get back to you as soon as we can.
     Thank you for all your efforts!
+- template: signup-bar
+  block: cta-bar
 - template: full-width-media-element
   block: media-1
   image: "/uploads/cropped-green-motif-in-hand-android-swipe-sml_preview1.png"
@@ -94,8 +97,6 @@ page_sections:
     <a href="mailto:hello@projectnightingale.org">hello@projectnightingale.org</a>
     .
   textAlignment: left
-- template: signup-bar
-  block: cta-bar
 - template: 1-column-text
   block: one-column-1
   alignment: centered
