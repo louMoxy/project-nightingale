@@ -18,25 +18,25 @@ page_sections:
     an online survey!). We are really excited about this new phase of the project,
     and hope to have some updates for you soon! <br><br>If you would like to find
     out more about the new app, or migrate your existing umotif data, please reach
-    out to hello@projectnightingale.org and one of our team will be in touch. You
-    can also use the box below to enter your email so that we can reach out to you
-    regarding any Project Nightingale-related updates! <br><br>In the meantime, if
-    you are new to Project Nightingale, please see the sections below to find out
-    more about the history of the study, and our prior collaboration with umotif.
-    We also have various other website pages for you to explore - including information
-    on upcoming Facebook Live talks by the <a href="https://nass.co.uk/" title="">National
-    Axial Spondyloarthritis Society</a> (see "<a href="https://www.projectnightingale.org/events/"
-    title="">Events</a>" tab above), and a <a href="https://www.projectnightingale.org/blogs/"
-    title="">blog</a> section where we post various axial spondyloarthritis research
-    updates. You can also find all our Project Nightingale scientific conference abstracts
-    and publications on the "<a href="https://www.projectnightingale.org/publications/"
-    title="">Publications</a>" tab. Our first full Project Nightingale scientific
-    manuscript was published just last month!<br><br>To our existing Project Nightingale
-    participants, thank you for your patience while we undergo this migration and
-    apologies for any potential disruption in your logging. If you have any queries,
-    please email hello@projectnightingale.org and we will get back to you as soon
-    as we can. Thank you for all your efforts!<br><br>All the best, <br>The Project
-    Nightingale Team
+    out to <a href="hello@projectnightingale.org" title="">hello@projectnightingale.org</a>
+    and one of our team will be in touch. You can also use the box below to enter
+    your email so that we can reach out to you regarding any Project Nightingale-related
+    updates! <br><br>In the meantime, if you are new to Project Nightingale, please
+    see the sections below to find out more about the history of the study, and our
+    prior collaboration with umotif. We also have various other website pages for
+    you to explore - including information on upcoming Facebook Live talks by the
+    <a href="https://nass.co.uk/" title="">National Axial Spondyloarthritis Society</a>
+    (see "<a href="https://www.projectnightingale.org/events/" title="">Events</a>"
+    tab above), and a <a href="https://www.projectnightingale.org/blogs/" title="">blog</a>
+    section where we post various axial spondyloarthritis research updates. You can
+    also find all our Project Nightingale scientific conference abstracts and publications
+    on the "<a href="https://www.projectnightingale.org/publications/" title="">Publications</a>"
+    tab. Our first full Project Nightingale scientific manuscript was published just
+    last month!<br><br>To our existing Project Nightingale participants, thank you
+    for your patience while we undergo this migration and apologies for any potential
+    disruption in your logging. If you have any queries, please email hello@projectnightingale.org
+    and we will get back to you as soon as we can. Thank you for all your efforts!<br><br>All
+    the best, <br>The Project Nightingale Team
 - template: signup-bar
   block: cta-bar
 - template: full-width-media-element
