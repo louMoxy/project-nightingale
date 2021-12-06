@@ -33,10 +33,10 @@ page_sections:
     title="">Publications</a>" tab. Our first full Project Nightingale scientific
     manuscript was published just last month!<br><br>To our existing Project Nightingale
     participants, thank you for your patience while we undergo this migration and
-    apologies for any disruption in your logging. If you have any queries, please
-    email hello@projectnightingale.org and we will get back to you as soon as we can.
-    Thank you for all your efforts!<br><br>All the best, <br>The Project Nightingale
-    Team
+    apologies for any potential disruption in your logging. If you have any queries,
+    please email hello@projectnightingale.org and we will get back to you as soon
+    as we can. Thank you for all your efforts!<br><br>All the best, <br>The Project
+    Nightingale Team
 - template: signup-bar
   block: cta-bar
 - template: full-width-media-element
