@@ -18,7 +18,7 @@ page_sections:
     an online survey!). We are really excited about this new phase of the project,
     and hope to have some updates for you soon! <br><br>If you would like to find
     out more about the new app, or migrate your existing umotif data, please reach
-    out to <a href="hello@projectnightingale.org" title="">hello@projectnightingale.org</a>
+    out to <a href="mailto:hello@projectnightingale.org">hello@projectnightingale.org</a>
     and one of our team will be in touch. You can also use the box below to enter
     your email so that we can reach out to you regarding any Project Nightingale-related
     updates! <br><br>In the meantime, if you are new to Project Nightingale, please
