@@ -33,7 +33,7 @@ textColor = ""
 [[page_sections]]
 alignment = "left"
 block = "one-column-1"
-content = "We are yet to publish a full manuscript utilising the Project Nightingale data. However, thanks to our participants, we now have a unique, granular, comprehensive ~2-year dataset which is currently being analysed for research purposes. <br><br>2 manuscripts are currently in preparation, with an additional manuscript at the submission stage. Any updates will be immediately published to this page, and via our research assistant Rosie's twitter (@RosieBarnett95)! We hope to have more updates for you soon :)"
+content = "Determinants of Longitudinal Adherence in Smartphone-Based Self-Tracking for Chronic Health Conditions: Evidence from Axial Spondyloarthritis<br>Jones, S., Hue, W., Kelly, R., Barnett, R., Henderson, V. &amp; Sengupta, R., 31 March 2021, In: <em>PACM on Interactive, Mobile, Wearable and Ubiquitous Technologies</em>. <br><br>Understanding flare in axial spondyloarthritis: novel insights from daily self-reported flare experience<br>Barnett, R., Ng, S. &amp; Sengupta, R., 15 November 2021, In: <em>Rheumatology Advances in Practice</em>, <a href=\"https://doi.org/10.1093/rap/rkab082\" title=\"https://doi.org/10.1093/rap/rkab082\">https://doi.org/10.1093/rap/rkab082</a><br>"
 has_padding = true
 headerColor = "#BD10E0"
 headline = "Manuscripts"
