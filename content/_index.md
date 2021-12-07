@@ -21,7 +21,7 @@ page_sections:
     out to <a href="mailto:hello@projectnightingale.org">hello@projectnightingale.org</a>
     and one of our team will be in touch. You can also use the box below to enter
     your email so that we can reach out to you regarding any Project Nightingale-related
-    updates! <br><br>In the meantime, if you are new to Project Nightingale, please
+    updates.<br><br>In the meantime, if you are new to Project Nightingale, please
     see the sections below to find out more about the history of the study, and our
     prior collaboration with umotif. We also have various other website pages for
     you to explore - including information on upcoming Facebook Live talks by the
