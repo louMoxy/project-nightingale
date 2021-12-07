@@ -45,5 +45,15 @@ caption = ""
 image = "/uploads/figure-1.tif"
 template = "full-width-media-element"
 width = "800"
+[[page_sections]]
+alignment = "left"
+block = "one-column-1"
+content = "<em>Rheumatology Advances in Practice</em>, an official journal of the British Society for Rheumatology, provides a global forum for the publication of the highest quality clinical papers on all areas of rheumatology and musculoskeletal practice, in a fully open access, online journal environment. The journal is an essential resource on therapy, imaging, education, qualitative research, health economics, rare rheumatic diseases, and translational science."
+has_padding = true
+headerColor = "#F5A623"
+headline = "About the journal"
+template = "1-column-text"
+textAlignment = "left"
+textColor = ""
 
 +++
