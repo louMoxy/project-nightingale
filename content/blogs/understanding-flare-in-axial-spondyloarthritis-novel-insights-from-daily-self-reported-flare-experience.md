@@ -22,7 +22,7 @@ textColor = ""
 [[page_sections]]
 alignment = "left"
 block = "one-column-1"
-content = "- Daily self-reported smartphone data identified two distinct clusters of people living with axSpA who had different flare experiences. <br><br>- One group had a shorter, more intense flare experience (greater worsening of pain, mood, sleep, fatigue, stress) <br><br>- However, there were no differences in flare frequency between the groups <br><br>- The group with prolonged flare had a significantly greater number of people who smoked<br><br>- Despite differences in flare duration and symptoms, baseline clinical measures such as disease activity, function or spinal mobility, were similar between clusters.<br><br>- <strong>Smartphone technologies may therefore capture subtle changes in disease experience not currently considered in clinical practice.</strong>"
+content = "- Daily self-reported smartphone data identified two distinct clusters of people living with axSpA who had different flare experiences. <br><br>- One group had a shorter, more intense flare experience (greater worsening of pain, mood, sleep, fatigue, stress). <br><br>- However, there were no differences in flare frequency between the groups. <br><br>- The group with prolonged flare had a significantly greater number of people who smoked.<br><br>- Despite differences in flare duration and symptoms, baseline clinical measures such as disease activity, function or spinal mobility, were similar between clusters.<br><br>- <strong>Smartphone technologies may therefore capture subtle changes in disease experience not currently considered in clinical practice.</strong>"
 has_padding = true
 headerColor = "#7ED321"
 headline = "Key messages"
@@ -42,9 +42,9 @@ textColor = ""
 [[page_sections]]
 block = "media-1"
 caption = ""
-image = "/uploads/figure-1.tif"
+image = "/uploads/picture1blog.png"
 template = "full-width-media-element"
-width = "800"
+width = "750"
 [[page_sections]]
 alignment = "left"
 block = "one-column-1"
