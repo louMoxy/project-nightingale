@@ -32,9 +32,9 @@ page_sections:
     also find all our Project Nightingale scientific conference abstracts and publications
     on the "<a href="https://www.projectnightingale.org/publications/" title="">Publications</a>"
     tab. Our first full Project Nightingale scientific manuscript was published just
-    last month!<br><br>To our existing Project Nightingale participants, thank you
+    last month.<br><br>To our existing Project Nightingale participants, thank you
     for your patience while we undergo this migration and apologies for any potential
-    disruption in your logging. If you have any queries, please email hello@projectnightingale.org
+    disruption in your logging. If you have any queries, please email <a href="mailto:hello@projectnightingale.org">hello@projectnightingale.org</a>
     and we will get back to you as soon as we can. Thank you for all your efforts!<br><br>All
     the best, <br>The Project Nightingale Team
 - template: signup-bar
