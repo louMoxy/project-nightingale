@@ -39,5 +39,11 @@ headline = "Overview"
 template = "1-column-text"
 textAlignment = "left"
 textColor = ""
+[[page_sections]]
+block = "media-1"
+caption = ""
+image = "/uploads/figure-1.tif"
+template = "full-width-media-element"
+width = "800"
 
 +++
