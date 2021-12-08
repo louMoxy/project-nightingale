@@ -18,6 +18,6 @@ headerColor = "#4A90E2"
 headline = "Hello Everyone!"
 template = "1-column-text"
 textAlignment = "left"
-textColor = "#FFFFFF"
+textColor = "#000000"
 
 +++
