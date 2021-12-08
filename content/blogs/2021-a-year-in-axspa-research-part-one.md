@@ -4,10 +4,10 @@ draft = true
 layout = "blocks"
 title = "2021 – A year in axSpA research! Part one"
 [[page_sections]]
-backgroundColor = ""
+backgroundColor = "#36E4DA"
 block = "text-only-hero-banner"
 heading = "Hello Everyone!"
 template = "text-only-hero-banner"
-textColor = ""
+textColor = "#FFFFFF"
 
 +++
