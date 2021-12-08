@@ -6,7 +6,7 @@ title = "2021 – A year in axSpA research! Part one"
 [[page_sections]]
 backgroundColor = "#36E4DA"
 block = "text-only-hero-banner"
-heading = "Hello Everyone!"
+heading = "2021 – A year in axSpA research! Part one"
 template = "text-only-hero-banner"
 textColor = "#FFFFFF"
 
