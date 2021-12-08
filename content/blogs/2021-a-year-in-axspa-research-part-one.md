@@ -12,7 +12,7 @@ textColor = "#FFFFFF"
 [[page_sections]]
 alignment = "left"
 block = "one-column-1"
-content = "I hope all of our readers are well, and continuing to keep safe.<br><br>Today’s blog is the latest in the publication updates, and we have made it to 2021! For those who are new to the Project Nightingale blogs, or may not be aware, we are currently posting 3-month article summaries from previously published research on axial spondyloarthritis (axSpA). This blog post is for articles published from January to March 2021. Happy reading!!"
+content = "I hope all of our readers are well, and continuing to keep safe.<br><br>Today’s blog is the latest in the publication updates, and we have made it to 2021! For those who are new to the Project Nightingale blogs, or may not be aware, we are currently posting 3-month article summaries from previously published research on axial spondyloarthritis (axSpA). This blog post is for articles published from January to March 2021. <br><br>Happy reading!!"
 has_padding = true
 headerColor = "#4A90E2"
 headline = "Hello Everyone!"
