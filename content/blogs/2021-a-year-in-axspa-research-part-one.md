@@ -52,7 +52,7 @@ textColor = ""
 [[page_sections]]
 alignment = "left"
 block = "one-column-1"
-content = "I hope you have enjoyed reading these summaries of research.<br><br>If you have been affected by any of the information in these summaries, please reach out to help and support available <a href=\"https://nass.co.uk/contact-us/\">here</a>.<br><br>If you want to share your experience of any issues related to this blog, please contact me on: <a href=\"file:///C:/Users/pr222/Library/Containers/com.apple.mail/Data/Library/Mail%20Downloads/DE7C10C2-20E9-4268-95AE-115CAC479F6C/ns2271@bath.ac.uk\">ns2271@bath.ac.uk</a>. I would love to hear from you!<br><br>Best Wishes,<br><br>The Project Nightingale Team<br><br><img src=\"/uploads/logo-516c18ef04e0eead60f85595d9f8b56a.png\">"
+content = "I hope you have enjoyed reading these summaries of research.<br><br>If you have been affected by any of the information in these summaries, please reach out to help and support available <a href=\"https://nass.co.uk/contact-us/\">here</a>.<br><br>If you want to share your experience of any issues related to this blog, please contact me on: <a href=\"ns2271@bath.ac.uk\" title=\"\">ns2271@bath.ac.uk</a>. I would love to hear from you!<br><br>Best Wishes,<br><br>The Project Nightingale Team<br><br><img src=\"/uploads/logo-516c18ef04e0eead60f85595d9f8b56a.png\">"
 has_padding = true
 headerColor = "#F13F55"
 headline = "Summary & Sign Off!"
