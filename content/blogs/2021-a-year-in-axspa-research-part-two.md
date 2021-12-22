@@ -52,10 +52,10 @@ textColor = ""
 [[page_sections]]
 alignment = "left"
 block = "one-column-1"
-content = ""
+content = "As last year, this year we face similar challenges with uncertainties of Covid-19.<br><br><a href=\"https://www.projectnightingale.org/blogs/christmas/\">Here</a> are some resources and helplines that can offer support during this festive season, which were posted in last year’s blog. If you feel you need support or help during this time, please reach out to these resources.<br><br><strong>Some of the helplines may vary over the Christmas period, however NHS 111 and the Samaritans are free and available 24/7, 365 days a year.</strong>"
 has_padding = true
-headerColor = ""
-headline = ""
+headerColor = "#F13F55"
+headline = "Support during Christmas Time"
 template = "1-column-text"
 textAlignment = "left"
 textColor = ""
