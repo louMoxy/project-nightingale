@@ -19,5 +19,45 @@ headline = "Happy New Year!"
 template = "1-column-text"
 textAlignment = "left"
 textColor = ""
+[[page_sections]]
+alignment = "left"
+block = "one-column-1"
+content = ""
+has_padding = true
+headerColor = "#F76BF4"
+headline = "Exploring remission concept in axial spondyloarthritis through the perception of rheumatologists using vignettes and priority ratings"
+template = "1-column-text"
+textAlignment = "left"
+textColor = ""
+[[page_sections]]
+alignment = "left"
+block = "one-column-1"
+content = ""
+has_padding = true
+headerColor = ""
+headline = ""
+template = "1-column-text"
+textAlignment = "left"
+textColor = ""
+[[page_sections]]
+alignment = "left"
+block = "one-column-1"
+content = ""
+has_padding = true
+headerColor = ""
+headline = ""
+template = "1-column-text"
+textAlignment = "left"
+textColor = ""
+[[page_sections]]
+alignment = "left"
+block = "one-column-1"
+content = ""
+has_padding = true
+headerColor = ""
+headline = ""
+template = "1-column-text"
+textAlignment = "left"
+textColor = ""
 
 +++
