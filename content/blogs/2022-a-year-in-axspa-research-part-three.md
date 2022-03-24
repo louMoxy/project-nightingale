@@ -49,5 +49,15 @@ headline = "Associations between syndesmophytes and facet joint ankylosis in rad
 template = "1-column-text"
 textAlignment = "left"
 textColor = ""
+[[page_sections]]
+alignment = "left"
+block = "one-column-1"
+content = "I hope you have enjoyed reading these summaries of research, and found the information useful.<br><br>If you want to share your experience of any issues related to this blog, please contact me on: <a href=\"ns2271@bath.ac.uk\" title=\"\">ns2271@bath.ac.uk</a>. I would love to hear from you!<br><br>Best Wishes,<br><br>The Project Nightingale Team<br><br><img src=\"/uploads/logo-516c18ef04e0eead60f85595d9f8b56a.png\">"
+has_padding = true
+headerColor = ""
+headline = "Summary & Sign Off!"
+template = "1-column-text"
+textAlignment = "left"
+textColor = ""
 
 +++
