@@ -39,5 +39,15 @@ headline = "Facet joint disease in patients with axial spondyloarthritis: A retr
 template = "1-column-text"
 textAlignment = "left"
 textColor = ""
+[[page_sections]]
+alignment = "left"
+block = "one-column-1"
+content = "<em>March 2022. Stal and colleagues.</em> <a href=\"https://pubmed.ncbi.nlm.nih.gov/35302592/\" title=\"https://pubmed.ncbi.nlm.nih.gov/35302592/\">https://pubmed.ncbi.nlm.nih.gov/35302592/</a><br><br>Syndesmophytes are bone growth occurring inside a ligament, most commonly occuring in the annulus fibrosis and adjacent ligaments. The fusion of two vertebrae occurs when a syndesmophyte has crossed the intervertebral disc space and formed a so-called bridging syndesmophyte to the adjacent vertebra. As seen in the previous article summary, bone formation can also occur in facet joints, causing facet joint ankylosis (FJA). However, the direction of the association between FJA and (bridging) syndesmophytes is unclear. Some evidence suggests that bridging syndesmophytes occur frequently with FJA in radiographic axial spondyloarthritis (r-axSpA), whereas other evidence suggests syndesmophyte development precedes FJA. Syndesmophytes have been reported to frequently occur and progress most in the thoracic spine.<br><br>This study examined the thoracic spine using low dose Computed Tomography (ldCT), which was used due to the ability to repeatedly capture images of the whole spine. There were two aims of the study. To examine whether:<br><br>1. presence of bridging syndesmophytes increases the risk of FJA using whole spine ldCT, and<br>2. presence of FJA increases the risk of syndesmophyte formation at the same or adjacent vertebral level.<br><br>51 people with r-axSpA (average age 49 years, 68% male) diagnosed using the 1984 modified New-York classification criteria were included in the study. LdCT and Magnetic Resonance Imaging (MRI) images of the whole spine were collected at the start of the study (baseline) and two years later.<br><br>The findings of the study are presented below:<br><strong>· </strong>  Both FJA and bridging syndesmophytes are present at baseline in every vertebral unit, and occur more often in the thoracic spine, with bridging syndesmophytes occurring more often than FJA.<br><strong>· </strong>  In the majority of people, the number of vertebral units with bridging syndesmophytes exceeded the number of vertebral units with FJA.<br><strong>· </strong>  FJA or bridging syndesmophytes in an adjacent vertebral unit increases the risk of syndesmophyte development or FJA.<br><strong>· </strong>  Syndesmophytes appeared to be a strong risk factor for FJA, and not vice versa."
+has_padding = true
+headerColor = "#F8E00A"
+headline = "Associations between syndesmophytes and facet joint ankylosis in radiographic axial spondyloarthritis patients on low-dose CT over 2 years"
+template = "1-column-text"
+textAlignment = "left"
+textColor = ""
 
 +++
