@@ -29,5 +29,15 @@ headline = "Effects of targeted therapies on bone in rheumatic and musculoskelet
 template = "1-column-text"
 textAlignment = "left"
 textColor = ""
+[[page_sections]]
+alignment = "left"
+block = "one-column-1"
+content = "<em>March 2022. Slobodin and colleagues. </em><a href=\"https://pubmed.ncbi.nlm.nih.gov/35305466/\" title=\"https://pubmed.ncbi.nlm.nih.gov/35305466/\">https://pubmed.ncbi.nlm.nih.gov/35305466/</a><br><br>New bone formation is very common in people with axial spondyloarthritis (axSpA), however syndesmophytes, which is bone growth occurring inside a ligament, has been reported in the radiographic form of axSpA (r-axSpA). This most commonly occurs in the annulus fibrosis and adjacent ligaments, but the facet joints have also been identified as having bony growth formation. Facet joint ankylosis (joint stiffening/ immobility due to fusion of the bones) has also recently been reported in people with r-axSpA. As the facet joints are synovial joints (freely movable), inflammation may be present for prolonged periods before ankylosis is detectable, causing ongoing structural damage. This resulting structural damage is best assessed using computed tomography (CT) scanning. This study involved retrospectively assessing the facet joints of people with different forms of axSpA: r-axSpA with intervertebral syndesmophytes, r-axSpA without intervertebral syndesmophytes, and non-radiographic axSpA (nr-axSpA).<br><br>People who were included in the analysis were aged under 50 years on the day of the CT study, and had been diagnosed either using the 1984 modified New-York classification criteria for r-axSpA, or Assessment of SpondyloArthritis international Society (ASAS) classification criteria for axSpA. A control group including people without a diagnosis of axSpA, matched to the study group by age and gender, was included.<br><br>The assessment of CT images was performed by an experienced rheumatologist (17 years of CT reading experience) and a musculoskeletal radiologist (21 years of CT reading experience), who were both unaware of the diagnoses when presented with the CT images. Images included the cervical, thoracic, and lumbar spine, and were categorised under the following:<br><strong>· </strong>  normal,<br><strong>· </strong>  disease-specific changes (ankylosis, erosion),<br><strong>· </strong>  degenerative changes (narrowing, osteophyte, sclerosis, cysts, vacuum)<br><br>A total of 49 people composed the study group of axSpA (average disease duration 7 years, average age 37.3 years, male 57%) and 44 people composed the control group (average age 38.5 years, male 64%).<br><br>Results are provided below in Figure 1 and Figure 2 for disease-specific and degenerative changes.<br><br><img src=\"/uploads/figure-1.jpg\">"
+has_padding = true
+headerColor = ""
+headline = "Facet joint disease in patients with axial spondyloarthritis: A retrospective computed tomography study"
+template = "1-column-text"
+textAlignment = "left"
+textColor = ""
 
 +++
