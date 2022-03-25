@@ -1,6 +1,5 @@
 +++
-date = 2022-03-24T11:00:00Z
-draft = true
+date = 2022-03-25T14:00:00Z
 layout = "blocks"
 title = "2022 – A year in axSpA research! Part four"
 [[page_sections]]
