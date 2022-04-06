@@ -18,7 +18,7 @@ page_sections:
     Learning more about the background/research behind the project<br>→ A Physiotherapist-led
     stretch!<br>→ A chance to ask your questions!<br><br>We look forward to meeting
     all of you at this event, please make sure to register today!<br><br>Sincerely,<br>The
-    Team at Project Nightingale and My Arthritis'
+    Team at Project Nightingale and My Arthritis<br>'
 - template: 1-column-text
   block: one-column-1
   alignment: left
