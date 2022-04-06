@@ -7,6 +7,23 @@ page_sections:
   alignment: left
   textAlignment: left
   has_padding: true
+  headline: Project Nightingale April 2022 Update Pending!
+  headerColor: "#B8E986"
+  content: 'We are excited to be launching a new Project Nightingale x My Arthritis
+    collaboration with social purpose company Ampersand Health, on Monday 11th April
+    - watch this space for more updates! <br><br>In the meantime, you can sign-up
+    for our Welcome Event here: <a href="https://www.eventbrite.co.uk/e/welcome-event-project-nightingale-my-arthritis-app-tickets-302573695067"
+    title="https://www.eventbrite.co.uk/e/welcome-event-project-nightingale-my-arthritis-app-tickets-302573695067">https://www.eventbrite.co.uk/e/welcome-event-project-nightingale-my-arthritis-app-tickets-302573695067</a><br><br>You
+    can look forward to…<br>→ Meeting the team behind Project Nightingale and My Arthritis<br>→
+    Learning more about the background/research behind the project<br>→ A Physiotherapist-led
+    stretch!<br>→ A chance to ask your questions!<br><br>We look forward to meeting
+    all of you at this event, please make sure to register today!<br><br>Sincerely,<br>The
+    Team at Project Nightingale and My Arthritis'
+- template: 1-column-text
+  block: one-column-1
+  alignment: left
+  textAlignment: left
+  has_padding: true
   headline: Project Nightingale December 2021 update!
   headerColor: "#36E4DA"
   content: Thank you for visiting our website, and for your interest in Project Nightingale.
