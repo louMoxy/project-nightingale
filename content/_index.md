@@ -7,7 +7,7 @@ page_sections:
   alignment: left
   textAlignment: left
   has_padding: true
-  headline: Project Nightingale April 2022 Update Pending!
+  headline: Project Nightingale April 2022 update pending!
   headerColor: "#B8E986"
   content: 'We are excited to be launching a new Project Nightingale x My Arthritis
     collaboration with social purpose company Ampersand Health, on Monday 11th April
