@@ -19,6 +19,10 @@ page_sections:
     stretch!<br>→ A chance to ask your questions!<br><br>We look forward to meeting
     all of you at this event, please make sure to register today!<br><br>Sincerely,<br>The
     Team at Project Nightingale and My Arthritis'
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/https___cdn-evbuc-com_images_251273259_488397188211_1_original.png"
+  width: '700'
 - template: 1-column-text
   block: one-column-1
   alignment: left
