@@ -9,7 +9,7 @@ page_sections:
   has_padding: true
   headline: Project Nightingale x My Arthritis App
   headerColor: "#36E4DA"
-  content: Project Nightingale was launched in 2018 by the Royal National Hospital
+  content: 'Project Nightingale was launched in 2018 by the Royal National Hospital
     for Rheumatic Diseases (RNHRD) in Bath, and is now entering an exciting new phase
     in collaboration with social purpose company Ampersand Health and the existing
     My Arthritis app!<br><br>Project Nightingale allows people with axial spondyloarthritis
@@ -31,7 +31,7 @@ page_sections:
     if you have any ideas for app content that you want to see, or any community events
     that you would like us to put on in future.<br><br>Visit our <a href="https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpublications.ampersandhealth.co.uk%2Fview%2F472283392%2F&amp;data=04%7C01%7Crlb60%40bath.ac.uk%7Caf1aa8a4dfa94cd13f8f08d9e18677f0%7C377e3d224ea1422db0ad8fcc89406b9e%7C0%7C0%7C637788789951521814%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&amp;sdata=PUTABizZq4MVQ32bFhFZtwfR5UsIqHcWf1YngN2FPJs%3D&amp;reserved=0"><strong>online
     brochure</strong></a> to find out more.<br><br>We look forward to hearing from
-    you!
+    you! '
 - template: full-width-media-element
   block: media-1
   image: "/uploads/pn-placeholder-shrunken-2.png"
