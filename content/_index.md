@@ -42,9 +42,11 @@ page_sections:
   has_padding: true
   headline: Sign-up for Project Nightingale updates!
   headerColor: "#4A90E2"
-  content: Would you like to stay up-to-date with Project Nightingale-related news
-    and research? Please enter your email into the sign-up box below and one of the
-    team will be in touch.
+  content: 'Would you like to stay up-to-date with Project Nightingale-related news
+    and research? Or do you have any ideas to help us improve the app or app content?
+    If so, we would love to hear from you! Please enter your email into the sign-up
+    box below, or email <a href="mailto:hello@projectnightingale.org">hello@projectnightingale.org</a>
+    and one of the team will be in touch. '
 - template: signup-bar
   block: cta-bar
 - template: full-width-media-element
@@ -146,6 +148,5 @@ page_sections:
   block: media-1
   image: "/uploads/screenshot-www1-projectnightingale-org-2020-09-09-11_46_05.png"
   width: '800'
-draft: true
 
 ---
