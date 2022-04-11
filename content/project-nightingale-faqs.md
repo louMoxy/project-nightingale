@@ -94,7 +94,7 @@ textColor = ""
 [[page_sections]]
 alignment = "left"
 block = "one-column-1"
-content = "The app does include one automatic reminder at 1830 each evening but of course you can set up individual reminders on your mobile device if that helps.<br>"
+content = "The app does send one automatic reminder to your message inbox daily, but of course you can set up individual reminders on your mobile device if that helps.<br>"
 has_padding = true
 headerColor = "#50E3C2"
 headline = "Can I set up a reminder?"
@@ -104,10 +104,10 @@ textColor = ""
 [[page_sections]]
 alignment = "left"
 block = "one-column-1"
-content = "This petal refers to <strong>total screen time - including watching TV</strong>."
+content = "This refers to <strong>total screen time - including watching TV</strong>."
 has_padding = true
 headerColor = "#E661ED"
-headline = "Does the optional \"screen time\" petal question relate to mobile phone/computer/tablet screen time only or does it include total screen time including watching TV?"
+headline = "Does the optional \"screen time\" question relate to mobile phone/computer/tablet screen time only or does it include total screen time including watching TV?"
 template = "1-column-text"
 textAlignment = "left"
 textColor = ""
