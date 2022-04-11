@@ -14,7 +14,7 @@ textColor = "#FFFFFF"
 [[page_sections]]
 alignment = "left"
 block = "one-column-1"
-content = "It would be great if you completed the motif (from the home page) and the daily questionnaire (from the settings tab).<br>"
+content = "It would be great if you completed the daily \"feelings\" (from the homepage) and daily questionnaire (from your message inbox). <br>"
 has_padding = true
 headerColor = "#9B52DF"
 headline = "What do I need to complete?"
