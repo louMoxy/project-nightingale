@@ -44,7 +44,7 @@ textColor = ""
 [[page_sections]]
 alignment = "left"
 block = "one-column-1"
-content = "We will provide details for how to pair a device soon - unfortunately this is not working at present. We will let you know via the My Arthritis inbox once this feature becomes available!<br>"
+content = "We will provide details for how to pair a device soon - unfortunately this is not working at present. We will let you know via the My Arthritis message inbox once this feature becomes available!<br>"
 has_padding = true
 headerColor = "#F5A623"
 headline = "How to pair a device?"
