@@ -36,5 +36,11 @@ headline = ""
 template = "1-column-text"
 textAlignment = "left"
 textColor = ""
+[[page_sections]]
+block = "media-1"
+caption = ""
+image = "/uploads/raj-quote-pn.png"
+template = "full-width-media-element"
+width = "600"
 
 +++
