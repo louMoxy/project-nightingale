@@ -141,9 +141,9 @@ page_sections:
     My Arthritis app?</strong> Although you don’t have to synchronise an app or device,
     there are many that are compatible should you wish.<br><strong>Will I be reminded
     to complete the app?</strong> Yes, reminders will be sent daily via email and
-    the Messages section, within the "Profile" tab.<br><strong>If I’m tracking the
+    the Messages section, within the "Profile" tab. <br><strong>If I’m tracking the
     affect of my menstrual cycle, how can I capture where in my cycle I am?</strong>
-    Please use the Notes section withini the "Profile" tab to capture this information.<br>If
+    Please use the Notes section within the "Profile" tab to capture this information.<br>If
     you have any general questions about the study please email us at <a href="mailto:hello@projectnightingale.org">hello@projectnightingale.org</a>
     and we’ll be happy to help in any way we can.
   headline: Frequently asked questions
