@@ -145,7 +145,8 @@ page_sections:
     affect of my menstrual cycle, how can I capture where in my cycle I am?</strong>
     Please use the Notes section within the "Profile" tab to capture this information.<br>If
     you have any general questions about the study please email us at <a href="mailto:hello@projectnightingale.org">hello@projectnightingale.org</a>
-    and we’ll be happy to help in any way we can.
+    and we’ll be happy to help in any way we can. You can also visit the "FAQ" section
+    of our website for more information.
   headline: Frequently asked questions
   textAlignment: left
   headerColor: "#F5A623"
