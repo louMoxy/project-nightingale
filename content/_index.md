@@ -81,6 +81,15 @@ page_sections:
   size: '600'
 - template: 1-column-text
   block: one-column-1
+  alignment: left
+  textAlignment: left
+  has_padding: true
+  content: "<em>[Please note that the above video was recorded back in 2018, when
+    we launched the project in collaboration with a different app provider - umotif.
+    We have now migrated to the My Arthritis app, for the next phase of the project]
+    </em>"
+- template: 1-column-text
+  block: one-column-1
   alignment: centered
   has_padding: true
   content: It’s simple – join the study via the My Arthritis app and record a few
