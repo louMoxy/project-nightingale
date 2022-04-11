@@ -7,6 +7,30 @@ page_sections:
   alignment: left
   textAlignment: left
   has_padding: true
+  headline: Project Nightingale x My Arthritis App
+  headerColor: "#36E4DA"
+  content: Project Nightingale was launched in 2018 by the Royal National Hospital
+    for Rheumatic Diseases (RNHRD) in Bath, and is now entering an exciting new phase
+    in collaboration with social purpose company Ampersand Health and the existing
+    My Arthritis app!<br><br>Project Nightingale allows people with axial spondyloarthritis
+    (axSpA) to track daily symptoms and behaviour via a smartphone app. You can log
+    how you are feeling on a day-to-day basis using trackers, and then view your logged
+    symptoms over time via a graph. This provides you with a detailed record of how
+    you have been feeling over time and can help you gain a better understanding of
+    your symptoms and how they fluctuate. The app will allow you to connect your wearable
+    device if you have one. If you are consented to the Bath Spondyloarthritis Research
+    Biobank, this unique data can then be used for research into axSpA, to help us
+    gain a better understanding of the condition.<br><br>Visit our <a href="https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpublications.ampersandhealth.co.uk%2Fview%2F472283392%2F&amp;data=04%7C01%7Crlb60%40bath.ac.uk%7Caf1aa8a4dfa94cd13f8f08d9e18677f0%7C377e3d224ea1422db0ad8fcc89406b9e%7C0%7C0%7C637788789951521814%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&amp;sdata=PUTABizZq4MVQ32bFhFZtwfR5UsIqHcWf1YngN2FPJs%3D&amp;reserved=0"><strong>online
+    brochure</strong></a> to find out more!
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/pn-placeholder-shrunken-2.png"
+  width: '800'
+- template: 1-column-text
+  block: one-column-1
+  alignment: left
+  textAlignment: left
+  has_padding: true
   headline: Project Nightingale April 2022 update pending!
   headerColor: "#B8E986"
   content: 'We are excited to be launching a new Project Nightingale x My Arthritis
@@ -64,10 +88,6 @@ page_sections:
   block: media-1
   width: '800'
   image: "/uploads/logo-516c18ef04e0eead60f85595d9f8b56a.png"
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/cropped-green-motif-in-hand-android-swipe-sml_preview1.png"
-  width: '600'
 - template: 1-column-text
   block: one-column-1
   content: We recognise that people with Axial Spondyloarthritis (axSpA) may only
@@ -99,14 +119,14 @@ page_sections:
   block: one-column-1
   alignment: centered
   has_padding: true
-  content: It’s simple – join the study via the uMotif app and record a few bits of
-    information each day to track your symptoms and movement. If you have a wearable
-    device (like a FitBit/Apple Watch), the app will connect with it and automatically
-    track sleep and exercise data. Currently, data recorded relating specifically
-    to a patient’s quality of life – i.e. work, sleep, exercise and flares, is poorly
-    recorded and can be subjective and prone to recall bias (a patient trying to remember
-    how their sleep has been affected over the last year, how many flares they have
-    had etc). This app makes it easy!
+  content: It’s simple – join the study via the My Arthritis app and record a few
+    bits of information each day to track your symptoms and movement. If you have
+    a wearable device (like a FitBit/Apple Watch), the app will connect with it and
+    automatically track sleep and exercise data. Currently, data recorded relating
+    specifically to a patient’s quality of life – i.e. work, sleep, exercise and flares,
+    is poorly recorded and can be subjective and prone to recall bias (it can be difficult
+    to remember how your sleep has been affected over the last year, how many flares
+    you have had etc). This app makes it easy!
   headline: How does it work?
   headerColor: "#BD10E0"
   textAlignment: left
@@ -122,7 +142,7 @@ page_sections:
     – there is currently no end date for data entry! <strong>Please note:</strong>
     Only your consultant will be able to see individual-level data. However, by taking
     part, all data will be made anonymous to be used for research to help others with
-    Axial Spondyloarthritis.
+    axial spondyloarthritis.
   headline: How will the data be used?
   headerColor: "#D0021B"
   textAlignment: left
@@ -142,21 +162,25 @@ page_sections:
   block: one-column-1
   alignment: centered
   has_padding: true
-  content: <strong>Do I have to own a fitness device or fitness app to participate?</strong>
-    No, not at all. Any data that we can gather will prove useful so please do participate
-    even if you do not have access to a fitness app or device.<br><strong>Which apps
-    or devices are compatible with the UMotif app?</strong> Although you don’t have
-    to synchronise an app or device, there are many that are compatible should you
-    wish.<br><strong>Do I need to use the app regularly?</strong><br>Yes, please.
-    We’re hoping for a 3-month trial with as much data as possible so please complete
-    daily.<br><strong>Do I need to add my information at the same time each day?</strong>
-    Ideally yes so that we can see an patterns. If you’d like to complete the motif
-    retrospectively you can change the time of the entry during the update stage at
-    the bottom of the page.<br><strong>Will I be reminded to complete the app?</strong>
-    Yes reminders sent daily at 1830.<br><strong>If I’m tracking the affect of my
-    menstrual cycle, how can I capture where in my cycle I am?</strong> Please use
-    the daily diary to capture this information.<br>If you have any general questions
-    about the study please email us at <a href="mailto:hello@projectnightingale.org">hello@projectnightingale.org</a>
+  content: <strong>I was part of Project Nightingale when it was using the uMotif
+    app. Is there a way that I can migrate my historic data to My Arthritis? </strong>The
+    team at My Arthritis can absolutely try to migrate this for you! Please reach
+    out to <a href="mailto:hello@projectnightingale.org">hello@projectnightingale.org</a>
+    and one of our team will be in touch.<strong><br>Do I have to own a fitness device
+    or fitness app to participate?</strong> No, not at all. Any data that we can gather
+    will prove useful so please do participate even if you do not have access to a
+    fitness app or device.<br><strong>Which apps or devices are compatible with the
+    My Arthritis app?</strong> Although you don’t have to synchronise an app or device,
+    there are many that are compatible should you wish.<br><strong>Do I need to use
+    the app regularly?</strong><br>Yes, please. We’re hoping for a 3-month trial with
+    as much data as possible so please complete daily.<br><strong>Do I need to add
+    my information at the same time each day?</strong> Ideally yes so that we can
+    see an patterns. If you’d like to complete the motif retrospectively you can change
+    the time of the entry during the update stage at the bottom of the page.<br><strong>Will
+    I be reminded to complete the app?</strong> Yes reminders sent daily at 1830.<br><strong>If
+    I’m tracking the affect of my menstrual cycle, how can I capture where in my cycle
+    I am?</strong> Please use the daily diary to capture this information.<br>If you
+    have any general questions about the study please email us at <a href="mailto:hello@projectnightingale.org">hello@projectnightingale.org</a>
     and we’ll be happy to help in any way we can.
   headline: Frequently asked questions
   textAlignment: left
