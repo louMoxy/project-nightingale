@@ -10,8 +10,8 @@ page_sections:
   headline: Project Nightingale x My Arthritis App
   headerColor: "#36E4DA"
   content: Project Nightingale was launched in 2018 by the Royal National Hospital
-    for Rheumatic Diseases (RNHRD) in Bath, and is now entering an exciting new phase
-    in collaboration with social purpose company Ampersand Health and the existing
+    for Rheumatic Diseases (RNHRD, RUH) in Bath, and is now entering an exciting new
+    phase in collaboration with social purpose company Ampersand Health and the existing
     <a href="https://ampersandhealth.co.uk/my-arthritis/" title="">My Arthritis app</a>!<br><br>Project
     Nightingale allows people with axial spondyloarthritis (axSpA) to track daily
     symptoms and behaviour via a smartphone app. You can log how you are feeling on
