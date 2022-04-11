@@ -20,68 +20,31 @@ page_sections:
     your symptoms and how they fluctuate. The app will allow you to connect your wearable
     device if you have one. If you are consented to the Bath Spondyloarthritis Research
     Biobank, this unique data can then be used for research into axSpA, to help us
-    gain a better understanding of the condition.<br><br>Visit our <a href="https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpublications.ampersandhealth.co.uk%2Fview%2F472283392%2F&amp;data=04%7C01%7Crlb60%40bath.ac.uk%7Caf1aa8a4dfa94cd13f8f08d9e18677f0%7C377e3d224ea1422db0ad8fcc89406b9e%7C0%7C0%7C637788789951521814%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&amp;sdata=PUTABizZq4MVQ32bFhFZtwfR5UsIqHcWf1YngN2FPJs%3D&amp;reserved=0"><strong>online
+    gain a better understanding of the condition.<br><br>My Arthritis also offers
+    three engaging and interactive 14-day courses, made specifically for those living
+    with inflammatory arthritis, led by experts who understand what life with arthritis
+    is really like. You can even try an Acceptance and Commitment Therapy (ACT) or
+    General Wellbeing course via the app, to help cope with your symptoms.<br><br>Visit
+    our <a href="https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpublications.ampersandhealth.co.uk%2Fview%2F472283392%2F&amp;data=04%7C01%7Crlb60%40bath.ac.uk%7Caf1aa8a4dfa94cd13f8f08d9e18677f0%7C377e3d224ea1422db0ad8fcc89406b9e%7C0%7C0%7C637788789951521814%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&amp;sdata=PUTABizZq4MVQ32bFhFZtwfR5UsIqHcWf1YngN2FPJs%3D&amp;reserved=0"><strong>online
     brochure</strong></a> to find out more!
 - template: full-width-media-element
   block: media-1
   image: "/uploads/pn-placeholder-shrunken-2.png"
   width: '800'
-- template: 1-column-text
-  block: one-column-1
-  alignment: left
-  textAlignment: left
-  has_padding: true
-  headline: Project Nightingale April 2022 update pending!
-  headerColor: "#B8E986"
-  content: 'We are excited to be launching a new Project Nightingale x My Arthritis
-    collaboration with social purpose company Ampersand Health, on Monday 11th April
-    - watch this space for more updates! <br><br>In the meantime, you can sign-up
-    for our Welcome Event here: <a href="https://www.eventbrite.co.uk/e/welcome-event-project-nightingale-my-arthritis-app-tickets-302573695067"
-    title="https://www.eventbrite.co.uk/e/welcome-event-project-nightingale-my-arthritis-app-tickets-302573695067">https://www.eventbrite.co.uk/e/welcome-event-project-nightingale-my-arthritis-app-tickets-302573695067</a><br><br>You
-    can look forward to…<br>→ Meeting the team behind Project Nightingale and My Arthritis<br>→
-    Learning more about the background/research behind the project<br>→ A Physiotherapist-led
-    stretch!<br>→ A chance to ask your questions!<br><br>We look forward to meeting
-    all of you at this event, please make sure to register today!<br><br>Sincerely,<br>The
-    Team at Project Nightingale and My Arthritis'
 - template: full-width-media-element
   block: media-1
-  image: "/uploads/https___cdn-evbuc-com_images_251273259_488397188211_1_original.png"
-  width: '700'
+  width: '350'
+  image: "/uploads/set-up-guide-2.png"
 - template: 1-column-text
   block: one-column-1
   alignment: left
   textAlignment: left
   has_padding: true
-  headline: Project Nightingale December 2021 update!
-  headerColor: "#36E4DA"
-  content: Thank you for visiting our website, and for your interest in Project Nightingale.
-    Unfortunately, our contract with umotif (the current app provider) is coming to
-    an end on 31st December 2021. However, our team are working hard to migrate to
-    a new app, which we hope to release at the end of this year, or early next year.
-    We are currently in the contracting phase with the new app provider, and are designing
-    the look of the new symptom scales based on feedback from potential users (via
-    an online survey!). We are really excited about this new phase of the project,
-    and hope to have some updates for you soon! <br><br>If you would like to find
-    out more about the new app, or migrate your existing umotif data, please reach
-    out to <a href="mailto:hello@projectnightingale.org">hello@projectnightingale.org</a>
-    and one of our team will be in touch. You can also use the box below to enter
-    your email so that we can reach out to you regarding any Project Nightingale-related
-    updates.<br><br>In the meantime, if you are new to Project Nightingale, please
-    see the sections below to find out more about the history of the study, and our
-    prior collaboration with umotif. We also have various other website pages for
-    you to explore - including information on upcoming Facebook Live talks by the
-    <a href="https://nass.co.uk/" title="">National Axial Spondyloarthritis Society</a>
-    (see "<a href="https://www.projectnightingale.org/events/" title="">Events</a>"
-    tab above), and a <a href="https://www.projectnightingale.org/blogs/" title="">blog</a>
-    section where we post various axial spondyloarthritis research updates. You can
-    also find all our Project Nightingale scientific conference abstracts and publications
-    on the "<a href="https://www.projectnightingale.org/publications/" title="">Publications</a>"
-    tab. Our first full Project Nightingale scientific manuscript was published just
-    last month.<br><br>To our existing Project Nightingale participants, thank you
-    for your patience while we undergo this migration and apologies for any potential
-    disruption in your logging. If you have any queries, please email <a href="mailto:hello@projectnightingale.org">hello@projectnightingale.org</a>
-    and we will get back to you as soon as we can. Thank you for all your efforts!<br><br>All
-    the best, <br>The Project Nightingale Team
+  headline: Sign-up for Project Nightingale updates!
+  headerColor: "#4A90E2"
+  content: Would you like to stay up-to-date with Project Nightingale-related news
+    and research? Please enter your email into the sign-up box below and one of the
+    team will be in touch.
 - template: signup-bar
   block: cta-bar
 - template: full-width-media-element
@@ -90,22 +53,16 @@ page_sections:
   image: "/uploads/logo-516c18ef04e0eead60f85595d9f8b56a.png"
 - template: 1-column-text
   block: one-column-1
+  alignment: centered
   content: We recognise that people with Axial Spondyloarthritis (axSpA) may only
     have a 15-minute appointment when they visit the hospital for their check-up.
     These meetings are likely to focus on medication and trying to prevent the condition
     from progressing, rather than quality of life and wellbeing. Introducing…the <strong>‘Nightingale’</strong>
-    study.
-  alignment: left
-  has_padding: true
-  textAlignment: left
-- template: 1-column-text
-  block: one-column-1
-  alignment: centered
-  content: The Nightingale study is designed to empower people with axSpA to take
-    control of their symptoms and improve their quality of life. Not only will the
-    data gathered help consultants to help patients manage their condition, but they
-    will be able to see their own ‘real time’ data on factors that may influence these
-    symptoms, allowing a level of self-management.<br>
+    study.<br><br>The Nightingale study is designed to empower people with axSpA to
+    take control of their symptoms and improve their quality of life. Not only will
+    the data gathered help consultants to help patients manage their condition, but
+    they will be able to see their own ‘real time’ data on factors that may influence
+    these symptoms, allowing a level of self-management.<br>
   headline: What is it?
   headerColor: "#4A90E2"
   has_padding: true
@@ -189,5 +146,6 @@ page_sections:
   block: media-1
   image: "/uploads/screenshot-www1-projectnightingale-org-2020-09-09-11_46_05.png"
   width: '800'
+draft: true
 
 ---
