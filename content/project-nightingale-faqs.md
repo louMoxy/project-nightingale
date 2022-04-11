@@ -74,7 +74,7 @@ textColor = ""
 [[page_sections]]
 alignment = "left"
 block = "one-column-1"
-content = "If there is an event you feel worthy of capturing as you feel it may have impacted your results, please capture it in the Daily Diary on the home page. This might include an accident you had or an event you attended. For those of you tracking your menstrual cycle you may like to include where in your cycle you are here.<br>"
+content = "If there is an event you feel worthy of capturing as you feel it may have impacted your results, please capture it in the Notes section, accessible from the Profile tab. This might include an accident you had, a day missed from work due to axSpA symptoms, or an event you attended. For those of you tracking your menstrual cycle you may like to include where in your cycle you are here.<br>"
 has_padding = true
 headerColor = "#F4A113"
 headline = "Is there some where I can add any comments I have about my day?"
