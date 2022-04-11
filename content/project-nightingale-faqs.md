@@ -84,16 +84,6 @@ textColor = ""
 [[page_sections]]
 alignment = "left"
 block = "one-column-1"
-content = "You can enter motif data retrospectively. Once you have added your results to the motif, click on the ‘today’ tab at the bottom of screen and choose the day / time you are adding the information for.<br>"
-has_padding = true
-headerColor = "#7546DE"
-headline = "Can I enter data retrospectively?"
-template = "1-column-text"
-textAlignment = "left"
-textColor = ""
-[[page_sections]]
-alignment = "left"
-block = "one-column-1"
 content = "The app does send one automatic reminder to your message inbox daily, but of course you can set up individual reminders on your mobile device if that helps.<br>"
 has_padding = true
 headerColor = "#50E3C2"
