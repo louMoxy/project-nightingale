@@ -9,29 +9,30 @@ page_sections:
   has_padding: true
   headline: Project Nightingale x My Arthritis App
   headerColor: "#36E4DA"
-  content: 'Project Nightingale was launched in 2018 by the Royal National Hospital
+  content: Project Nightingale was launched in 2018 by the Royal National Hospital
     for Rheumatic Diseases (RNHRD) in Bath, and is now entering an exciting new phase
     in collaboration with social purpose company Ampersand Health and the existing
-    My Arthritis app!<br><br>Project Nightingale allows people with axial spondyloarthritis
-    (axSpA) to track daily symptoms and behaviour via a smartphone app. You can log
-    how you are feeling on a day-to-day basis using trackers, and then view your logged
-    symptoms over time via a graph. This provides you with a detailed record of how
-    you have been feeling over time and can help you gain a better understanding of
-    your symptoms and how they fluctuate. The app will also allow you to connect your
-    wearable device if you have one. If you are consented to the Bath Spondyloarthritis
-    Research Biobank, this unique data can then be used for research into axSpA, to
-    help us gain a better understanding of the condition.<br><br>My Arthritis also
-    offers three engaging and interactive 14-day courses, made specifically for those
-    living with inflammatory arthritis, led by experts who understand what life with
-    arthritis is really like. You can even try an Acceptance and Commitment Therapy
-    (ACT) or General Wellbeing course via the app, to help cope with your symptoms.<br><br>We
-    really do see development of the project as a collaborative process - those of
-    you living with axSpA are of course the experts, and we want to learn from you.
-    So please do get in touch via email to <a href="mailto:hello@projectnightingale.org">hello@projectnightingale.org</a>
+    <a href="https://ampersandhealth.co.uk/my-arthritis/" title="">My Arthritis app</a>!<br><br>Project
+    Nightingale allows people with axial spondyloarthritis (axSpA) to track daily
+    symptoms and behaviour via a smartphone app. You can log how you are feeling on
+    a day-to-day basis using trackers, and then view your logged symptoms over time
+    via a graph. This provides you with a detailed record of how you have been feeling
+    over time and can help you gain a better understanding of your symptoms and how
+    they fluctuate. The app will also allow you to connect your wearable device if
+    you have one. If you are consented to the Bath Spondyloarthritis Research Biobank,
+    this unique data can then be used for research into axSpA, to help us gain a better
+    understanding of the condition.<br><br>My Arthritis also offers three engaging
+    and interactive 14-day courses, made specifically for those living with inflammatory
+    arthritis, led by experts who understand what life with arthritis is really like.
+    You can even try an Acceptance and Commitment Therapy (ACT) or General Wellbeing
+    course via the app, to help cope with your symptoms.<br><br>We really do see development
+    of the project as a collaborative process - those of you living with axSpA are
+    of course the experts, and we want to learn from you. So please do get in touch
+    via email to <a href="mailto:hello@projectnightingale.org">hello@projectnightingale.org</a>
     if you have any ideas for app content that you want to see, or any community events
     that you would like us to put on in future.<br><br>Visit our <a href="https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpublications.ampersandhealth.co.uk%2Fview%2F472283392%2F&amp;data=04%7C01%7Crlb60%40bath.ac.uk%7Caf1aa8a4dfa94cd13f8f08d9e18677f0%7C377e3d224ea1422db0ad8fcc89406b9e%7C0%7C0%7C637788789951521814%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&amp;sdata=PUTABizZq4MVQ32bFhFZtwfR5UsIqHcWf1YngN2FPJs%3D&amp;reserved=0"><strong>online
     brochure</strong></a> to find out more.<br><br>We look forward to hearing from
-    you! '
+    you!
 - template: full-width-media-element
   block: media-1
   image: "/uploads/pn-placeholder-shrunken-2.png"
