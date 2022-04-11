@@ -54,7 +54,7 @@ textColor = ""
 [[page_sections]]
 alignment = "left"
 block = "one-column-1"
-content = "The data you enter will be captured and can be seen from the ‘My Data’ tab on the home page. If you have paired a device or activated Apple Health Kit please check My Data after 24 hours to ensure that your activity is being shown.<br>"
+content = "The data you enter will be captured and can be seen from the ‘Stats’ tab on the home page. <br>"
 has_padding = true
 headerColor = "#F78DA7"
 headline = "Where can I see the data I have entered?"
