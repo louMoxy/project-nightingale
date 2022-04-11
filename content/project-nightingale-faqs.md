@@ -34,7 +34,7 @@ textColor = ""
 [[page_sections]]
 alignment = "left"
 block = "one-column-1"
-content = "In short, no. The fitness information will be incredibly useful but if you don’t own a device or app, please join anyway. The information you can provide on the motif and daily questionnaire will be extremely valuable as it is.<br>"
+content = "In short, no. The fitness information will be incredibly useful but if you don’t own a device or app, please join anyway. The information you can provide on the feelings and daily questionnaire will be extremely valuable as it is.<br>"
 has_padding = true
 headerColor = "#02D183"
 headline = "Do I have to use a fitness device to take part?"
