@@ -13,7 +13,7 @@ textColor = "#FFFFFF"
 [[page_sections]]
 alignment = "left"
 block = "one-column-1"
-content = "Thanks to the dedication of our brilliant Project Nightingale participants, we now have a dataset of daily self-reported symptoms and behaviours for approximately 200 people with axial SpA. And the dataset just keeps growing! In 2021, we will be coming up to our fourth year of the project and are excited for what's to come. On this page, you can stay up to date with all of our currently published articles. Although there may not be too many at the moment, we have a team of researchers currently working with the data and have exciting results hopefully coming soon."
+content = "Thanks to the dedication of our brilliant Project Nightingale participants, we now have a dataset of daily self-reported symptoms and behaviours for approximately 200 people with axial SpA. And the dataset just keeps growing! In 2022, we will be entering our fourth year of the project and are excited for what's to come. On this page, you can stay up to date with all of our currently published articles. Although there may not be too many at the moment, we have a team of researchers currently working with the data and have exciting results hopefully coming soon."
 has_padding = true
 headerColor = "#F5A623"
 headline = "Research Overview"
