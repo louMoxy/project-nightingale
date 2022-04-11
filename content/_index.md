@@ -139,16 +139,12 @@ page_sections:
     will prove useful so please do participate even if you do not have access to a
     fitness app or device.<br><strong>Which apps or devices are compatible with the
     My Arthritis app?</strong> Although you don’t have to synchronise an app or device,
-    there are many that are compatible should you wish.<br><strong>Do I need to use
-    the app regularly?</strong><br>Yes, please. We’re hoping for a 3-month trial with
-    as much data as possible so please complete daily.<br><strong>Do I need to add
-    my information at the same time each day?</strong> Ideally yes so that we can
-    see an patterns. If you’d like to complete the motif retrospectively you can change
-    the time of the entry during the update stage at the bottom of the page.<br><strong>Will
-    I be reminded to complete the app?</strong> Yes reminders sent daily at 1830.<br><strong>If
-    I’m tracking the affect of my menstrual cycle, how can I capture where in my cycle
-    I am?</strong> Please use the daily diary to capture this information.<br>If you
-    have any general questions about the study please email us at <a href="mailto:hello@projectnightingale.org">hello@projectnightingale.org</a>
+    there are many that are compatible should you wish.<br><strong>Will I be reminded
+    to complete the app?</strong> Yes, reminders will be sent daily via email and
+    the Messages section, within the "Profile" tab.<br><strong>If I’m tracking the
+    affect of my menstrual cycle, how can I capture where in my cycle I am?</strong>
+    Please use the Notes section withini the "Profile" tab to capture this information.<br>If
+    you have any general questions about the study please email us at <a href="mailto:hello@projectnightingale.org">hello@projectnightingale.org</a>
     and we’ll be happy to help in any way we can.
   headline: Frequently asked questions
   textAlignment: left
