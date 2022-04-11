@@ -61,7 +61,7 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   alignment: centered
-  content: We recognise that people with Axial Spondyloarthritis (axSpA) may only
+  content: 'We recognise that people with Axial Spondyloarthritis (axSpA) may only
     have a 15-minute appointment when they visit the hospital for their check-up.
     These meetings are likely to focus on medication and trying to prevent the condition
     from progressing, rather than quality of life and wellbeing. Introducing…the <strong>‘Nightingale’</strong>
@@ -69,7 +69,10 @@ page_sections:
     take control of their symptoms and improve their quality of life. Not only will
     the data gathered help consultants to help patients manage their condition, but
     they will be able to see their own ‘real time’ data on factors that may influence
-    these symptoms, allowing a level of self-management.<br>
+    these symptoms, allowing a level of self-management.<br><br><em>[Please note that
+    the below video was recorded back in 2018, when we launched the project in collaboration
+    with a different app provider - umotif. We have now migrated to the My Arthritis
+    app, for the next phase of the project] </em>  '
   headline: What is it?
   headerColor: "#4A90E2"
   has_padding: true
@@ -79,15 +82,6 @@ page_sections:
   width: 600
   url: WO_geRRTZgA
   size: '600'
-- template: 1-column-text
-  block: one-column-1
-  alignment: left
-  textAlignment: left
-  has_padding: true
-  content: "<em>[Please note that the above video was recorded back in 2018, when
-    we launched the project in collaboration with a different app provider - umotif.
-    We have now migrated to the My Arthritis app, for the next phase of the project]
-    </em>"
 - template: 1-column-text
   block: one-column-1
   alignment: centered
