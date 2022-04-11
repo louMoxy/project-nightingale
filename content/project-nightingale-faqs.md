@@ -24,7 +24,7 @@ textColor = ""
 [[page_sections]]
 alignment = "left"
 block = "one-column-1"
-content = "If you complete these once a day, at the same sort of time each day, that will ensure we have consistent results. You can, of course, complete more than once a day if you feel it appropriate."
+content = "If you complete these once a day, at the same sort of time each day, that will ensure we have consistent results. You can, of course, complete more than once a day if you feel it appropriate. If you miss a day, or even a few weeks or months, do not worry! Any data that you can provide will be useful."
 has_padding = true
 headerColor = "#4A90E2"
 headline = "How often do I use the app?"
