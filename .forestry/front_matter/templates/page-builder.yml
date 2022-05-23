@@ -30,6 +30,7 @@ fields:
   - 2-column-media-element
   - signup-bar
   - embed-youtube
+  - embed-vimeo
 pages:
 - content/blogs/2020-a-year-in-axspa-research-part-five.md
 - content/blogs/2020-a-year-in-axspa-research-part-four-introducing-our-new-research-assistant.md
