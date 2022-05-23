@@ -62,5 +62,10 @@ caption = ""
 image = "/uploads/nass.png"
 template = "full-width-media-element"
 width = "600"
+[[page_sections]]
+block = "embed-vimeo"
+iframe = "<iframe src=\"https://player.vimeo.com/video/635750317?h=d91b0dd984&color=27d488\" width=\"640\" height=\"268\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" allowfullscreen></iframe> <p><a href=\"https://vimeo.com/635750317\">SOUVENIRS</a> from <a href=\"https://vimeo.com/andrewtheodorebalasia\">Andrew Theodore Balasia</a> on <a href=\"https://vimeo.com\">Vimeo</a>.</p>"
+template = "embed-vimeo"
+width = 600
 
 +++
