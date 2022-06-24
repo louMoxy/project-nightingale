@@ -130,21 +130,17 @@ page_sections:
   block: one-column-1
   alignment: centered
   has_padding: true
-  content: <strong>I was part of Project Nightingale when it was using the uMotif
-    app. Is there a way that I can migrate my historic data to My Arthritis? </strong>The
-    team at My Arthritis can absolutely try to migrate this for you! Please reach
-    out to <a href="mailto:hello@projectnightingale.org">hello@projectnightingale.org</a>
-    and one of our team will be in touch.<strong><br>Do I have to own a fitness device
-    or fitness app to participate?</strong> No, not at all. Any data that we can gather
-    will prove useful so please do participate even if you do not have access to a
-    fitness app or device.<br><strong>Which apps or devices are compatible with the
-    My Arthritis app?</strong> Although you don’t have to synchronise an app or device,
-    there are many that are compatible should you wish.<br><strong>Will I be reminded
-    to complete the app?</strong> Yes, reminders will be sent daily via email and
-    the Messages section, within the "Profile" tab. <br><strong>If I’m tracking the
-    affect of my menstrual cycle, how can I capture where in my cycle I am?</strong>
-    Please use the Notes section within the "Profile" tab to capture this information.<br>If
-    you have any general questions about the study please email us at <a href="mailto:hello@projectnightingale.org">hello@projectnightingale.org</a>
+  content: <strong>Do I have to own a fitness device or fitness app to participate?</strong>
+    No, not at all. Any data that we can gather will prove useful so please do participate
+    even if you do not have access to a fitness app or device.<br><strong>Which apps
+    or devices are compatible with the My Arthritis app?</strong> Although you don’t
+    have to synchronise an app or device, there are many that are compatible should
+    you wish.<br><strong>Will I be reminded to complete the app?</strong> Yes, reminders
+    will be sent daily via email and the Messages section, within the "Profile" tab.
+    <br><strong>If I’m tracking the affect of my menstrual cycle, how can I capture
+    where in my cycle I am?</strong> Please use the Notes section within the "Profile"
+    tab to capture this information.<br>If you have any general questions about the
+    study please email us at <a href="mailto:hello@projectnightingale.org">hello@projectnightingale.org</a>
     and we’ll be happy to help in any way we can. You can also visit the "FAQ" section
     of our website for more information.
   headline: Frequently asked questions
