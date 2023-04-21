@@ -18,14 +18,6 @@ page_sections:
     to improve the management of axial spondyloarthritis (axSpA).<br><br>Thank you
     again to all of our participants.<br><br>Sincerely,<br>The Project Nightingale
     Team
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/pn-placeholder-shrunken-2.png"
-  width: '800'
-- template: full-width-media-element
-  block: media-1
-  width: '350'
-  image: "/uploads/set-up-guide-2.png"
 - template: 1-column-text
   block: one-column-1
   alignment: left
