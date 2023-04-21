@@ -13,19 +13,13 @@ textColor = "#FFFFFF"
 [[page_sections]]
 alignment = "left"
 block = "one-column-1"
-content = "Please see our 10-minute guide to getting set up below!<br><br>If you have participated in Project Nightingale since we were using the umotif app, you may also find the following <a href=\"https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpublications.ampersandhealth.co.uk%2Fview%2F472671110%2F&amp;data=04%7C01%7Crlb60%40bath.ac.uk%7Caf1aa8a4dfa94cd13f8f08d9e18677f0%7C377e3d224ea1422db0ad8fcc89406b9e%7C0%7C0%7C637788789951834244%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&amp;sdata=h39GJwBiD0rMi2NujU6%2Bd6l%2BbJjInXZZUBi%2F0AYD%2FmU%3D&amp;reserved=0\">online brochure</a> useful. Thank you so much for your ongoing participation!"
+content = "Thank you so much to everyone who has participated in Project Nightingale. As of 2023, data collection for Project Nightingale is now on pause. We will continue to focus our efforts on optimizing a new data collection platform, to improve the experience for our participants. <br><br>The data that has been gathered as part of Project Nightingale will continue to improve our understanding of the condition. We feel passionately that in future, such work will ultimately help to improve the management of axial spondyloarthritis (axSpA).<br><br>Thank you again to all of our participants.<br><br>Sincerely,<br>The Project Nightingale Team"
 has_padding = true
 headerColor = ""
-headline = ""
+headline = "*** Project Nightingale 2023 Update ***"
 template = "1-column-text"
 textAlignment = "left"
 textColor = ""
-[[page_sections]]
-block = "media-1"
-caption = ""
-image = "/uploads/set-up-guide-2.png"
-template = "full-width-media-element"
-width = "350"
 [[page_sections]]
 alignment = "left"
 block = "one-column-1"
